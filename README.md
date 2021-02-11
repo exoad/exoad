@@ -5,4 +5,4 @@
 I have been making 2d games based around simple FPS and self creation games, though all aren't great. My main language has mainly been C (with Objective C in mind). I have been focusing on 3D game design, and have been trying to publish many things on Github. My latest side project has been a source version of my discord
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&theme=blue-green)
-[![HitCount](http://hits.dwyl.io/exoad/badges.svg)](http://hits.dwyl.io/exoad/badges)
+[![Exoad's stats](https://github-readme-stats.vercel.app/api?username=exoad&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
