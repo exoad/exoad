@@ -28,3 +28,10 @@ Exo-add
 e-x-o-ad
 
 *Please don't*
+
+
+## Contacts for now
+
+Discord: exoad#4166
+
+...
