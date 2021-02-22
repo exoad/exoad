@@ -16,10 +16,14 @@ AD
 
 = Exoad
 Or you can just do xohd = exoad
+
 **Do not**
 Exodad
+
 Exad
+
 Exo-add
+
 e-x-o-ad
 
 *Please don't*
