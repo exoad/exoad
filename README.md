@@ -17,7 +17,8 @@ AD
 = Exoad
 Or you can just do xohd = exoad
 
-**Do not**
+**Do nots**
+
 Exodad
 
 Exad
