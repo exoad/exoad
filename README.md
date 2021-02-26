@@ -8,7 +8,7 @@ I have been making 2d games based around simple FPS and self creation games, tho
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&theme=calm)
 [![Exoad's stats](https://github-readme-stats.vercel.app/api?username=exoad&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-# How to pronounce my name
+### How to pronounce my name
 X
 
 OH
