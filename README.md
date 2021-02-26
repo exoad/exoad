@@ -1,4 +1,4 @@
-### Hello bud
+# ☕ Hello bud
 [![GitHub followers](https://img.shields.io/github/followers/exoad?style=for-the-badge)](https://github.com/exoad?tab=followers)
 [![Exoad's Den](https://img.shields.io/discord/792194075599568926?style=for-the-badge)](https://discord.gg/akrWKWeN)
 ![My reddit](https://img.shields.io/reddit/user-karma/link/Chunkyfungus123?style=for-the-badge)
