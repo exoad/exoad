@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/exoad?style=for-the-badge)](https://github.com/exoad?tab=followers)
 [![Exoad's Den](https://img.shields.io/discord/792194075599568926?style=for-the-badge)](https://discord.gg/akrWKWeN)
 
-I have been making 2d games based around simple FPS and self creation games, though all aren't great. My main language has mainly been C (with Objective C in mind). I have been focusing on 3D game design, and have been trying to publish many things on Github. My latest side project has been a source version of my discord
+I am mentally insane. Best to stay far.
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&theme=calm)
 [![Exoad's stats](https://github-readme-stats.vercel.app/api?username=exoad&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
