@@ -1,7 +1,9 @@
 # 🍵 Hello bud
 [![GitHub followers](https://img.shields.io/github/followers/exoad?style=for-the-badge)](https://github.com/exoad?tab=followers)
 
+
 [![Exoad's Den](https://img.shields.io/discord/792194075599568926?style=for-the-badge)](https://discord.gg/akrWKWeN)
+
 
 I am mentally insane. Best to stay far.
 
