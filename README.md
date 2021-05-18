@@ -15,6 +15,14 @@ I don't know who I am.
 5. JavaScript (Web Development, Graphic Design, Networking, Cybersecurity)
 6. App Development (Game Engines, etc.)
 ```
+**Still Learning:**
+```
+1. C++
+2. Python (Machine Learning)
+3. App Development (Game Engines Indepth)
+4. Game Development (3D Games, using consistent engines)
+```
+
 
 :/
 
