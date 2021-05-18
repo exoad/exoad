@@ -6,7 +6,7 @@ Hi my name is Jack (Meng).
 ```
 I don't know who I am.
 ```
-**Skills:**
+**Abilities:**
 ```
 1. Java and/or Kotlin (App Development)
 2. C and/or C# (Competitive Programming, App Development, Cybersecurity)
