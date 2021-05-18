@@ -1,17 +1,20 @@
 # 🍵 Hello bud
-[![GitHub followers](https://img.shields.io/github/followers/exoad?style=for-the-badge)](https://github.com/exoad?tab=followers)
 
+Hi my name is Jack (Meng).
 
-[![Exoden](https://img.shields.io/discord/792194075599568926?style=for-the-badge)](https://discord.gg/QwNTcpyZbF)
-
-Hi my name is Jack (Meng). :D
-
-**I am good/decent at:**
-1. Java related
-2. C Related
+**Simple Bio:**
+```
+I don't know who I am.
+```
+**Skills:**
+```
+1. Java and/or Kotlin (App Development)
+2. C and/or C# (Competitive Programming, App Development, Cybersecurity)
 3. Competitive Programming (USACO Gold)
-4. Making simple 2D Games (Game Jams, etc.)
-5. Living
+4. Game Development (2D Games, Game Engine Development)
+5. JavaScript (Web Development, Graphic Design, Networking, Cybersecurity)
+6. App Development (Game Engines, etc.)
+```
 
 :/
 
