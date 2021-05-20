@@ -4,7 +4,8 @@ Hi my name is Jack (Meng).
 
 **Simple Bio:**
 ```
-I am someone who lives the same Universe as you (probably), located at the Virgo Supercluster at the "Local Group" and on some green, blueish rock in the Milky Way.
+I am someone who lives the same Universe as you (probably), located at the Virgo Supercluster at the "Local Group" 
+and on some green blueish rock in the Milky Way.
 ```
 **Abilities:**
 ```
