@@ -1,7 +1,9 @@
 # 🍵 Hello bud
 
 ## My Credentials:
+
 **Name** Jack (Meng)
+
 **Position** Student
 
 **Simple Bio:**
