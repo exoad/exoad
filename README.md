@@ -29,5 +29,8 @@ I am a student whom programs and write code for fun, and have been learning code
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&theme=calm)
 [![Exoad's stats](https://github-readme-stats.vercel.app/api?username=exoad&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
+**Contacts:**
+__Discord:__ exoad#4166
+__Email:__ [LIMITED]
 
 
