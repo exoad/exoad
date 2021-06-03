@@ -20,7 +20,7 @@ I am a student whom programs and write code for fun, and have been learning code
 **Still Learning:**
 ```
 1. C++ (Competitive Programming, App Development)
-2. AI-Development & Machine Learning ==> Python Packages
+2. AI-Development & Machine Learning ==> Lisp
 3. App Development (Game Engines Indepth) ==> New Mechanics
 4. Game Development (3D Games, using consistent engines) ==> New Mechanics, structural engine (using a "real" engine => Unreal or Unity)
 ```
