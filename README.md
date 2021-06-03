@@ -8,7 +8,7 @@ I am a student whom programs and write code for fun, and have been learning code
 ```
 **Abilities:**
 ```
-1. Java (App Development, Competitive Programming, Game Modding) ==> 2nd best lang.
+1. Java & Clojure (App Development, Competitive Programming, Game Modding) ==> 2nd best lang.
 2. C (Competitive Programming, App Development, Networking, Data Integrity) ==> My Best Lang.
 3. Competitive Programming (USACO Gold Div.)
 4. Game Development (2D Games, Game Engine Development) ==> VSCODE + Blender
