@@ -14,7 +14,7 @@ I am a student whom programs and write code for fun, and have been learning code
 4. Game Development (2D Games, Game Engine Development) ==> VSCODE + Blender
 5. JavaScript (Web Development, Graphic Design, Networking) ==> Still Learning
 6. App Development (Game Engines, etc.) ==> Android Apps / Kotlin
-7. CyberSecurity (Clojure, etc.) ==> Data Integrity & Data Management & Data Pipelines
+7. CyberSecurity (Clojure, etc.) ==> Data Integrity & Data Management & Data Pipelines (Encryption & Decryption)
 8. Web Design & Development ==> HTML, CSS, JS, &/or PHP
 ```
 **Still Learning:**
