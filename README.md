@@ -26,7 +26,7 @@ I am a student whom programs and write code for fun, and have been learning code
 ```
 
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&theme=calm)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&theme=calm&layout=compact)
 [![Exoad's stats](https://github-readme-stats.vercel.app/api?username=exoad&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 **Contacts:**
 [Click Here](https://linktr.ee/exoad)
