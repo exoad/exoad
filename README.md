@@ -30,8 +30,7 @@ I am a student whom programs and write code for fun, and have been learning code
 [![Exoad's stats](https://github-readme-stats.vercel.app/api?username=exoad&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 **Contacts:**
-__Discord:__ exoad#4166
-__Email:__ [LIMITED]
+[Click Here](https://linktr.ee/exoad)
 
 
          Atomsphere or Atmosphere
