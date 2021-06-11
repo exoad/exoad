@@ -1,4 +1,4 @@
-# 🍵 Hello bud
+# 🍵 Hallo.
 
 Hello, my name is **Jack** Meng.
 
