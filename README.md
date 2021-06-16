@@ -1,6 +1,6 @@
 # 🍵 Hallo.
 
-Hello, my name is **Jack** Meng.
+Hello, my name is **Jack** Meng. I make stupid projects and programs ;).
 
 **Simple Bio:**
 ```
