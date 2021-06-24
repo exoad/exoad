@@ -1,6 +1,7 @@
 # Site Settings
 header_pages:
 - html/Bio.html
+- html/Main.html
 
 
 style: dark
