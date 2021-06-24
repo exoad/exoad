@@ -1,4 +1,4 @@
-# [ Socials / Contacts ]
+# [ Socials ]
 LinkTree | [Click Here](https://linktr.ee/exoad)
 
 ___
@@ -12,21 +12,21 @@ ___
 <details>
     <summary>GitHub</summary>
 
-    <a>![Click Here](https://github.com/exoad)</a>
+    <a href="https://github.com/exoad">Click Here</a>
 </details>
 
 ___
 <details>
-  <summary>YouTube</summary>
+    <summary>YouTube</summary>
 
-    ![Click Here](https://www.youtube.com/channel/UCIfv7sIqmww_5Ggn9HOkbIg)
+    <a href="https://www.youtube.com/channel/UCIfv7sIqmww_5Ggn9HOkbIg">Click Here</a>
 </details>
 
 ___
 <details>
     <summary>Reddit</summary>
 
-    ![Click Here](https://www.reddit.com/user/Chunkyfungus123)
+    <a href="https://www.reddit.com/user/Chunkyfungus123">Click Here</a>
 </details>
 
 ___
@@ -34,7 +34,7 @@ ___
 <details>
     <summary>CodeChef</summary>
 
-    [Click Here](https://www.codechef.com/users/exoad)
+    <a href="https://www.codechef.com/users/exoad">Click Here</a>
 </details>
 ___
 

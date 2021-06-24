@@ -1,6 +1,6 @@
 # Site Settings
 header_pages:
-- README.md
+- mds/Main.md
 - mds/Bio.md
 - mds/Contacts.md
 
@@ -8,7 +8,7 @@ header_pages:
 style: dark
 listen_for_clients_preferred_style: true
 
-footer: 'Made by exoad | 2021'
+footer: 'Made by exoad | 2021 | Thanks for visiting! ;)'
 
 # Build settings
 markdown: kramdown
