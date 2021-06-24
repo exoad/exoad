@@ -1,10 +1,10 @@
 # Site Settings
 title: "Main"
 header_pages:
-- exoad/index.html
-- exoad/html/Abilities.html
-- exoad/html/Bio.html
-- exoad/html/Contact.html
+- index.html
+- /html/Abilities.html
+- /html/Bio.html
+- /html/Contact.html
 
 style: dark
 listen_for_clients_preferred_style: true
