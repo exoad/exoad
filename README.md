@@ -26,7 +26,7 @@ I am a student whom programs and write code for fun, and have been learning code
 ```
 **Current Project | [Click Here](https://exoad.github.io/ClickGame/)**
 ```
-Working on ClickerGame - Remake
+Working on ClickerGame - Remake && Pages
 ```
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&theme=calm&layout=compact)
