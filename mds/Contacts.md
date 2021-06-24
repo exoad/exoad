@@ -12,7 +12,7 @@ ___
 <details>
     <summary>GitHub</summary>
 
-    ![Click Here](https://github.com/exoad)
+    <a>![Click Here](https://github.com/exoad)</a>
 </details>
 
 ___
