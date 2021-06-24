@@ -2,9 +2,9 @@
 title: "Main"
 header_pages:
 - index.html
-- /html/Abilities.html
-- /html/Bio.html
-- /html/Contact.html
+- html/Abilities.html
+- html/Bio.html
+- html/Contact.html
 
 style: dark
 listen_for_clients_preferred_style: true
