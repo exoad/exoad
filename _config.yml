@@ -3,6 +3,8 @@ header_pages:
 - mds/Main.md
 - mds/Bio.md
 - mds/Contacts.md
+- mds/Current.md
+- mds/Learning.md
 
 
 style: dark
