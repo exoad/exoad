@@ -1,10 +1,10 @@
 # Site Settings
 title: "Main"
 header_pages:
-- mds/Main.md
-- mds/Contacts.md
-- mds/Bio.md
-- mds/Abilities.md
+- exoad/index.html
+- exoad/html/Abilities.html
+- exoad/html/Bio.html
+- exoad/html/Contact.html
 
 style: dark
 listen_for_clients_preferred_style: true
