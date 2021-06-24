@@ -1,15 +1,15 @@
 # Site Settings
-title: "Main"
-header_pages:
-- index.html
-- html/Abilities.html
-- html/Bio.html
-- html/Contact.html
+#title: "Main"
+#header_pages:
+#- index.html
+#- htm/Abilities.html
+#- html/Bio.html
+#- html/Contact.html
 
-style: dark
-listen_for_clients_preferred_style: true
+#style: dark
+#listen_for_clients_preferred_style: true
 
-footer: 'Made by exoad | 2021 | Thanks for visiting! ;)'
+#footer: 'Made by exoad | 2021 | Thanks for visiting! ;)'
 
 # Build settings
 markdown: kramdown
