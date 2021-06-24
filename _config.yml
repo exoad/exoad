@@ -1,8 +1,9 @@
 # Site Settings
 header_pages:
-- html/Main.html
-- html/Bio.html
-- html/Contacts.html
+- mds/Main.md
+- mds/Contacts.md
+- mds/Bio.md
+- mds/Abilities.md
 
 style: dark
 listen_for_clients_preferred_style: true
