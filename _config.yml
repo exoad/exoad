@@ -1,4 +1,5 @@
 # Site Settings
+title: "Main"
 header_pages:
 - mds/Main.md
 - mds/Contacts.md
