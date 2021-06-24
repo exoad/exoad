@@ -1,8 +1,8 @@
 # Site Settings
 header_pages:
-- html/Bio.html
 - html/Main.html
-
+- html/Bio.html
+- html/Contacts.html
 
 style: dark
 listen_for_clients_preferred_style: true
