@@ -3,8 +3,13 @@ header_pages:
 - mds/Main.md
 - mds/Bio.md
 - mds/Contacts.md
+<<<<<<< HEAD
 - mds/Current.md
 - mds/Learning.md
+=======
+- mds/Abilities.md
+
+>>>>>>> a21450fb3f524a3aa9965d0d4b8a376764fbe3de
 
 
 style: dark
