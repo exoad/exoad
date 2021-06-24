@@ -1,0 +1,5 @@
+Abilities: https://raw.githubusercontent.com/exoad/exoad/gh-pages/mds/Abilities.html
+CSS: https://raw.githubusercontent.com/exoad/exoad/gh-pages/ac/main.css
+Main: https://raw.githubusercontent.com/exoad/exoad/gh-pages/mds/Main.html
+Contacts: https://raw.githubusercontent.com/exoad/exoad/gh-pages/mds/Contacts.html
+Bio: https://raw.githubusercontent.com/exoad/exoad/gh-pages/mds/Bio.html
