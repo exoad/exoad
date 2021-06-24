@@ -1,2 +1,15 @@
+# Site Settings
+header_pages:
+- README.md
+- mds/Bio.md
+- mds/Contacts.md
 
-theme: jekyll-theme-tactile
+
+style: dark
+listen_for_clients_preferred_style: true
+
+footer: 'Made by exoad | 2021'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
