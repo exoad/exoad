@@ -1,14 +1,12 @@
 # Site Settings
-#header_pages:
-#- mds/Main.md
-#- mds/Bio.md
-#- mds/Contacts.md
+header_pages:
+- html/Bio.html
 
 
-#style: dark
-#listen_for_clients_preferred_style: true
+style: dark
+listen_for_clients_preferred_style: true
 
-#footer: 'Made by exoad | 2021 | Thanks for visiting! ;)'
+footer: 'Made by exoad | 2021 | Thanks for visiting! ;)'
 
 # Build settings
 markdown: kramdown
