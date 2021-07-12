@@ -9,7 +9,7 @@ header_pages:
 - mds/FAQ.md
 
 
-style: dark
+style: light
 listen_for_clients_preferred_style: true
 
 footer: 'Made by exoad | 2021 | Thanks for visiting! ;)'
