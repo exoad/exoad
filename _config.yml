@@ -8,6 +8,7 @@ header_pages:
 - mds/Current.md
 - mds/FAQ.md
 
+title: EXOAD
 
 style: dark
 listen_for_clients_preferred_style: true
