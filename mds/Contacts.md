@@ -1,4 +1,4 @@
-# [ Socials ]
+# [Socials]
 LinkTree | [Click Here](https://linktr.ee/exoad)
 
 ___
