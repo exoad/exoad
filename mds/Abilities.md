@@ -1,4 +1,4 @@
-# [ Abilities ]
+# [Abilities]
 Here is a simple list of things I can do with basic to advanced knowledge:
 ```
 1. Java & Clojure (App Development, Competitive Programming, Game Modding) ==> 2nd best lang.
