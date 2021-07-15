@@ -37,5 +37,10 @@ ___
     <a href="https://www.codechef.com/users/exoad">Click Here</a>
 </details>
 ___
+<details>
+    <summary>DEV.to</summary>
+    
+    <a href="https://dev.to/exoad">Click Here</a>
+</details>
 
 <<[More coming soon]>>
