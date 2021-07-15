@@ -36,12 +36,13 @@ ___
 
     <a href="https://www.codechef.com/users/exoad">Click Here</a>
 </details>
-___ 
+___
 
 <details>
     <summary>DEV.to</summary>
     
     <a href="https://dev.to/exoad">Click Here</a>
 </details>
+___
 
 <<[More coming soon]>>
