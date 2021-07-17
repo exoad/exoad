@@ -47,4 +47,12 @@ ___
 
 ___
 
+<details>
+    <summary>GitLab</summary>
+    
+    <a href="https://gitlab.com/exoad">Click Here</a>
+</details>
+
+___
+
 <<[More coming soon]>>
