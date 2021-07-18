@@ -6,6 +6,7 @@ ___
 <details>
   <summary>UtiliusMap</summary>
   
+  
   Link: [Click Here](https://github.com/exoad/UtilitiusMap)
   
   Status: **Closed**
@@ -19,6 +20,7 @@ ___
 <details>
   <summary>ClickGame</summary>
   
+  
   Link: [Click Here](https://github.com/exoad/ClickGame)
   
   Status: **Open**
@@ -31,6 +33,7 @@ ___
 
 <details>
   <summary>CodeHSSolutions</summary>
+  
   
   Link: [Click Here](https://github.com/exoad/codehssolutions)
   
