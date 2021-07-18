@@ -5,7 +5,7 @@ ___
 <details>
     <summary>Discord</summary>
 
-    <p>exoad [remastered]#9292</p>
+    <a>exoad [remastered]#9292</a>
 </details>
 
 ___
