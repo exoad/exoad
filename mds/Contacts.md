@@ -12,21 +12,21 @@ ___
 <details>
     <summary>GitHub</summary>
 
-    <a href="https://github.com/exoad">Click Here</a>
+    https://github.com/exoad
 </details>
 
 ___
 <details>
     <summary>YouTube</summary>
 
-    <a href="https://www.youtube.com/channel/UCIfv7sIqmww_5Ggn9HOkbIg">Click Here</a>
+    https://www.youtube.com/channel/UCIfv7sIqmww_5Ggn9HOkbIg
 </details>
 
 ___
 <details>
     <summary>Reddit</summary>
 
-    <a href="https://www.reddit.com/user/Chunkyfungus123">Click Here</a>
+    https://www.reddit.com/user/Chunkyfungus123
 </details>
 
 ___
@@ -34,7 +34,7 @@ ___
 <details>
     <summary>CodeChef</summary>
 
-    <a href="https://www.codechef.com/users/exoad">Click Here</a>
+    https://www.codechef.com/users/exoad
 </details>
 
 ___
@@ -42,7 +42,7 @@ ___
 <details>
     <summary>DEV.to</summary>
     
-    <a href="https://dev.to/exoad">Click Here</a>
+    https://dev.to/exoad
 </details>
 
 ___
@@ -50,7 +50,7 @@ ___
 <details>
     <summary>GitLab</summary>
     
-    <a href="https://gitlab.com/exoad">Click Here</a>
+    https://gitlab.com/exoad
 </details>
 
 ___
