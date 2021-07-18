@@ -7,7 +7,7 @@ ___
   <summary>UtiliusMap</summary>
   
   
-  Link: [Click Here](https://github.com/exoad/UtilitiusMap)
+  Link: https://github.com/exoad/UtilitiusMap
   
   Status: **Closed**
   
@@ -20,12 +20,13 @@ ___
 <details>
   <summary>ClickGame</summary>
   
-  
-  Link: [Click Here](https://github.com/exoad/ClickGame)
+  ```
+  Link: https://github.com/exoad/ClickGame
   
   Status: **Open**
   
   About: This is a simple program I made for my 2020-2021 final project at GNSHS. The final folder is the original project while the remake is, of course, the rework.
+  ```
   
 </details>
   
@@ -34,12 +35,13 @@ ___
 <details>
   <summary>CodeHSSolutions</summary>
   
-  
-  Link: [Click Here](https://github.com/exoad/codehssolutions)
+  ```
+  Link: https://github.com/exoad/codehssolutions
   
   Status: **Limited-Open**
   
   About: Solutions for CodeHS
+  ```
   
 </details>
 
@@ -48,12 +50,14 @@ ___
 <details>
   <summary>PwdGen</summary>
   
-  Link: [Click Here](https://github.com/exoad/PwdGen)
+  ```
+  Link: https://github.com/exoad/PwdGen
   
   Status: **Closed**
   
   About: Encrypt files with an encryption key along with the ability to generate a password and save it to an encrypted file
-
+  ```
+  
 </details>
 
 ___
