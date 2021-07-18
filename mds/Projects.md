@@ -45,5 +45,19 @@ ___
 
 ___
 
+<details>
+  <summary>PwdGen</summary>
+  
+  Link: [Click Here](https://github.com/exoad/PwdGen)
+  
+  Status: **Closed**
+  
+  About: Encrypt files with an encryption key along with the ability to generate a password and save it to an encrypted file
+
+</details>
+
+___
+
+
 Etc...
   
