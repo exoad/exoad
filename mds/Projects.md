@@ -1,5 +1,5 @@
 # [Projects]
-Here is a list of projects that I am working on currently:
+Here is a list of projects that I am working on currently, but there might be more and I am too lazy to put it here:
 
 ___
 
