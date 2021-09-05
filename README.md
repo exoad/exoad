@@ -2,6 +2,8 @@
 <a><strong>Hello!</strong> My name is Jack Meng, check <a href="https://exoad.github.io/exoad/mds/Main.html">here</a>
   for more info about me! Or you can just continue reading.</a>
 <br>
+<details>
+  <summary>Simple About Me</summary>
 <h2>Things I do / About me</h2>
 <ul>
   <li><strong>Competitive programmer</strong> - currently doing USACO silver. Also do things like CodeForces, GCJ,
@@ -11,7 +13,7 @@
   <li><strong>Currently in High School</strong></li>
   <li><strong>I love to build and compile from source</strong></li>
 </ul>
-
+</details>
 <h2>Languages & Frameworks & Others</h2>
 <p>
   <a href="https://www.javascript.com/"><img
