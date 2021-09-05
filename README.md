@@ -68,4 +68,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&theme=calm">
 </p>
 
-<footer>:)</footer>
+<footer>Yeah pretty bad profile readme</footer>
