@@ -1,9 +1,9 @@
 <h1> 🍵 Hallo there! </h1>
 <a><strong>Hello!</strong> My name is Jack Meng, check <a href="https://exoad.github.io/exoad/mds/Main.html">here</a>
   for more info about me! Or you can just continue reading.</a>
-<br>
+<br><br>
 <details>
-  <summary>Simple About Me</summary>
+  <summary><strong><u>Simple About Me</u></strong></summary>
 <h2>Things I do / About me</h2>
 <ul>
   <li><strong>Competitive programmer</strong> - currently doing USACO silver. Also do things like CodeForces, GCJ,
@@ -14,6 +14,8 @@
   <li><strong>I love to build and compile from source</strong></li>
 </ul>
 </details>
+<details>
+  <summary><strong><u>Languages & Frameworks</u></strong></summary>
 <h2>Languages & Frameworks & Others</h2>
 <p>
   <a href="https://www.javascript.com/"><img
@@ -42,6 +44,9 @@
   <a href="https://crystal-lang.org/"><img
       src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white"></a>
 </p>
+  </details>
+<details>
+  <summary><strong><u>System Environemtn</u></strong></summary>
 <h2>My System Environment</h2>
 <ul>
   <li><strong>OS: </strong>Manjaro, Arch</li>
@@ -56,6 +61,9 @@
           src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=for-the-badge&logo=gnu%20emacs&logoColor=white"></a>
     </strong>
 </ul>
+</details>
+<details>
+  <summary><strong><u>Social Links</u></strong></summary>
 <h2>Socials</h2>
 <p>
   <a href="https://discord.gg/PbJQRT9zQ8"><img
@@ -64,10 +72,15 @@
   <a href="https://www.reddit.com/user/Chunkyfungus123"><img
       src="https://img.shields.io/badge/u/Chunkyfungus123-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>
+</details>
+<details>
+  <summary><strong><u>Some extra stuffs</u></strong></summary>
 <h2>Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=exoad&show_icons=true&theme=calm">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&theme=calm">
 </p>
-
+  </details>
+<br>
+<hr>
 <footer>Yeah pretty bad profile readme</footer>
