@@ -14,6 +14,7 @@
   <li><strong>I love to build and compile from source</strong></li>
 </ul>
 </details>
+<hr>
 <details>
   <summary><strong><u>Languages & Frameworks</u></strong></summary>
 <h2>Languages & Frameworks & Others</h2>
@@ -45,6 +46,7 @@
       src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white"></a>
 </p>
   </details>
+<hr>
 <details>
   <summary><strong><u>System Environemtn</u></strong></summary>
 <h2>My System Environment</h2>
@@ -62,6 +64,7 @@
     </strong>
 </ul>
 </details>
+<hr>
 <details>
   <summary><strong><u>Social Links</u></strong></summary>
 <h2>Socials</h2>
@@ -73,6 +76,7 @@
       src="https://img.shields.io/badge/u/Chunkyfungus123-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>
 </details>
+<hr>
 <details>
   <summary><strong><u>Some extra stuffs</u></strong></summary>
 <h2>Stats</h2>
@@ -81,6 +85,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&theme=calm">
 </p>
   </details>
-<br>
 <hr>
 <footer>Yeah pretty bad profile readme</footer>
