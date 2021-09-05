@@ -48,7 +48,7 @@
   </details>
 <hr>
 <details>
-  <summary><strong><u>System Environemtn</u></strong></summary>
+  <summary><strong><u>System Environment</u></strong></summary>
 <h2>My System Environment</h2>
 <ul>
   <li><strong>OS: </strong>Manjaro, Arch</li>
