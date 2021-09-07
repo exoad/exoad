@@ -1,6 +1,6 @@
-<h1> 🍵 Hallo there! </h1>
+<h1> 🍵 Hello! </h1>
 <a><strong>Hello!</strong> My name is Jack Meng, check <a href="https://exoad.github.io/exoad/mds/Main.html">here</a>
-  for more info about me! Or you can just continue reading.</a>
+  for more info about me! Or you can just continue reading. (Note: this is gonna be cringe)</a>
 <br><br>
 <details>
   <summary><strong><u>Simple About Me</u></strong></summary>
