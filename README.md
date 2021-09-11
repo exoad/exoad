@@ -3,7 +3,7 @@
   for more info about me! Or you can just continue reading. (Note: this is gonna be cringe)</a>
 <br><br>
 <details>
-  <summary><strong><u>Simple About Me</u></strong></summary>
+  <summary><strong><u>Simple Things About Me</u></strong></summary>
 <h2>Things I do / About me</h2>
 <ul>
   <li><strong>Competitive programmer</strong> - currently doing USACO silver. Also do things like CodeForces, GCJ,
