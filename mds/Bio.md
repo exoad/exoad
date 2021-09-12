@@ -12,3 +12,4 @@ My name is Jack (Meng). I currently attend High School. My favorite language is 
 
 **Code Environments** CLion, Emacs, VSCode
 
+![](860560805371838485.png) ![](59348948392.png)
