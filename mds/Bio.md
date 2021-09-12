@@ -1,6 +1,6 @@
 # [Bio]
 
-My name is Jack (Meng). I currently attend High School with a simple aim for going into Computer Science through Competitive Programming. :)
+My name is Jack (Meng). I currently attend High School. My favorite language is C as there are many things I have used it for and was also my very first language.
 
 # My System Environment
 
