@@ -1,58 +1,17 @@
-# [Socials]
-LinkTree | [Click Here](https://linktr.ee/exoad)
+# [Contacts]
 
-___
-<details>
-    <summary>Discord</summary>
+You can find some ways to contact me or find me online below:
 
-    ex-exoad#9292
-</details>
+**Discord** exoad#9292
 
-___
-<details>
-    <summary>GitHub</summary>
+**Email** jackmeng0814@gmail.com
 
-    https://github.com/exoad
-</details>
+**Reddit** [u/Chunkyfungus123](https://www.reddit.com/user/Chunkyfungus123)
 
-___
-<details>
-    <summary>YouTube</summary>
+**YouTube Channel** [exoad](https://www.youtube.com/channel/UCIfv7sIqmww_5Ggn9HOkbIg)
 
-    https://www.youtube.com/channel/UCIfv7sIqmww_5Ggn9HOkbIg
-</details>
+**Git Memory** [exoad](https://www.gitmemory.com/exoad)
 
-___
-<details>
-    <summary>Reddit</summary>
-
-    https://www.reddit.com/user/Chunkyfungus123
-</details>
-
-___
-
-<details>
-    <summary>CodeChef</summary>
-
-    https://www.codechef.com/users/exoad
-</details>
-
-___
-
-<details>
-    <summary>DEV.to</summary>
-    
-    https://dev.to/exoad
-</details>
-
-___
-
-<details>
-    <summary>GitLab</summary>
-    
-    https://gitlab.com/exoad
-</details>
-
-___
+yea...
 
 <<[More coming soon]>>
