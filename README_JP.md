@@ -87,11 +87,13 @@
   </details>
 <hr>
 <details>
-  <summary><strong><u>他の言語 / Other  Languages</u></strong></summary>
+  <summary><strong><u>他の言語</u></strong></summary>
   <h2>他の言語での私のプロフィール</h2>
-  <a href="https://github.com/exoad/exoad/blob/main/README.md">英 / English</a>
+  <a href="https://github.com/exoad/exoad/blob/main/README.md">英語 / English</a>
   <br>
-  <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">日語 / Japanese</a>
+  <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">日本語 / Japanese</a>
+  <br>
+  <a href="https://github.com/exoad/exoad/blob/main/README_CH.md">中国語 / Chinese</a>
 </details>
 <hr>
 <br>
