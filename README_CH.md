@@ -88,11 +88,11 @@
 <details>
   <summary><strong><u>其他语言的简介</u></strong></summary>
   <h2>其他语言的简介</h2>
-  <a href="https://github.com/exoad/exoad/blob/main/README.md">英 / English</a>
+  <a href="https://github.com/exoad/exoad/blob/main/README.md">英语 / English</a>
   <br>
-  <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">日 / Japanese</a>
+  <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">日语 / Japanese</a>
   <br>
-  <a href="https://github.com/exoad/exoad/blob/main/README_CH.md">中 / Chinese</a>
+  <a href="https://github.com/exoad/exoad/blob/main/README_CH.md">中文 / Chinese</a>
 </details>
 <hr>
 <br>
