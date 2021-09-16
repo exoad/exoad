@@ -2,7 +2,7 @@
 
 You can find some ways to contact me or find me online below:
 
-**Discord** exoad#9292
+**Discord** [exoad#9292](discord:exoad#9292)
 
 **Email** [jackmeng0814@gmail.com](mailto:jackmeng0814@gmail.com)
 
