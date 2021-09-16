@@ -88,8 +88,11 @@
 <hr>
 <details>
   <summary><strong><u>他の言語 / Other  Languages</u></strong></summary>
+  <h2>他の言語での私のプロフィール</h2>
   <a href="https://github.com/exoad/exoad/blob/main/README.md">英 / English</a>
+  <br>
   <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">日語 / Japanese</a>
 </details>
-
+<hr>
+<br>
 <footer>私の日本語は上手ではありません。訂正したい場合は、遠慮なく！プルリクエストを作成します:)</footer>
