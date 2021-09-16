@@ -86,4 +86,13 @@
 </p>
   </details>
 <hr>
+<details>
+  <summary><strong><u>Profile Languages</u></strong></summary>
+  <h2>View my profile in other languages!</h2>
+  <a href="https://github.com/exoad/exoad/blob/main/README.md">English</a>
+  <br>
+  <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">Japanese</a>
+</details>
+<hr>
+<br>
 <footer>Yeah pretty bad profile readme</footer>
