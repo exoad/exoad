@@ -96,7 +96,6 @@
   <a href="https://github.com/exoad/exoad/blob/main/README_CH.md">Chinese</a>
   <hr>
   <h2>View my profile in other formats!</h2>
-  <br>
   <p>Note: not all languages are supported for different file types</p>
   <a href="https://github.com/exoad/exoad/blob/main/README.md">MARKDOWN (html form)<code>.md</code></a>
   <br>
