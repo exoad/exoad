@@ -91,6 +91,8 @@
   <a href="https://github.com/exoad/exoad/blob/main/README.md">英 / English</a>
   <br>
   <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">日 / Japanese</a>
+  <br>
+  <a href="https://github.com/exoad/exoad/blob/main/README_CH.md">中 / Chinese</a>
 </details>
 <hr>
 <br>
