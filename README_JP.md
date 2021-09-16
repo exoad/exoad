@@ -67,7 +67,7 @@
 <hr>
 <details>
   <summary><strong><u>私に連絡するためのリンク</u></strong></summary>
-<h2>Socials</h2>
+<h2>私に連絡するためのリンク</h2>
 <p>
   <a href="https://discord.gg/PbJQRT9zQ8"><img
       src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
