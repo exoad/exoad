@@ -1,5 +1,5 @@
 <h1> 🍵 你好！</h1>
-<a><strong>Hello!</strong> 你好呀。我叫 Jack（萌）, 您也可以在我的个人网站上阅读此简介：<a href="https://exoad.github.io/exoad/mds/Main.html">点这里</a> 或者你可以继续阅读:)</a>
+<a><strong>Hello!</strong> 你好呀。我叫 Jack（孟）, 您也可以在我的个人网站上阅读此简介：<a href="https://exoad.github.io/exoad/mds/Main.html">点这里</a> 或者你可以继续阅读:)</a>
 <br><br>
 <details>
   <summary><strong><u>关于我</u></strong></summary>
