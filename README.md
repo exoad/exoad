@@ -92,6 +92,8 @@
   <a href="https://github.com/exoad/exoad/blob/main/README.md">English</a>
   <br>
   <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">Japanese</a>
+  <br>
+  <a href="https://github.com/exoad/exoad/blob/main/README_CH.md">Chinese</a>
 </details>
 <hr>
 <br>
