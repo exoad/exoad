@@ -8,7 +8,7 @@
 <ul>
   <li><strong>競技プログラマー（コンピュータサイエンス）</strong> - USACO 銀部門、CodeForces、 GCJ、
     AtCoder、 など</li>
-  <li><strong>主要なプログラミング言語: C</strong></li>
+  <li><strong>主要なプログラミング言語: C と ELIXIR</strong></li>
   <li><strong>これらを学ぶ: C++, Lisp</strong></li>
   <li><strong>私は高校生です</strong></li>
   <li><strong>私はソースコードから物を作ったり作ったりするのが大好きです</strong></li>
