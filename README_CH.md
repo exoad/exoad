@@ -7,7 +7,7 @@
 <ul>
   <li><strong>竞赛编程/strong> - 组织： USACO ( 银 ), CodeForces, GCJ,
     AtCoder, ...</li>
-  <li><strong>最强的语言: C</strong></li>
+  <li><strong>最强的语言: C 和 ELIXIR</strong></li>
   <li><strong>我在学: C++, Lisp</strong></li>
   <li><strong>我目前是一名高中生</strong></li>
   <li><strong>我喜欢从源代码制作和构建程序:)</strong></li>
