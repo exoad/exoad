@@ -73,6 +73,7 @@
   <a href="http://exoad.github.io/exoad"><img src="https://img.shields.io/badge/Website-00B265?style=for-the-badge"></a>
   <a href="https://www.reddit.com/user/Chunkyfungus123"><img
       src="https://img.shields.io/badge/u/Chunkyfungus123-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCIfv7sIqmww_5Ggn9HOkbIg/about"><img src="https://img.shields.io/badge/exoad-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 </details>
 <hr>
