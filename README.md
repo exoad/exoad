@@ -8,7 +8,7 @@
 <ul>
   <li><strong>Competitive programmer</strong> - currently doing USACO silver. Also do things like CodeForces, GCJ,
     AtCoder, etc..</li>
-  <li><strong>Main Language: C</strong></li>
+  <li><strong>Main Language: C & Elixir</strong></li>
   <li><strong>Currently learning: C++, Lisp</strong></li>
   <li><strong>Currently in High School</strong></li>
   <li><strong>I love to build and compile from source</strong></li>
