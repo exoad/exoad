@@ -84,7 +84,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=exoad&show_icons=true&theme=calm">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&theme=calm">
-  <img src="https://github-profile-trophy.vercel.app/?username=exoad&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=exoad&theme=calm">
 </p>
   </details>
 <hr>
