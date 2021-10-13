@@ -19,9 +19,8 @@
   <summary><strong><u>Languages & Frameworks</u></strong></summary>
 <h2>Languages & Frameworks & Others</h2>
 <p>
-  <a href="https://www.javascript.com/"><img
-      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=""
-      srcset=""></a>
+  <a href="https://elixir-lang.org/"><img
+      src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a>
   <a href="https://www.oracle.com/java/technologies/"><img
       src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img
@@ -32,12 +31,13 @@
       src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="https://clojure.org/"><img
       src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white"></a>
+  <a href="https://www.javascript.com/"><img
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=""
+      srcset=""></a>
   <a href="https://html.spec.whatwg.org/"><img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://gradle.org/"><img
       src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>
-  <a href="https://elixir-lang.org/"><img
-      src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a>
   <a href="https://maven.apache.org/"><img
       src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=white"></a>
   <a href="https://www.rust-lang.org/"><img
