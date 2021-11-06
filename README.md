@@ -6,7 +6,7 @@
   <summary><strong><u>Simple Things About Me</u></strong></summary>
 <h2>Things I do / About me</h2>
 <ul>
-  <li><strong>Competitive programmer</strong> - currently doing USACO silver. Also do things like CodeForces, GCJ,
+  <li><strong>Competitive programmer</strong> - currently doing USACO gold. Also do things like CodeForces, GCJ,
     AtCoder, etc..</li>
   <li><strong>Main Language: C & Elixir</strong></li>
   <li><strong>Currently learning: C++, Lisp</strong></li>
