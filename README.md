@@ -12,7 +12,7 @@
   <li><strong>Currently learning: Lisp, Python, Java, M4, asm</strong></li>
   <li><strong>Currently in High School</strong></li>
   <li><strong>Main Orientation: Data Science, ML, Informatics</strong></li>
-  <li><strong>What I have mainly created/contributed: <br>1. Yttrius - R + ASM-like ML Language<br>2. Darwin (forked) - C++ Machine Learning Framework<br>3. stdxx (Forked)-  extension of the C++ stdlib <br>4. OpenC - Web Assembly with C (although kinda primitive)<br>5. Blender++ - A small implementation of integrating VScode with Blender to form a lite game engine</strong></li>
+  <li><strong>What I have mainly created/contributed: <br>1. Yttrius - R + ASM-like OOP Lang<br>2. Darwin (forked) - C++ Machine Learning Framework<br>3. stdxx (Forked)-  extension of the C++ stdlib <br>4. OpenC - Web Assembly with C (although kinda primitive)<br>5. Blender++ - A small implementation of integrating VScode with Blender to form a lite game engine</strong></li>
   <li><strong>I love to build and compile from source</strong></li>
 </ul>
 </details>
