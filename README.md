@@ -1,7 +1,7 @@
 
 
 <h1> 🍵 Hi! </h1>
-<a><strong>Hello!</strong> My name is Jack Meng, check <a href="https://exoad.github.io/exoad/mds/Main.html">here [Note I don't really update this anymore]</a>
+<a><strong>Hello!</strong> My name is <strong>Jack Meng</strong>, check <a href="https://exoad.github.io/exoad/mds/Main.html">here [Note I don't really update this anymore]</a>
 for more info about me! Or you can just continue reading. (Note: this is gonna be cringe :p)</a>
 <br><br>
 <details>
