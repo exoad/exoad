@@ -97,25 +97,6 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
    </p>
 </details>
 <hr>
-<details>
-   <summary><strong><u>Profile Formats</u></strong></summary>
-   <h2>View my profile in other languages!</h2>
-   <a href="https://github.com/exoad/exoad/blob/main/README.md">English</a>
-   <br>
-   <a href="https://github.com/exoad/exoad/blob/main/README_JP.md">Japanese</a>
-   <br>
-   <a href="https://github.com/exoad/exoad/blob/main/README_CH.md">Chinese</a>
-   <hr>
-   <h2>View my profile in other formats!</h2>
-   <p>Note: not all languages are supported for different file types. <strong>ALL FILE FORMATS ARE INCOMPLETE AND NEEDS FURTHER REVISIONS</strong></p>
-   <a href="https://github.com/exoad/exoad/blob/main/README.md">MARKDOWN (html form)<code>.md</code></a>
-   <br>
-   <a href="https://github.com/exoad/exoad/blob/main/README.odt">OPENDOCUMENT <code>.odt</code></a>
-   <br>
-   <a href="https://github.com/exoad/exoad/blob/main/README.rtf">RICH TEXT FORMAT <code>.rtf</code></a>
-   <br>
-</details>
-<hr>
 <br>
 <footer>Yeah pretty bad profile readme</footer>
 
