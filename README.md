@@ -79,6 +79,8 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
       <a href="http://exoad.github.io/exoad"><img src="https://img.shields.io/badge/Website-00B265?style=for-the-badge"></a>
       <a href="https://www.reddit.com/user/Chunkyfungus123"><img
          src="https://img.shields.io/badge/u/Chunkyfungus123-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+      <a href="mailto:jackmeng0814@gmail.com"><img
+         src="https://img.shields.io/badge/Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://www.cornell.edu/"><img
          src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white"></a>
    <p>I am also on some other social sites like: LinkedIn, arXiv, etc.</p>
