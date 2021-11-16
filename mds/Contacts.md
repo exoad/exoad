@@ -12,6 +12,8 @@ You can find some ways to contact me or find me online below:
 
 **Git Memory** [exoad](https://www.gitmemory.com/exoad)
 
+**Google Developer** [Jack Meng](https://g.dev/jackmeng)
+
 yea...
 
 <<[More coming soon]>>
