@@ -81,6 +81,8 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
          src="https://img.shields.io/badge/u/Chunkyfungus123-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
       <a href="mailto:jackmeng0814@gmail.com"><img
          src="https://img.shields.io/badge/Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="https://g.dev/jackmeng"><img
+         src="https://img.shields.io/badge/Google Developer-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
       <a href="https://www.cornell.edu/"><img
          src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white"></a>
    <p>I am also on some other social sites like: LinkedIn, arXiv, etc.</p>
