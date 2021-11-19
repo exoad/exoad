@@ -11,7 +11,7 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
       <li><strong>Competitive programmer</strong> - currently doing USACO gold. Also do things like CodeForces, GCJ,
          AtCoder, etc..
       </li>
-      <li><strong>My Main (99%) proficient langs: C, Elixir, R, MatLab, TypeScript, C++</strong></li>
+      <li><strong>My Main (99%) proficient langs: C/Objective-C, Elixir, R, MatLab, TypeScript, C++</strong></li>
       <li><strong>Currently learning: Lisp, Python, Java, M4, asm</strong></li>
       <li><strong>Currently in High School</strong></li>
       <li><strong>Main Orientation: Data Science, ML, Informatics</strong></li>
