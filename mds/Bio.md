@@ -13,3 +13,5 @@ My name is Jack (Meng). I currently attend High School. My favorite language is 
 **Code Environments** CLion, Emacs, VSCode
 
 ![](../approachcircle_154x159.png) ![](../59348948392.png)
+
+*Penguins >.<*
