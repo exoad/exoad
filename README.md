@@ -71,7 +71,7 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
 </details>
 <hr>
 <details>
-   <summary><strong><u>Social Links</u></strong></summary>
+   <summary><strong><u>Socials & Contacts</u></strong></summary>
    <h2>Socials</h2>
    <p>
       <a href="https://discord.gg/PbJQRT9zQ8"><img
@@ -85,6 +85,8 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
          src="https://img.shields.io/badge/Google Developer-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
       <a href="https://www.cornell.edu/"><img
          src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white"></a>
+      <a href="https://twitter.com/akira_exoad"><img
+         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
    <p>I am also on some other social sites like: LinkedIn, arXiv, etc.</p>
    </p>
 </details>
