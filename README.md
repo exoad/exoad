@@ -87,6 +87,12 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
          src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white"></a>
       <a href="https://twitter.com/akira_exoad"><img
          src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+      <a href="https://gitlab.com/exoad"><img
+         src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"></a>
+      <a href="https://stackoverflow.com/users/14501343/jack-meng"><img
+         src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"></a>
+      <a href="https://matrix.to/#/@exoad:matrix.org"><img
+         src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"></a>
    <p>I am also on some other social sites like: LinkedIn, arXiv, etc.</p>
    </p>
 </details>
