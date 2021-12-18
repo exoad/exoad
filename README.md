@@ -12,7 +12,7 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
          AtCoder, etc..
       </li>
       <li><strong>My Main (99%) proficient langs: C/Objective-C, Elixir, R, MatLab, TypeScript, C++</strong></li>
-      <li><strong>Currently learning: Lisp, Python, Java, M4, asm</strong></li>
+      <li><strong>Currently learning: Lisp, Python, Kotlin, M4, asm</strong></li>
       <li><strong>Currently in High School</strong></li>
       <li><strong>Main Orientation: Data Science, ML, Informatics</strong></li>
       <li><strong>What I have mainly created/contributed: <br>1. Yttrius - A family of tools I made consisting of </strong>Y++ [an OOP-lang], YPPMake [maker for Yttrius], yAPI [Yttrius WASM Wrapper], YttriusSDK [CLI tool for interacting with Yttrius], Yttrius-Exon [a custom prepocessor builder, you can see this in a lot of my projects] check the repo yAPI for more info.<strong><br>2. Darwin (forked) - C++ Machine Learning Framework<br>3. stdxx (Forked)-  extension of the C++ stdlib <br>4. OpenC - Web Assembly with C (although kinda primitive)<br>5. Blender++ - A small implementation of integrating VScode with Blender to form a lite game engine<br>6. ArctiC - (Not-public) A entirely rebuilt version of the original Microsoft Visual Studio Code, removing all telemetry while also adding important features like a simple ML-based coding analysis (similar to a more broken GitHub Copilot), it also includes most of it's GUI being rewritten in C in order to save time and move away from electronJS<br>7. Discord Bot - Although I am less proud of these, I mainly work on Discord Bots using my yAPI webASM & SDK protocol however I also combined D++ a custom C++ Discord lib<br></strong></li>
@@ -71,7 +71,7 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
 </details>
 <hr>
 <details>
-   <summary><strong><u>Social Links</u></strong></summary>
+   <summary><strong><u>Socials & Contacts</u></strong></summary>
    <h2>Socials</h2>
    <p>
       <a href="https://discord.gg/PbJQRT9zQ8"><img
@@ -85,6 +85,14 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
          src="https://img.shields.io/badge/Google Developer-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
       <a href="https://www.cornell.edu/"><img
          src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white"></a>
+      <a href="https://twitter.com/akira_exoad"><img
+         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+      <a href="https://gitlab.com/exoad"><img
+         src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"></a>
+      <a href="https://stackoverflow.com/users/14501343/jack-meng"><img
+         src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"></a>
+      <a href="https://matrix.to/#/@exoad:matrix.org"><img
+         src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"></a>
    <p>I am also on some other social sites like: LinkedIn, arXiv, etc.</p>
    </p>
 </details>
