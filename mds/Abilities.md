@@ -20,5 +20,5 @@ Here is a simple list of things I can do with basic to advanced knowledge:
 9. C++
 10. Maven
 11. HTML5
-12. JavaScript
+12. TypeScript
 
