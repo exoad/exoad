@@ -2,11 +2,11 @@
 
 <h1> 🍵 Hi! </h1>
 <a><strong>Hello!</strong> My name is <u><strong>Jack Meng</strong></u>, check <a href="https://exoad.github.io/exoad/mds/Main.html">here [Note I don't really update this anymore]</a>
-for more info about me! Or you can just continue reading. (Note: this is gonna be cringe :p)</a>
+for more info about me! Or you can just continue reading. (Note: this is gonna be cringe :P)</a>
 <br><br>
 <details>
    <summary><strong><u>Simple Things About Me</u></strong></summary>
-   <h2>Things I do / About me</h2>
+   <h2>Things I do / Waste my time on</h2>
    <ul>
       <li><strong>Competitive programmer</strong> - currently doing USACO gold. Also do things like CodeForces, GCJ,
          AtCoder, etc..
@@ -108,5 +108,5 @@ for more info about me! Or you can just continue reading. (Note: this is gonna b
 </details>
 <hr>
 <br>
-<footer>Yeah pretty bad profile readme</footer>
+<footer>Give me a PR if you wanna improve this </footer>
 
