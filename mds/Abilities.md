@@ -1,11 +1,13 @@
 # [Abilities]
-Here is a simple list of things I can do with basic to advanced knowledge:
+For the most part I either do CS for research or plainly for fun, however this means that I mostly take CS challenges as "fun" or something I can attribute to my
+interest for CS. To put it simply, I do not consider inschool assignments as some I attribute to my CS-abilites (APCS, data structures, etc.). 
 
-1. My Main Languages are C & Elixir
-2. I love to work on software and building software
-3. Silver division in USACO & grinding
-4. I know with some decent proficiency of Rust, C++, and Java frameworks
-5. I do competitive programming on many different platforms like AtCoder, CodeForces, etc.
+Some of these challenges I often persue are:
+1. CP (Competitive Programming) | AKA: USACO, CodeForces, AtCoder, LeetCode, GCJ, FBHC, etc.
+2. CTF (Capture the Flag) | AKA: PicoCTF, etc.
+3. Research Projects (Paper & Data Analysis) | AKA: Machine Learning, Functional Programming
+4. For Fun | AKA: Game dev, Web dev, etc.
+5. Framework or library aided for fun | AKA: Personal research projects
 
 ## Frameworks & Languages
 *Ranked from most efficient to least known*
