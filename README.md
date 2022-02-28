@@ -92,7 +92,7 @@
          src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"></a>
       <a href="https://matrix.to/#/@exoad:matrix.org"><img
          src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"></a>
-   <p>I am also on some other social sites like: LinkedIn, arXiv, etc.</p>
+   <p>I am also on some other social sites like: LinkedIn, arXiv, etc.<br><strong>You could also add me on Discord: <code>exoad#9292</code></strong></p>
    </p>
 </details>
 <hr>
