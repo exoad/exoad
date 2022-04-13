@@ -26,8 +26,6 @@
          src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
       <a href="https://www.cplusplus.com/"><img
          src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-      <a href="https://nodejs.org/en/"><img
-         src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
       <a href="https://clojure.org/"><img
          src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white"></a>
       <a href="https://www.javascript.com/"><img
