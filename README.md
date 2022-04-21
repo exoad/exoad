@@ -1,5 +1,5 @@
 <h1> 🍵 Hi! </h1>
-<a><strong>Just another user on GitHub :)</strong></a>
+<a><strong>I love interfacing multiple langs together :)</strong></a>
 <br><br>
 <details>
    <summary><strong><u>Simple Things About Me</u></strong></summary>
