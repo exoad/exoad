@@ -33,12 +33,6 @@
          srcset=""></a>
       <a href="https://html.spec.whatwg.org/"><img
          src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="https://gradle.org/"><img
-         src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>
-      <a href="https://maven.apache.org/"><img
-         src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=white"></a>
-      <a href="https://www.rust-lang.org/"><img
-         src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
       <a href="https://crystal-lang.org/"><img
          src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white"></a>
       <a href="https://haxe.org/"><img
