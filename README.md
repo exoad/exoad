@@ -3,7 +3,7 @@
 <br><br>
 <details>
    <summary><strong><u>Simple Things About Me</u></strong></summary>
-   <h2>Things I do / Waste my time on</h2>
+   <h2>Things I commit to</h2>
    <ul>
       <li><strong>Competitive programmer</strong> - currently doing USACO gold. Also do things like CodeForces, GCJ,
          AtCoder, etc..
