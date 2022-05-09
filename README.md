@@ -4,4 +4,6 @@ hi im exoad
 
 i love programming in elixir, c/c++, and jvm langs
 
-more compact readme yay!
+```ini
+[ more compact readme yay! ]
+```
