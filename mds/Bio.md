@@ -14,4 +14,5 @@ My name is Jack (Meng). I currently attend High School. My favorite languages ar
 
 **Color Schemes** Monokai Dimmed, One Dark Pro, [Electron](https://marketplace.visualstudio.com/items?itemName=kuscamara.electron)
 
-![](../approachcircle_154x159.png) ![](../59348948392.png)
+![](../approachcircle_154x159.png)
+![](../index.png)
