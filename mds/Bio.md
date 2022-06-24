@@ -4,17 +4,9 @@ My name is Jack (Meng). I currently attend High School. My favorite languages ar
 my tasks. However I am also pretty skilled in C++ & Java or other OOP languages. Most of the time Elixir for some backend and Java/C++ for some
 front-end UI interactions.
 
-# My System Environment
+I currently do not have any specific targets in the field of CS and I just create random projects for fun. However, I am primarily focused on learning more about compiler design and software optimizations; sub-routines. 
 
-**OS** Manjaro (GNOME / KDE) & ARCH
-
-**WM** i3, BSPWM (FORKED), PLASMA, DWM
-
-**Terminal/Shell** zsh, Alacritty, Kitty, fish shell (OLD)
-
-**Code Environments** CLion, VSCode (Custon Modified VSCode) 
-
-**Color Schemes** Monokai Dimmed, One Dark Pro, [Electron](https://marketplace.visualstudio.com/items?itemName=kuscamara.electron)
+Some other goals I have is making software applications; although I am less experienced with making "usable" GUI programs, I like to create independent frameworks for whatever they are purposing. For example, Halcyon, my latest project, utilizes a modified version of an Audio Library. 
 
 ![](../approachcircle_154x159.png)
 ![](../index.png)
