@@ -4,18 +4,20 @@ interest for CS. To put it simply, I do not consider inschool assignments as som
 
 Some of these challenges I often persue are:
 1. CP (Competitive Programming) | AKA: USACO, CodeForces, AtCoder, LeetCode, GCJ, FBHC, etc.
-2. CTF (Capture the Flag) | AKA: PicoCTF, etc.
-3. Research Projects (Paper & Data Analysis) | AKA: Machine Learning, Functional Programming
-4. For Fun | AKA: Game dev, Web dev, etc.
-5. Framework or library aided for fun | AKA: Personal research projects
+2. CTF (Capture the Flag) | AKA: PicoCTF, or my school's, etc.
+3. Research: Functional Programming & Informatics
+4. For Fun | AKA: Computer Science in Game Theory
+5. Framework & Engines for random purposes (audio, video-processing, media-transcoding, etc.)
 
 ## Frameworks & Languages
-*Ranked from most efficient to least known*
-1. C/C++
-2. OpenCL
-3. Elixir
-4. Java / Kotlin / Spring
-5. Gradle, Maven
-6. Tensorflow / OpenCV
-7. Apache Spark
-8. OpenGL
+*A simple list of frameworks & languages I am comfortable with*
+1. Elixir
+2. C++ -> Native Frameworks
+3. OpenGL & OpenCL
+4. Sugar
+5. qt & UPP
+6. JVM & JNI
+7. OpenCV
+8. Hedwig
+9. GNU Bison -> ianh/owl
+10. LaTeX
