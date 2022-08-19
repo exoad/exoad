@@ -2,7 +2,9 @@
 
 hi im exoad
 
-i love programming in elixir, c/c++, and jvm langs
+i love low level programming
+
+mostly program in c/c++, elixir, clojure, & java 
 
 currently working on: [halcyon](https://halcyoninae.github.io/.github/)
 
