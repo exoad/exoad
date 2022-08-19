@@ -2,7 +2,7 @@
 
 hi im exoad
 
-i love low level programming
+i love low level & graphics related projects
 
 mostly program in c/c++, elixir, clojure, & java 
 
