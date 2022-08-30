@@ -9,4 +9,4 @@ I currently do not have any specific targets in the field of CS and I just creat
 Some other goals I have is making software applications; although I am less experienced with making "usable" GUI programs, I like to create independent frameworks for whatever they are purposing. For example, Halcyon, my latest project, utilizes a modified version of an Audio Library. 
 
 ![](../approachcircle_154x159.png)
-![](../index.jpg)
+![](../index_1.jpg)
