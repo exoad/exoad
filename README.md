@@ -3,7 +3,8 @@
   hi im exoad :)
   
 @ i love low level & graphics
-@ mostly program in c/c++, elixir, & other wacky jvm langs
+@ i program in c/c++
+@ my other side languages are R, JVM-oriented, erlang/elixir, etc..
 
 @ average need open source cuda compiler enjoyer
 ```
