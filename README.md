@@ -1,6 +1,6 @@
 
 ```py
-  hi im exoad :)
+  hi, im exoad! :)
   
 @ i love low level & graphics
 @ i program in c/c++ and their derivatives
