@@ -6,5 +6,7 @@
 @ i primarily program in c/c++ and their derivatives
 @ my secondaries are JVM-langs, erlang/elixir, lisp, & some others
 
+currently studying how audio works :D
+
 # average need open source cuda compiler enjoyer
 ```
