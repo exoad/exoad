@@ -12,3 +12,23 @@ i mainly program in:
   5. C++->0x,14
   6. GLSL/HLSL
 ```
+
+<details close>
+<summary>
+<code>
+[ working on ]
+</code>
+</summary>
+<br>
+<code>public projects:</code>
+<br>
+<br>
+
+| <code>name</code> | <code>description</code> | <code>link</code> |
+| :------: | :-------------: | :------: |
+|<code>Halcyon</code>|Native Audio Engine & Player|https://github.com/Halcyoninae/Halcyon.git|
+|<code>Yttrius</code>|Multiple Paradigm high noise language|https://github.com/exoad/yttriusSDK|
+|<code>question-mark</code>|General Purpose UI Toolkit in Haxe & C++|https://github.com/exoad/question-mark|
+|<code>native-util</code>|Low Level System Interface|https://github.com/Exoad4JVM/util.git|
+
+</details>
