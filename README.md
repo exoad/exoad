@@ -5,13 +5,11 @@ hi! i am Jack/exoad!
 
 i enjoy graphics & low level. 
 i mainly program in:
-  1. C->C99,C11
+  1. C->ANSI,C99
   2. Elixir->ErLang
-  3. Haxe
-  4. JVM->Kotlin,Java,Clojure
-  5. C++->0x,14
-  6. GLSL/HLSL
-  7. Sometimes: Nim,Rust,Ruby
+  5. JVM->Kotlin,Java,Clojure
+  6. C++->0x,14
+  7. GLSL
 ```
 
 <details close>
