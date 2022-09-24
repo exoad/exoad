@@ -11,7 +11,7 @@ i mainly program in:
   4. JVM->Kotlin,Java,Clojure
   5. C++->0x,14
   6. GLSL/HLSL
-  7. Nim
+  7. Sometimes: Nim,Rust,Ruby
 ```
 
 <details close>
