@@ -29,5 +29,6 @@ i mainly program in:
 |<code>Yttrius</code>|Multi-paradigm high noise language|https://github.com/exoad/yttriusSDK|
 |<code>question-mark</code>|General Purpose UI Toolkit in Haxe & C++|https://github.com/exoad/question-mark|
 |<code>native-util</code>|Low Level System Interface|https://github.com/Exoad4JVM/util.git|
+|<code>usaco-mashup-bot</code>|USACO Mashup Discord Bot|https://github.com/exoad/usaco-mashup-bot.git|
 
 </details>
