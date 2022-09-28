@@ -1,5 +1,5 @@
 # [Current]
-I am currently working on the following:
+Some of my public Projects (Top being the most worked on):
 - yAPI - Yttrius - Multi Paradigm High Noise Node Language | [Click Here](https://github.com/exoad/yttriusSDK)
 - Competitive Programming | USACO / CF / CDF / AtCoder / ProjectEuler
 - Halcyon (Native Audio Engine) [here](https://halcyoninae.github.io/.github/)
@@ -14,3 +14,6 @@ I am currently working on the following:
 - CloudSpinIMG (High Level Buffered Bitmap editor) [here](https://github.com/exoad-archive/cloudspin)
 - ForgorLang (EsoLang that I made up) [here](https://github.com/exoad-archive/forgorremberlang)
 - USACO Website Scraper (Scrapes the USACO website b/c no API) [here](https://github.com/exoad/usaco-mashup-bot)
+- uwu (Text Engine for Text Based Games via CLI) [here](https://github.com/exoad/uwu)
+- Java-Shittifier (A Java Macro Based Translator) [here](https://github.com/exoad/simple-java)
+- JLib++ (JVM Standard Toolkit but better) [here](https://github.com/Yttrium-Terminus/jlibxx)
