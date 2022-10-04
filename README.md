@@ -1,7 +1,7 @@
 
 ```python
 
-hi! i am Jack/exoad!
+hi, i am Jack/exoad
 
 i enjoy graphics & low level. 
 i mainly program in:
