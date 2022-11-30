@@ -9,7 +9,7 @@ i mainly program in:
   2. Elixir->ErLang
   5. JVM->Kotlin,Java,Clojure
   6. C++->0x,14
-  7. GLSL
+  7. GLSL->OpenGL,Cuda
 ```
 
 <details close>
