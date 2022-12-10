@@ -1,0 +1,830 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "editor.suggestSelection": "first",
+    "customizeUI.activityBar": "bottom",
+    "customizeUI.statusBarPosition": "under-panel",
+    "customizeUI.titleBar": "frameless",
+    "customizeUI.listRowHeight": 17,
+    "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "discord.detailsEditing": "{file_name}",
+    "discord.detailsIdle": "ded",
+    "C_Cpp.updateChannel": "Insiders",
+    "github.copilot.advanced": {
+        "indentationMode": {
+            "python": true,
+            "javascript": false,
+            "javascriptreact": false,
+            "jsx": false,
+            "typescript": false,
+            "typescriptreact": false,
+            "go": false,
+            "ruby": false,
+            "*": true
+        },
+        "debug.showScores": true,
+    },
+    "discord.workspaceElapsedTime": true,
+    "editor.cursorStyle": "block",
+    "security.workspace.trust.enabled": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "glassit-linux.opacity": 50,
+    "files.autoGuessEncoding": true,
+    "java.jdt.ls.vmargs": "-Dfile.encoding=UTF-8",
+    "discord.lowerDetailsEditing": "project: {workspace}",
+    "discord.lowerDetailsIdling": "sleeping",
+    "workbench.experimental.sidePanel.enabled": true,
+    "redhat.telemetry.enabled": true,
+    "editor.codeLens": true,
+    "discord.smallImage": "NO",
+    "java.referencesCodeLens.enabled": true,
+    "java.autobuild.enabled": true,
+    "java.checkstyle.autocheck": true,
+    "java.implementationsCodeLens.enabled": true,
+    "java.completion.enabled": true,
+    "java.completion.importOrder": [
+        "java",
+        "javax",
+        "org",
+        "com"
+    ],
+    "java.format.onType.enabled": false,
+    "java.quickfix.showAt": "line",
+    "java.maxConcurrentBuilds": 3,
+    "java.refactor.renameFromFileExplorer": "autoApply",
+    "git.enableSmartCommit": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "VSCord.detailsViewing": "In {problems}",
+    "VSCord.lowerDetailsEditing": "Working on {filename}",
+    "VSCord.workspaceElapsedTime": true,
+    "VSCord.checkIdle": false,
+    "editor.renderControlCharacters": true,
+    "workbench.editorAssociations": {
+        "*.class": "default",
+        "*.ipynb": "jupyter.notebook.ipynb",
+        "*.mca": "default",
+        "*.jar": "default",
+        "*.pdf": "latex-workshop-pdf-hook"
+    },
+    "VSCord.detailsEditing": "{problems} found",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "warmUp.changeCount": "15",
+    "warmUp.switchProgrammingLanguage": "java",
+    "warmUp.changeTypingMode": "code snippets",
+    "rpc.lowerDetailsEditing": "Working on {file_name}",
+    "rpc.buttonActiveLabel": ".-.",
+    "rpc.detailsEditing": "{problems}",
+    "rpc.detailsViewing": "{problems}",
+    "java.codeGeneration.generateComments": true,
+    "java.codeGeneration.hashCodeEquals.useInstanceof": true,
+    "java.completion.guessMethodArguments": true,
+    "java.errors.incompleteClasspath.severity": "error",
+    "java.debug.settings.forceBuildBeforeLaunch": false,
+    "java.debug.settings.onBuildFailureProceed": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "rpc.lowerDetailsViewing": "Working on {file_name}",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "kotlin": "kotlinc-native $fileName -o $fileNameWithoutExt ; if ($?) { ./$fileNameWithoutExt }",
+        "javascript": "node",
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "objective-c": "cd $dir && gcc -framework Cocoa $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "php": "php",
+        "python": "python -u",
+        "perl": "perl",
+        "perl6": "perl6",
+        "ruby": "ruby",
+        "go": "go run",
+        "lua": "lua",
+        "groovy": "groovy",
+        "powershell": "powershell -ExecutionPolicy ByPass -File",
+        "bat": "cmd /c",
+        "shellscript": "bash",
+        "fsharp": "fsi",
+        "csharp": "scriptcs",
+        "vbscript": "cscript //Nologo",
+        "typescript": "ts-node",
+        "coffeescript": "coffee",
+        "scala": "scala",
+        "swift": "swift",
+        "julia": "julia",
+        "crystal": "crystal",
+        "ocaml": "ocaml",
+        "r": "Rscript",
+        "applescript": "osascript",
+        "clojure": "lein exec",
+        "haxe": "haxe --cwd $dirWithoutTrailingSlash --run $fileNameWithoutExt",
+        "rust": "cd $dir && rustc $fileName && $dir$fileNameWithoutExt",
+        "racket": "racket",
+        "scheme": "csi -script",
+        "ahk": "autohotkey",
+        "autoit": "autoit3",
+        "dart": "dart",
+        "pascal": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+        "d": "cd $dir && dmd $fileName && $dir$fileNameWithoutExt",
+        "haskell": "runhaskell",
+        "nim": "nim compile --verbosity:0 --hints:off --run",
+        "lisp": "sbcl --script",
+        "kit": "kitc --run",
+        "v": "v run",
+        "sass": "sass --style expanded",
+        "scss": "scss --style expanded",
+        "less": "cd $dir && lessc $fileName $fileNameWithoutExt.css",
+        "FortranFreeForm": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran-modern": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran_fixed-form": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    },
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.showMembers": true,
+    "timeline.excludeSources": [],
+    "clock.dateFormat": "hh:MM TT S",
+    "cph.general.autoShowJudge": false,
+    "tabnine.experimentalAutoImports": true,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/usr/lib/jvm/java-17-temurin",
+            "default": true
+        },
+    ],
+    "java.jdt.ls.java.home": "/usr/lib/jvm/default-runtime",
+    "ShortcutMenuBar.commentLine": true,
+    "ShortcutMenuBar.compareWithSaved": true,
+    "ShortcutMenuBar.findReplace": true,
+    "ShortcutMenuBar.indentLines": true,
+    "ShortcutMenuBar.toggleRenderWhitespace": true,
+    "editor.renderWhitespace": "none",
+    "sonarlint.rules": {
+        "java:S106": {
+            "level": "off"
+        },
+        "java:S115": {
+            "level": "off"
+        },
+        "java:S112": {
+            "level": "off"
+        },
+        "java:S131": {
+            "level": "off"
+        },
+        "java:S1301": {
+            "level": "off"
+        },
+        "java:S2189": {
+            "level": "off"
+        },
+        "java:S1643": {
+            "level": "off"
+        },
+        "java:S116": {
+            "level": "off"
+        },
+        "java:S1854": {
+            "level": "off"
+        },
+        "java:S3776": {
+            "level": "off"
+        },
+        "java:S2140": {
+            "level": "off"
+        },
+        "java:S1659": {
+            "level": "off"
+        },
+        "java:S2095": {
+            "level": "off"
+        },
+        "javascript:S4138": {
+            "level": "off"
+        },
+        "java:S1170": {
+            "level": "off"
+        },
+        "java:S1172": {
+            "level": "off"
+        },
+        "java:S101": {
+            "level": "off"
+        },
+        "java:S117": {
+            "level": "off"
+        },
+        "java:S2696": {
+            "level": "off"
+        },
+        "java:S4274": {
+            "level": "off"
+        },
+        "java:S1192": {
+            "level": "off"
+        },
+        "java:S1075": {
+            "level": "off"
+        },
+        "java:S899": {
+            "level": "off"
+        },
+        "java:S2864": {
+            "level": "off"
+        },
+        "java:S1186": {
+            "level": "off"
+        },
+        "java:S2142": {
+            "level": "off"
+        },
+        "java:S1871": {
+            "level": "off"
+        },
+        "java:S1191": {
+            "level": "off"
+        },
+        "java:S2479": {
+            "level": "off"
+        },
+        "java:S1144": {
+            "level": "off"
+        },
+        "java:S1171": {
+            "level": "off"
+        },
+        "java:S1066": {
+            "level": "off"
+        },
+        "java:S107": {
+            "level": "off"
+        },
+        "java:S1104": {
+            "level": "off"
+        },
+        "java:S3012": {
+            "level": "off"
+        },
+        "java:S100": {
+            "level": "off"
+        },
+        "java:S2116": {
+            "level": "off"
+        },
+        "java:S1123": {
+            "level": "off"
+        },
+        "java:S2276": {
+            "level": "off"
+        },
+        "java:S3599": {
+            "level": "off"
+        },
+        "java:S125": {
+            "level": "off"
+        },
+        "java:S1604": {
+            "level": "off"
+        },
+        "java:S1444": {
+            "level": "off"
+        },
+        "java:S1214": {
+            "level": "off"
+        },
+        "java:S2259": {
+            "level": "off"
+        },
+        "java:S1119": {
+            "level": "off"
+        },
+        "java:S2589": {
+            "level": "off"
+        },
+        "java:S1118": {
+            "level": "off"
+        },
+        "java:S3358": {
+            "level": "off"
+        },
+        "java:S1215": {
+            "level": "off"
+        },
+        "java:S1141": {
+            "level": "off"
+        },
+        "java:S2386": {
+            "level": "off"
+        },
+        "java:S3008": {
+            "level": "off"
+        },
+        "java:S1155": {
+            "level": "off"
+        },
+        "java:S4042": {
+            "level": "off"
+        },
+        "java:S3824": {
+            "level": "off"
+        },
+        "java:S114": {
+            "level": "off"
+        },
+        "java:S3981": {
+            "level": "off"
+        },
+        "java:S1220": {
+            "level": "off"
+        },
+        "java:S127": {
+            "level": "off"
+        },
+        "java:S1117": {
+            "level": "off"
+        },
+        "java:S2674": {
+            "level": "off"
+        },
+        "python:S1481": {
+            "level": "off"
+        },
+        "python:S2208": {
+            "level": "off"
+        },
+        "java:S3400": {
+            "level": "off"
+        },
+        "xml:S3422": {
+            "level": "off"
+        },
+        "java:S2755": {
+            "level": "off"
+        },
+        "java:S1193": {
+            "level": "off"
+        },
+        "java:S2119": {
+            "level": "off"
+        },
+        "java:S1845": {
+            "level": "off"
+        },
+        "java:S135": {
+            "level": "off"
+        },
+        "java:S1751": {
+            "level": "off"
+        },
+        "java:S1319": {
+            "level": "off"
+        },
+        "java:S4144": {
+            "level": "off"
+        },
+        "javascript:S3358": {
+            "level": "off"
+        },
+        "javascript:S3776": {
+            "level": "off"
+        },
+        "javascript:S1481": {
+            "level": "off"
+        },
+        "javascript:S905": {
+            "level": "off"
+        },
+        "java:S1068": {
+            "level": "off"
+        },
+        "java:S1700": {
+            "level": "off"
+        },
+        "java:S1450": {
+            "level": "off"
+        },
+        "java:S1598": {
+            "level": "off"
+        },
+        "java:S1135": {
+            "level": "off"
+        },
+        "java:S1125": {
+            "level": "off"
+        },
+        "java:S2209": {
+            "level": "off"
+        },
+        "java:S1602": {
+            "level": "off"
+        },
+        "java:S3038": {
+            "level": "off"
+        },
+        "java:S2975": {
+            "level": "off"
+        },
+        "java:S1226": {
+            "level": "off"
+        },
+        "java:S1182": {
+            "level": "off"
+        }
+    },
+    "editor.inlineSuggest.enabled": true,
+    "rpc.buttonEnabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": true,
+        "cpp": true,
+        "java": true,
+        "html": true,
+        "mdx": true,
+        "hxml": true,
+        "haxe": true,
+        "csharp": false,
+        "jsonc": false
+    },
+    "workbench.tree.renderIndentGuides": "none",
+    "[shellscript]": {
+        "editor.defaultFormatter": "shakram02.bash-beautify"
+    },
+    "keyboard.layout": "00020409",
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.clearPreviousOutput": true,
+    "files.exclude": {
+        ".outobj": true
+    },
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.detectLocale": "on",
+    "terminal.integrated.enableBell": true,
+    "java.debug.settings.showHex": true,
+    "terminal.integrated.confirmOnKill": "panel",
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "files.associations": {
+        "*.diff": "diff",
+        "*.yxx": "cpp",
+        "*.halcyon": "properties",
+        "*.hll": "html"
+    },
+    "liveshare.connectionMode": "relay",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "C_Cpp.addNodeAddonIncludePaths": true,
+    "C_Cpp.autocompleteAddParentheses": true,
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "java.codeGeneration.hashCodeEquals.useJava7Objects": true,
+    "java.codeGeneration.toString.skipNullValues": true,
+    "java.codeGeneration.useBlocks": true,
+    "java.eclipse.downloadSources": true,
+    "search.searchEditor.defaultNumberOfContextLines": 0,
+    "git.enableCommitSigning": true,
+    "git-graph.repository.sign.commits": true,
+    "git-graph.repository.sign.tags": true,
+    "cSpell.userWords": [
+        "jackm",
+        "Meng",
+        "xhttp"
+    ],
+    "cmake.configureOnOpen": true,
+    "errorLens.gutterIconsEnabled": true,
+    "errorLens.gutterIconSet": "circle",
+    "errorLens.gutterIconSize": "85%",
+    "peacock.affectDebuggingStatusBar": true,
+    "peacock.affectPanelBorder": true,
+    "peacock.affectSideBarBorder": true,
+    "oneDarkPro.bold": true,
+    "cppComment.CompleteParamType": true,
+    "bracketPairColorizer.colorMode": "Independent",
+    "bracketPairColorizer.forceIterationColorCycle": true,
+    "bracketPairColorizer.highlightActiveScope": true,
+    "bracketPairColorizer.depreciation-notice": false,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "notebook.outline.showCodeCells": true,
+    "telemetry.telemetryLevel": "off",
+    "winopacity.opacity": 240,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.iconTheme": "moxer-icons",
+    "glassit.step": 1,
+    "rpc.appName": "ArtiX",
+    "rpc.prioritizeLanguagesOverExtensions": true,
+    "update.showReleaseNotes": false,
+    "update.mode": "none",
+    "debug.internalConsoleOptions": "neverOpen",
+    "cmake.configureOnStart": false,
+    "cmake.cpptools.intelliSenseMode": "gcc-x64",
+    "cmake.default.extraGenerator": "CodeBlocks",
+    "cmake.default.generator": "MinGW Makefiles",
+    "cmake.reconfigureOnChange": true,
+    "cmake.showConsoleAutomatically": false,
+    "gitlens.views.branches.branches.layout": "list",
+    "testExplorer.useNativeTesting": true,
+    "codedox": {
+        "fileheader": {
+            "templates": {
+                "*": [
+                    "${license_agpl_3_0}"
+                ]
+            },
+            "params": {
+                "haxe": {
+                    "company": "exoad"
+                }
+            }
+        }
+    },
+    "haxe.enableCodeLens": false,
+    "java.codeGeneration.toString.codeStyle": "STRING_BUILDER",
+    "rpc.checkIdle": false,
+    "rpc.detailsIdling": ":)",
+    "rpc.idleText": "ZZZzzz",
+    "rpc.idleTimeout": 10000,
+    "rpc.lowerDetailsIdling": ":)",
+    "hexeditor.columnWidth": 32,
+    "hexeditor.showDecodedText": true,
+    "hexeditor.defaultEndianness": "little",
+    "hexeditor.inspectorType": "aside",
+    "local-history.daysLimit": 5,
+    "local-history.saveDelay": 12,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "vscode-neovim.logOutputToConsole": true,
+    "vscode-neovim.highlightGroups.highlights": {
+        "Directory": "vim",
+        "IncSearch": {
+            "backgroundColor": "theme.editor.findMatchBackground",
+            "borderColor": "theme.editor.findMatchBorder"
+        },
+        "Search": {
+            "backgroundColor": "theme.editor.findMatchHighlightBackground",
+            "borderColor": "theme.editor.findMatchHighlightBorder"
+        },
+        "Visual": {
+            "backgroundColor": "theme.editor.selectionBackground"
+        },
+        "Conceal": "vim",
+        "Substitute": "vim"
+    },
+    "vscode-neovim.neovimExecutablePaths.win32": "T:\\zip\\Media\\programs\\Neovim\\bin\\nvim.exe",
+    "vscode-neovim.neovimInitVimPaths.win32": "C:\\Users\\error\\AppData\\Local\\nvim\\init.vim",
+    "workbench.colorCustomizations": {
+        "[Noctis High Contrast]": {
+            "statusBarItem.activeBackground": "#89EDA4",
+            "statusBarItem.remoteBackground": "#fa9548",
+            "statusBar.background": "#fa9548",
+            "statusBar.foreground": "#000",
+            "statusBarItem.remoteForeground": "#000",
+            "statusBar.debuggingBackground": "#fa9548",
+            "statusBar.debuggingForeground": "#000",
+            "scrollbarSlider.background": "#fa9548",
+            "scrollbarSlider.hoverBackground": "#fa9548",
+            "tab.activeBorder": "#fa9548",
+            "editorSuggestWidget.highlightForeground": "#fa9548",
+            "editorSuggestWidget.border": "#0000",
+            "editorWarning.foreground": "#48b3fa",
+            "editorWarning.background": "#000",
+            "editorError.background": "#fa4848",
+            "editorError.foreground": "#000",
+            "notificationsErrorIcon.foreground": "#fa9548",
+            "notificationsInfoIcon.foreground": "#fa9548",
+            "notificationsWarningIcon.foreground": "#fa9548",
+            "listFilterWidget.background": "#000",
+            "list.highlightForeground": "#fa9548",
+            "list.hoverForeground": "#fa9548",
+            "list.activeSelectionForeground": "#000",
+            "activityBarBadge.background": "#fa9548",
+            "activityBarBadge.foreground": "#fa954877",
+            "list.dropBackground": "#000",
+            "editorMarkerNavigation.background": "#89EDA4",
+            "gitDecoration.stageModifiedResourceForeground": "#fa9548",
+            "gitDecoration.modifiedResourceForeground": "#fa9548",
+            "sideBar.border": "#000",
+        }
+    },
+    "editor.accessibilitySupport": "off",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.minimap.side": "left",
+    "editor.minimap.size": "fit",
+    "diffEditor.codeLens": true,
+    "files.simpleDialog.enable": false,
+    "files.trimTrailingWhitespace": true,
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "mergeEditor.Input": true,
+        "hexEditor.hexedit": true,
+        "vscode-interactive-input": true,
+        "interactive": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "imagePreview.previewEditor": true,
+        "vscode.markdown.preview.editor": true,
+        "jsProfileVisualizer.cpuprofile.table": true,
+        "jsProfileVisualizer.heapprofile.table": true,
+        "gitlens.rebase": true,
+        "latex-workshop-pdf-hook": true,
+        "pdf.preview": true,
+        "java.formatterSettingsEditor": true
+    },
+    "workbench.editor.defaultBinaryEditor": "hexEditor.hexedit",
+    "terminal.integrated.fontSize": 13,
+    "problems.showCurrentInStatus": true,
+    "notebook.consolidatedRunButton": true,
+    "notebook.lineNumbers": "on",
+    "workbench.colorTheme": "Noctis High Contrast",
+    "window.experimental.commandCenter": false,
+    "window.experimental.windowControlsOverlay.enabled": true,
+    "search.collapseResults": "auto",
+    "search.quickOpen.includeSymbols": true,
+    "search.showLineNumbers": true,
+    "search.useGlobalIgnoreFiles": true,
+    "debug.autoExpandLazyVariables": true,
+    "debug.showBreakpointsInOverviewRuler": true,
+    "debug.showSubSessionsInToolBar": true,
+    "notebook.cellFocusIndicator": "border",
+    "window.autoDetectHighContrast": false,
+    "editor.codeLensFontFamily": "Jetbrains Mono",
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "breadcrumbs.filePath": "off",
+    "breadcrumbs.showBooleans": false,
+    "breadcrumbs.showArrays": false,
+    "breadcrumbs.symbolPath": "last",
+    "workbench.editor.limit.value": 8,
+    "terminal.integrated.tabs.location": "left",
+    "workbench.editor.pinnedTabSizing": "compact",
+    "workbench.editor.scrollToSwitchTabs": true,
+    "errorLens.statusBarIconsEnabled": true,
+    "glassit.alpha": 200,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "workbench.sideBar.location": "right",
+    "debug.console.fontSize": 12,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontFamily": "'monospace'",
+    "workbench.productIconTheme": "feather-vscode",
+    "indentRainbow.errorColor": "rgba(128,32,32,0.8)",
+    "indentRainbow.lightIndicatorStyleLineWidth": 3,
+    "indentRainbow.tabmixColor": "rgba(128,32,96,0.8)",
+    "syntax.debugHover": true,
+    "indentRainbow.colors": [
+        "rgba(245, 173, 10,0.2)",
+    ],
+    "editor.lineNumbers": "relative",
+    "editor.linkedEditing": true,
+    "editor.mouseWheelZoom": true,
+    "editor.scrollbar.verticalScrollbarSize": 2,
+    "editor.minimap.autohide": true,
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.welcomePage.walkthroughs.openOnInstall": false,
+    "workbench.tips.enabled": false,
+    "workbench.editor.closeOnFileDelete": true,
+    "window.commandCenter": true,
+    "window.menuBarVisibility": "toggle",
+    "window.titleSeparator": " _",
+    "debug.allowBreakpointsEverywhere": true,
+    "comments.openView": "file",
+    "window.doubleClickIconToClose": true,
+    "gitlens.statusBar.enabled": false,
+    "gitlens.statusBar.alignment": "left",
+    "kotlin.languageServer.enabled": false,
+    "kotlin.debugAdapter.enabled": false,
+    "java.import.generatesMetadataFilesAtProjectRoot": true,
+    "java.inlayHints.parameterNames.enabled": "none",
+    "java.signatureHelp.enabled": true,
+    "java.symbols.includeSourceMethodDeclarations": true,
+    "java.debug.settings.showQualifiedNames": true,
+    "java.debug.settings.showStaticVariables": true,
+    "lldb.launch.terminal": "external",
+    "terminal.external.linuxExec": "konsole",
+    "terminal.integrated.env.linux": {
+        "GRAALVM_HOME": "/usr/lib/jvm/java-17-graalvm/bin",
+        "JAVA_HOME": "/usr/lib/jvm/java-17-temurin/bin",
+        "PATH": "/usr/lib/jvm/java-17-opendjk/bin:/home/jackm/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin"
+    },
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "JAVA_HOME",
+            "value": "/usr/lib/jvm/java-17-temurin/bin"
+        }
+    ],
+    "git.ignoreRebaseWarning": true,
+    "vscode-blur-linux.opacity": 75,
+    "window.newWindowDimensions": "inherit",
+    "outline.icons": false,
+    "window.titleBarStyle": "custom",
+    "explorer.compactFolders": false,
+    "explorer.fileNesting.enabled": true,
+    "explorer.incrementalNaming": "smart",
+    "explorer.sortOrderLexicographicOptions": "unicode",
+    "explorer.autoReveal": false,
+    "explorer.confirmUndo": "verbose",
+    "explorer.decorations.colors": false,
+    "editor.scrollbar.horizontalScrollbarSize": 3,
+    "extensions.ignoreRecommendations": true,
+    "gitlens.showWhatsNewAfterUpgrades": false,
+    "hxmanager.projectsRoot": ".",
+    "haxe.enableBraceBodyWrapping": true,
+    "haxe.inlayHints": {
+        "parameterTypes": true,
+        "conditionals": true
+    },
+    "haxecheckstyle.externalSourceRoots": [],
+    "errorLens.enabled": true,
+    "errorLens.enabledDiagnosticLevels": [
+        "warning",
+        "info",
+        "error"
+    ],
+    "haxe.haxeServerHost": "",
+    "editor.guides.bracketPairs": "active",
+    "editor.renderLineHighlight": "gutter",
+    "editor.cursorBlinking": "expand",
+    "workbench.list.smoothScrolling": true,
+    "editor.guides.indentation": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "output.smartScroll.enabled": false,
+    "interactiveWindow.alwaysScrollOnNewCell": false,
+    "editor.overviewRulerBorder": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.decorations.badges": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.experimental.stickyScroll.enabled": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.smoothScrolling": true,
+    "githubPullRequests.pullBranch": "never",
+    "editor.fontFamily": "'Maple Mono', 'Regular'",
+    "editor.fontSize": 14,
+    "Lua.telemetry.enable": false,
+    "[toml]": {
+        "editor.defaultFormatter": "tamasfe.even-better-toml"
+    },
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "terminal.integrated.shellIntegration.decorationIconSuccess": "debug-stackframe-focused",
+    "terminal.integrated.shellIntegration.decorationIconError": "debug-stackframe",
+    "terminal.integrated.shellIntegration.decorationIcon": "circle-large-filled",
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.wordWrap": "on",
+    "[plaintext]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false
+    },
+}
