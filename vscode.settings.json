@@ -633,7 +633,7 @@
             "list.hoverForeground": "#fa9548",
             "list.activeSelectionForeground": "#000",
             "activityBarBadge.background": "#fa9548",
-            "activityBarBadge.foreground": "#fa954877",
+            "activityBarBadge.foreground": "#000",
             "list.dropBackground": "#000",
             "editorMarkerNavigation.background": "#89EDA4",
             "gitDecoration.stageModifiedResourceForeground": "#fa9548",
