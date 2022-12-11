@@ -1,15 +1,9 @@
 
 ```python
 
-hi, i am Jack/exoad
+hi, i am Jack/exoad. am just a casual low level & graphics enjoyer :)
 
-i enjoy graphics & low level. 
-i mainly program in:
-  1. C->ANSI,C99
-  2. Elixir->ErLang
-  5. JVM->Kotlin,Java,Clojure
-  6. C++->0x,14
-  7. GLSL->OpenGL,Cuda
+i mainly program in C, C++, Java & Elixir.
 ```
 
 <details close>
