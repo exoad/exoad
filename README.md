@@ -8,9 +8,7 @@ i mainly program in C, C++, Java & Elixir.
 
 <details close>
 <summary>
-<code>
-[ working on ]
-</code>
+<code>[ working on ]</code>
 </summary>
 <br>
 <code>public projects:</code>
