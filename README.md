@@ -1,7 +1,7 @@
 
 ```python
 
-hi, i am Jack/exoad. am just a casual low level & graphics enjoyer :)
+hi, i am Jack/exoad a casual low level & graphics enjoyer :)
 
 i mainly program in C, C++, Java & Elixir.
 ```
