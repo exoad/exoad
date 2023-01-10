@@ -27,7 +27,7 @@ i mainly program in C, C++, Java & Elixir.
 
 <details close>
   <summary>
-    <code>extras</code>
+    <code>[ my bad habits ]</code>
   </summary>
   <br>
   This field contains how code is laid out in a source tree for most if not all of my projects
