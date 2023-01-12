@@ -55,7 +55,7 @@ i mainly program in C, C++, Java & Elixir.
   `use` -> Common prefix for "Usage Dependency" or "Usage Functionalities," which contain primal definitions for certain Object Creation or basic collectivized 
            function groups.<br>
   `impl` -> Commonly seen in JVM languages with `abstract interface` or `abstract class` definitions. Clearly states that this class requires implementation for             proper runtime behaviors.<br>
-  `sys` -> Low level syscalls that can be abstracted away either to a native call. Most of these codes use some form of platform dependent shared binaries that 
+  `sys` -> Low level syscalls that can be abstracted away either to a native call or implemented on the spot. Most of these codes use some form of platform dependent shared binaries that 
            must be either statically or dynamically linked at runtime (*.so, *.dll, *.dylib)<br>
   `t` -> Suffix commonly used to denote a type definition. For example, my Java stl `com.jackmeng.stl.types.UInt_t` defines an Unsigned Integer type.<br>
   `gui` -> An uncommon prefix used to denote that a certain file is primarily involved in GUI processing and GUI presentation. Should not be confused with GUI
