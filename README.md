@@ -61,7 +61,7 @@ i mainly program in C, C++, Java & Elixir.
   `gui` -> An uncommon prefix used to denote that a certain file is primarily involved in GUI processing and GUI presentation. Should not be confused with GUI
            utility functions.<br>
   `struct` or `st` -> Defines a structure. Similar to a `use` and a `t` when combined, most commonly for defining certain utility structures, like a Pair,                             SetQueue, etc.. Commonly used to define data structures not provided by the language's STL. <br>
-  `run` or `rou` -> Defines a routine to run. Most commonly found as a script file or some kind of single one time runnable that performs some bootstrap calls                       before something else can eb executed. This could found as a non GNU Makefile written in maybe like BASH.<br>
+  `run` or `rou` -> Defines a routine to run. Most commonly found as a script file or some kind of single one time runnable that performs some bootstrap calls                       before something else can be executed. This could found as a non GNU Makefile written in maybe like BASH.<br>
   `yum` -> Common prefix to represent "assets" or consumables that are to be loaded by a higher level binary during runtime. These files are not statically                linked, instead primarily JIT loaded by some kind of fetcher.<br>
   `const` -> Defines constants, primarily those that are immutable.<br>
   
