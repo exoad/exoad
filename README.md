@@ -22,6 +22,7 @@ i mainly program in C, C++, Java & Elixir.
 |<code>question-mark</code>|General Purpose UI Toolkit in Haxe & C++|https://github.com/exoad/question-mark|
 |<code>native-util</code>|Low Level System Interface|https://github.com/Exoad4JVM/util.git|
 |<code>usaco-mashup-bot</code>|One off project: USACO Mashup Discord Bot|https://github.com/exoad/usaco-mashup-bot.git|
+|<code>Halite</code>|A property file management toolkit|https://github.com/exoad/HaliteLoader.java|
 
 </details>
 
