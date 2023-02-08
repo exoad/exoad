@@ -23,6 +23,7 @@ i mainly program in C, C++, Java & Elixir.
 |<code>native-util</code>|Low Level System Interface|https://github.com/Exoad4JVM/util.git|
 |<code>usaco-mashup-bot</code>|One off project: USACO Mashup Discord Bot|https://github.com/exoad/usaco-mashup-bot.git|
 |<code>Halite</code>|A property file management toolkit|https://github.com/exoad/HaliteLoader.java|
+  |<code>Javac Compiler Extensions</code>|A plugin and toolkit aiming to improve interactions between Compiler and Source. Furthermore allowing for certain elements of Meta-programming to be implemented into raw Java with Javac|
 
 </details>
 
