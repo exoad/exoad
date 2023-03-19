@@ -28,4 +28,5 @@ i mainly program in C, C++, Java & Elixir.
 
 </details>
 
-check out my codemap [here](https://github.com/exoad/codemap.md)!
+check out my library extensions for JVM & DVM: [here](https://github.com/exoad/com.jackmeng) & [here](https://github.com/exoad/pkg.jackmeng)
+
