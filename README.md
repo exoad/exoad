@@ -28,5 +28,5 @@ i mainly program in C, C++, Java & Elixir.
 
 </details>
 
-check out my library extensions for JVM & DVM: [here](https://github.com/exoad/com.jackmeng) & [here](https://github.com/exoad/pkg.jackmeng)
+check out my library deviances for JVM & DVM: [here](https://github.com/exoad/com.jackmeng) & [here](https://github.com/exoad/pkg.jackmeng)
 
