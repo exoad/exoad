@@ -3,7 +3,7 @@
 
 hi, i am Jack/exoad a casual low level & graphics enjoyer :)
 
-i mainly program in C, C++, Java & Elixir.
+i mainly program in C, C++, Java, Dart & Elixir.
 ```
 
 <details close>
