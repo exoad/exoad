@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<strong>OLD DEPRECATED PORTFOLIO SITE</strong>
 <html>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </html>
