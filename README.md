@@ -3,7 +3,7 @@
 
 <div align="center">
 
-> **Note** This user just bashes their head to code.
+> **Warning** This user just bashes their head to code.
 
 
 ```
