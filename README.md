@@ -1,8 +1,10 @@
 <h1 align="center">🎏 exoad 🎏</h1>
 
-> Note: exoad
 
 <div align="center">
+
+> **Note**: exoad
+
 
 ```
 
