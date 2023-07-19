@@ -1,10 +1,8 @@
 <h1 align="center">exoad</h1>
 
-<div align="center">
-<code>
+<code align="center">
 hi, i code things...
 </code>
-</div>
 
 <br>
 
