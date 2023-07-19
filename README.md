@@ -42,6 +42,6 @@ i can lend a hand in fields dealing with systems or ad hoc fields:
 4. JavaScript (NodeJS)
 5. Haxe (OpenFL)
 
-follow through my going to the *inquiries* section
+follow through by going to the *inquiries* section
 
 </details>
