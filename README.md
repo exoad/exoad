@@ -1,11 +1,12 @@
 <h1 align="center">exoad</h1>
 
 <div align="center">
-<code>
+
+```
 
 hi, i code things...
 
-</code>
+```
 
 </div>
 
