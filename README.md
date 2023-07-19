@@ -1,4 +1,6 @@
-<h1 align="center">Note: 🎏 exoad 🎏</h1>
+<h1 align="center">🎏 exoad 🎏</h1>
+
+> Note: exoad
 
 <div align="center">
 
