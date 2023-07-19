@@ -41,6 +41,7 @@ i can lend a hand in fields dealing with systems or ad hoc fields:
 3. Dart (Flutter!)
 4. JavaScript (NodeJS)
 5. Haxe (OpenFL)
+6. Crostini (ChromeOS Linux container interfacing)
 
 follow through by going to the *inquiries* section
 
