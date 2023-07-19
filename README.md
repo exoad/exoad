@@ -3,7 +3,7 @@
 
 <div align="center">
 
-> **Note**: exoad
+> **Note** This user just bashes their head to code.
 
 
 ```
@@ -22,7 +22,7 @@ hi, i code things
 
 <details>
 <summary>
-<strong>inquiries?</strong>
+<strong>🎀 inquiries?</strong>
 </summary>
 
 if you have inquiries regarding my software, give me a forward through my discord server: [link](https://discord.gg/PbJQRT9zQ8)
@@ -31,7 +31,7 @@ if you have inquiries regarding my software, give me a forward through my discor
 
 <details>
 <summary>
-need a hand?
+🏮 need a hand?
 </summary>
 
 i can lend a hand in fields dealing with systems or ad hoc fields:
