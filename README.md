@@ -1,6 +1,6 @@
 <img src="1689908066576652.gif" height=72 />
 
-<h1 align="center">🎏 exoad 🎏</h1>
+<h1 align="center">🎏 exoad</h1>
 
 
 <div align="center">
