@@ -1,6 +1,8 @@
+<div> 
 <img src="1689908066576652.gif" height=72 />
-
-<h1 align="center">🎏 exoad</h1>
+<img src="carp_flag.png" height=72 />
+</div>
+<h1 align="center">exoad</h1>
 
 
 <div align="center">
