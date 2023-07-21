@@ -1,6 +1,6 @@
 <div> 
-<img src="1689908066576652.gif" height=72 />
-<img src="carp_flag.png" height=72 />
+<img src="1689908066576652.gif" height=56 />
+<img src="carp_flag.png" height=56 />
 </div>
 <h1 align="center">exoad</h1>
 
