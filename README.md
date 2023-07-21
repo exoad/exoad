@@ -46,3 +46,14 @@ i can lend a hand in fields dealing with systems or ad hoc fields:
 follow through by going to the *inquiries* section
 
 </details>
+
+<details>
+  <summary>
+    cool picture
+  </summary>
+
+<div align="center">
+<img src="海沿いの道.png"/>
+</div>
+  
+</details>
