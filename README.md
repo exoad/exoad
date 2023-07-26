@@ -6,7 +6,7 @@
 </div>
 <h1 align="center">exoad</h1>
 
-hi, I am **exoad**, a high schooler from New York. I am experienced in systems and low-level programming with frameworks primarily in graphics in **OpenGL** and **Cuda**. Currently, I am learning **MonoGame** and **LibGDX** in preparation for my journey with game development. 
+Hi! I am **exoad**, a high schooler from New York. I am experienced in systems and low-level programming with frameworks primarily in graphics in **OpenGL** and **Cuda**. Currently, I am learning **MonoGame** and **LibGDX** in preparation for my journey with game development. 
 
 <hr>
 
