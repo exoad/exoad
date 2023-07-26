@@ -1,7 +1,7 @@
 <div> 
 <img src="1689908066576652.gif" height=48 />
-<img src="carp_flag.png" height=48 />
-<img src="i-gif.gif" height=48 />
+<a href="https://open.spotify.com/playlist/25rvIynJB1LPLHkhJpMyGq?si=c19fec2d74374cac"><img src="carp_flag.png" height=48 /></a>
+<a href="https://www.youtube.com/@exoad"><img src="i-gif.gif" height=48 /></a>
 <a href="https://discord.gg/PbJQRT9zQ8"><img src="discord-mark-blue.png" height=42/></a>
 </div>
 <h1 align="center">exoad</h1>
