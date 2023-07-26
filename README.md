@@ -41,14 +41,15 @@ if you have inquiries regarding my software, give me a forward through my discor
 🏮 need a hand?
 </summary>
 
-i can lend a hand in fields dealing with systems or ad hoc fields:
+i do stuffs in
 
-1. Java (Swing!)
-2. C/C++ (0x, Boost, OpenGL, Lua)
-3. Dart (Flutter!)
+1. Java (Swing, LibGDX, Spring, Kotlin)
+2. C/C++ (0x, Boost, OpenGL, Lua, Skia)
+3. Dart (Flutter)
 4. JavaScript (NodeJS)
-5. Haxe (OpenFL)
-6. Crostini (ChromeOS Linux container interfacing)
+5. Haxe (OpenFL, Kha)
+6. C# (MonoGame)
+7. Crostini (ChromeOS Linux container interfacing)
 
 follow through by going to the *inquiries* section
 
