@@ -6,19 +6,21 @@
 </div>
 <h1 align="center">exoad</h1>
 
+hi, I am **exoad**, a high schooler from New York. I am experienced in systems and low-level programming with frameworks primarily in graphics in **OpenGL** and **Cuda**. Currently, I am learning **MonoGame** and **LibGDX** in preparation for my journey with game development. 
+
+<hr>
 
 <div align="center">
+  
 
-> i am working on **learning game dev**
+![exoad](https://github-readme-stats.vercel.app/api?username=exoad&show_icons=true&hide_border=true&hide_title=true&&include_all_commits=true&ring_color=f74f8a&bg_color=000&text_color=4EFA74&icon_color=f0a433)
 
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=000&text_color=4EFA74&icon_color=f0a433)
 
-...
-
+```md
+***
 hi, i code things
-
-...
-
+***
 ```
 
 </div>
