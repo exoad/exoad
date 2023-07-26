@@ -9,9 +9,7 @@
 
 <div align="center">
 
-> **Warning**
->
-> This user has forgor
+> i am working on **learning game dev**
 
 ```
 
