@@ -38,7 +38,7 @@ if you have inquiries regarding my software, give me a forward through my discor
 
 <details>
 <summary>
-🏮 need a hand?
+🏮 i code.
 </summary>
 
 i do stuffs in
