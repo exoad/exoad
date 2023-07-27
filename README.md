@@ -22,11 +22,6 @@ Here are some of my **public** projects I have made and have received some updat
 
 <h2>what i use</h2>
 
-<!--
-          <li>
-            <a href="https://dart.dev"> <img align="left" src="logo_dart_1080px_clr.png" width=20>Dart</a>   —</strong>   Very comfortable after some time developing with it for my Flutter apps.
-          </li>
--->
 
 <ul>
   <li>
