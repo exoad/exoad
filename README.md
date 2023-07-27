@@ -31,39 +31,17 @@ Here are some of my **public** projects I have made and have received some updat
         list them!
       </summary>
     <ul>
-      <li>
-        <a href="https://www.glfw.org/"> <img align="left" src="OpenGL_100px_June16.png" width=24>GLFW</a>
-      </li>
-      <li>
-        <a href="https://flutter.dev"> <img align="left" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width=20>Flutter</a>
-      </li>
-      <li>
-        <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html"> <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width=20>Swing</a>
-      </li>
-      <li>
-        <a href="https://github.com/Kode/Kha"> <img align="left" src="https://haxe.org/img/branding/haxe-logo-glyph.png" width=20>Kha</a>
-      </li>
-      <li>
-        <a href="https://www.google.com/search?client=firefox-b-1-d&q=libgdx"> <img align="left" src="https://avatars.githubusercontent.com/u/509841?s=200&v=4" width=20>LibGDX</a>
-      </li>
-      <li>
-        <a href="https://www.monogame.net/"> <img align="left" src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true" width=20>MonoGame</a>
-      </li>
-      <li>
-        <a href="https://nodejs.org/en"> <img align="left" src="nodejs.png" width=24>NodeJS <em>[including NPM packages]</em></a>
-      </li>
-      <li>
-        <a href="https://llvm.org/"> <img align="left" src="https://llvm.org/img/DragonMedium.png" width=20>LLVM</a>
-      </li>
-      <li>
-        <a href="https://github.com/Kode/Kha"> <img align="left" src="https://github.com/Kode.png?size=512" width=20>Kha</a>
-      </li>
-      <li>
-        <a href="https://tauri.app/"> <img align="left" src="tauri.png" width=20>Tauri</a>
-      </li>
-      <li>
-        <a href="https://skia.org/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png" width=20>Skia</a>
-      </li>
+      <li><a href="https://www.glfw.org/"> <img align="left" src="OpenGL_100px_June16.png" width=24>GLFW</a></li>
+      <li><a href="https://flutter.dev"> <img align="left" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width=20>Flutter</a></li>
+      <li><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html"> <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width=20>Swing</a></li>
+      <li><a href="https://github.com/Kode/Kha"> <img align="left" src="https://haxe.org/img/branding/haxe-logo-glyph.png" width=20>Kha</a></li>
+      <li><a href="https://www.google.com/search?client=firefox-b-1-d&q=libgdx"> <img align="left" src="https://avatars.githubusercontent.com/u/509841?s=200&v=4" width=20>LibGDX</a></li>
+      <li><a href="https://www.monogame.net/"> <img align="left" src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true" width=20>MonoGame</a></li>
+      <li><a href="https://nodejs.org/en"> <img align="left" src="nodejs.png" width=24>NodeJS <em>[including NPM packages]</em></a></li>
+      <li><a href="https://llvm.org/"> <img align="left" src="https://llvm.org/img/DragonMedium.png" width=20>LLVM</a></li>
+      <li>a href="https://github.com/Kode/Kha"> <img align="left" src="https://github.com/Kode.png?size=512" width=20>Kha</a></li>
+      <li><a href="https://tauri.app/"> <img align="left" src="tauri.png" width=20>Tauri</a></li>
+      <li><a href="https://skia.org/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png" width=20>Skia</a></li>
     </ul>
     </details>
   </li>
