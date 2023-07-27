@@ -1,7 +1,5 @@
 <h1 align="center">
-  exoad
-
-  <img src="clouds.png"/>
+  <img src="title_tag.png" height=130 alt="exoad"/>
 </h1>
 
 <img src="wave.png" width=54/> Hi! I am **exoad**, a high schooler from New York. **I am experienced in systems and low-level programming** with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop apps primarily with my own **Java Swing** adaptation and more recently, **Flutter**. Lastly, I am currently learning [**MonoGame**](https://www.monogame.net/) and [**LibGDX**](https://libgdx.com/) in preparation for my journey with game development.
