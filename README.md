@@ -37,7 +37,7 @@ Here are some of my **public** projects I have made and have received some updat
       <li><a href="https://github.com/Kode/Kha"> <img align="left" src="https://haxe.org/img/branding/haxe-logo-glyph.png" width=20>Kha</a></li>
       <li><a href="https://www.google.com/search?client=firefox-b-1-d&q=libgdx"> <img align="left" src="https://avatars.githubusercontent.com/u/509841?s=200&v=4" width=20>LibGDX</a></li>
       <li><a href="https://www.monogame.net/"> <img align="left" src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true" width=20>MonoGame</a></li>
-      <li><a href="https://nodejs.org/en"> <img align="left" src="nodejs.png" width=24>NodeJS <em>[including NPM packages]</em></a></li>
+      <li><a href="https://nodejs.org/en"> <img align="left" src="nodejs.png" width=20>NodeJS <em>[including NPM packages]</em></a></li>
       <li><a href="https://llvm.org/"> <img align="left" src="https://llvm.org/img/DragonMedium.png" width=20>LLVM</a></li>
       <li>a href="https://github.com/Kode/Kha"> <img align="left" src="https://github.com/Kode.png?size=512" width=20>Kha</a></li>
       <li><a href="https://tauri.app/"> <img align="left" src="tauri.png" width=20>Tauri</a></li>
