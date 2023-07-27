@@ -33,7 +33,7 @@ Here are some of my **public** projects I have made and have received some updat
     <ul>
       <li><a href="https://www.glfw.org/"> <img align="left" src="OpenGL_100px_June16.png" width=24>GLFW</a></li>
       <li><a href="https://flutter.dev"> <img align="left" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width=16>Flutter</a></li>
-      <li><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html"> <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width=18>Swing</a></li>
+      <li><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html"> <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width=16>Swing</a></li>
       <li><a href="https://github.com/Kode/Kha"> <img align="left" src="https://haxe.org/img/branding/haxe-logo-glyph.png" width=20>Kha</a></li>
       <li><a href="https://www.google.com/search?client=firefox-b-1-d&q=libgdx"> <img align="left" src="https://avatars.githubusercontent.com/u/509841?s=200&v=4" width=20>LibGDX</a></li>
       <li><a href="https://www.monogame.net/"> <img align="left" src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true" width=20>MonoGame</a></li>
