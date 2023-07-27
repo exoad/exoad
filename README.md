@@ -2,7 +2,7 @@
   <img src="title_pic.png" alt="exoad"/>
 </h1>
 
-<img src="wave.png" width=54/> Hi! I am **exoad**, a high schooler from New York. **I am experienced in systems and low-level programming** with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop apps primarily with my own **Java Swing** adaptation and more recently, **Flutter**. Lastly, I am currently learning [**MonoGame**](https://www.monogame.net/) and [**LibGDX**](https://libgdx.com/) in preparation for my journey with game development.
+<img src="wave.png" width=54/> **Hi there!** I am exoad, a high schooler from New York. **I am experienced in systems and low-level programming** with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop apps primarily with my own **Java Swing** adaptation and more recently, **Flutter**. Lastly, I am currently learning [**MonoGame**](https://www.monogame.net/) and [**LibGDX**](https://libgdx.com/) for my game development dive.
 
 <h2>some projects</h2>
 
@@ -112,11 +112,11 @@ my socials >
 
 <details>
   <summary>🎨 my design</summary>
-  I do not have a specific design that you can recognize. However, my main color palette is these colors:
-
+  I do not have a specific design that you can recognize. However, my main color palette in these colors:
+  
   <img src="colormap.png" />
 
-  **in the old days,** my main color was `#89eda4`: a bright teal/mint color.
+  **in the old days,** my main brand color was `#89eda4`: a bright teal/mint color.
 </details>
 
 <details>
@@ -138,3 +138,5 @@ if you have inquiries regarding my software, give me a forward through my discor
 </div>
   
 </details>
+
+> exoad ^_^
