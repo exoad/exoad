@@ -24,7 +24,7 @@
       <strong>com.jackmeng</a> —</strong> Tool box of random things for Java.
   </li>
 </ul>
-<h2>what i use</h2>
+<h2>what i know</h2>
 <ul>
   <li>
     <h4> <img src="construction.png" width=24 /> <strong>Frameworks —</strong> Libraries, toolkits, engines, and more...
