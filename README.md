@@ -84,8 +84,9 @@ Here are some of my **public** projects I have made and have received some updat
     <details>
     <summary>list them!</summary>
     <ul>
-      <li><strong>General Editor</strong>: <a href="https://code.visualstudio.com/">VSCode</a></li>
-      <li><strong>OS</strong>: <a href="https://manjaro.org/"><img src="https://gitlab.manjaro.org/artwork/branding/logo/-/raw/master/logo.png" width=20 /> Manjaro (KDE)</a></li>
+      <li><strong>Editors</strong>: <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" /></a>, <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" /></a></li>
+      <li><strong>Browser</strong>: <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" alt="Firefox" /></a></li>
+      <li><strong>OS</strong>: <a href="https://manjaro.org/"><img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white" alt="Manjaro" /></a></li>
     </ul>
     </details>
   </li>
