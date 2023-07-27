@@ -121,7 +121,7 @@
 <div align="center">
   <img  alt="stats#1" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exoad&theme=tokyonight" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" width=50% />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" />
   <div>
     my socials >
     <a href="https://github.com/exoad"><img src="1689908066576652.gif" height=48 /></a>
