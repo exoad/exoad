@@ -108,7 +108,16 @@ my socials >
 
 <hr>
 
-<br>
+<be>
+
+<details>
+  <summary>🍚 my design</summary>
+  I do not have a specific design that you can recognize. However, my main color palette is these colors:
+
+  <img src="colormap.png" />
+
+  **in the old days,** my main color was `#89eda4`: a bright teal/mint color.
+</details>
 
 <details>
 <summary>
