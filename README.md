@@ -10,7 +10,7 @@ Here are some of my **public** projects I have made and have received some updat
 
 <ul>
   <li>
-    <a href="https://github.com/Halcyoninae"> <img align="left" src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png" width=24> <strong>Halcyon</a>   —</strong>   Audio player with a nice GUI to go with it.
+    <a href="https://github.com/Halcyoninae"> <img align="left" src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png" width=20> <strong>Halcyon</a>   —</strong>   Audio player with a nice GUI to go with it.
   </li>
   <li>
     <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="unknown.png" width=24> <strong>Yttrius</a>   —</strong>   A simple compiled and extensible programming language.
