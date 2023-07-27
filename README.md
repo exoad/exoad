@@ -119,10 +119,9 @@
 </ul>
 <h2>stats</h2>
 <div align="center">
+  <img  alt="stats#1" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exoad&theme=tokyonight" />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=exoad&show_icons=true&hide_border=true&hide_title=true&&include_all_commits=true&ring_color=f74f8a&bg_color=000&text_color=4EFA74&icon_color=f0a433&number_format=long" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=000&text_color=4EFA74&icon_color=f0a433" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" width=50% />
   <div>
     my socials >
     <a href="https://github.com/exoad"><img src="1689908066576652.gif" height=48 /></a>
