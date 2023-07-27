@@ -140,3 +140,8 @@ if you have inquiries regarding my software, give me a forward through my discor
 </details>
 
 > exoad ^_^
+<div align="center">
+  
+![](https://profile-counter.glitch.me/exoad/count.svg)
+
+</div>
