@@ -25,7 +25,7 @@ Here are some of my **public** projects I have made and have received some updat
 
 <ul>
   <li>
-    <h4> <img src="construction.png" width=24"/> <strong>Frameworks   —</strong>   Libraries, toolkits, engines, and more...</h4>
+    <h4> <img src="construction.png" width=24/> <strong>Frameworks   —</strong>   Libraries, toolkits, engines, and more...</h4>
     <details>
       <summary>
         list them!
@@ -89,7 +89,7 @@ Here are some of my **public** projects I have made and have received some updat
         <ul>
           <li>JavaScript (>2)</li>
           <li>Lua (>4)</li>
-        </ul>  
+        </ul>
       </li>
       <li>
         <strong>General</strong>
@@ -108,7 +108,7 @@ Here are some of my **public** projects I have made and have received some updat
     <ul>
       <li><strong>General Editor</strong>: <a href="https://code.visualstudio.com/">VSCode</a></li>
       <li><strong>OS</strong>: <a href="https://manjaro.org/"><img src="https://gitlab.manjaro.org/artwork/branding/logo/-/raw/master/logo.png" width=20 /> Manjaro (KDE)</a></li>
-    </ul>      
+    </ul>
     </details>
   </li>
 </ul>
