@@ -120,27 +120,8 @@ if you have inquiries regarding my software, give me a forward through my discor
 </details>
 
 <details>
-<summary>
-🏮 i code.
-</summary>
-
-i do stuffs in
-
-1. Java (Swing, LibGDX, Spring, Kotlin)
-2. C/C++ (0x, Boost, OpenGL, Lua, Skia)
-3. Dart (Flutter)
-4. JavaScript (NodeJS)
-5. Haxe (OpenFL, Kha)
-6. C# (MonoGame)
-7. Crostini (ChromeOS Linux container interfacing)
-
-follow through by going to the *inquiries* section
-
-</details>
-
-<details>
   <summary>
-    cool picture
+    🏮 cool picture
   </summary>
 
 <div align="center">
