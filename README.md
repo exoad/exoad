@@ -19,10 +19,6 @@
     <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="unknown.png" width=24> <strong>Yttrius</a>
     —</strong> A simple compiled and extensible programming language.
   </li>
-  <li>
-    <a href="https://github.com/exoad/com.jackmeng"> <img align="left" src="unknown.png" width=24>
-      <strong>com.jackmeng</a> —</strong> Tool box of random things for Java.
-  </li>
 </ul>
 <h2>what i know</h2>
 <ul>
