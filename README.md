@@ -130,7 +130,6 @@
     <summary>🎨 my design</summary>
     I do not have a specific design that you can recognize. However, my main color palette in these colors:
     <img src="colormap.png" />
-    <strong>in the old days</strong>, my main brand color was <code>#89eda4</code>: a bright teal/mint color.
   </details>
   <details>
     <summary>
