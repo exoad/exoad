@@ -65,11 +65,11 @@
         <li>
           <strong>Object Oriented</strong>
           <ul>
-            <li>Java/Kotlin (>3) </li>
+            <li>Java/Kotlin (~4) </li>
             <li>Dart (>2)</li>
             <li>C++ (>4)</li>
-            <li>Haxe (>3)</li>
-            <li>C# (>0.5)</li>
+            <li>Haxe (~2)</li>
+            <li>C# (~0.1)</li>
           </ul>
         </li>
         <li>
@@ -83,7 +83,7 @@
           <strong>General</strong>
           <ul>
             <li>C (>5)</li>
-            <li>Rust (>0.5)</li>
+            <li>Rust (~0.1)</li>
           </ul>
         </li>
       </ul>
