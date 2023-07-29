@@ -4,9 +4,9 @@
 <p><img src="wave.png" width=54 /> <strong>Hi there!</strong> I am exoad, a high schooler from New York. <strong>I am experienced in systems and
     low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
   <strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps primarily with my own <strong>Java
-    Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Lastly, I am currently learning <a
+    Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Recently, I am learning <a
     href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
-    href="https://libgdx.com/"><strong>LibGDX</strong></a> for my game development dive.</p>
+    href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.</p>
 <h2>some projects</h2>
 <p>Here are some of my <strong>recent</strong> projects I have made and have received some updates in recent times.</p>
 <ul>
