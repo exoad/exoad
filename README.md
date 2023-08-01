@@ -19,6 +19,10 @@
     <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="unknown.png" width=24> <strong>Yttrius</a>
     —</strong> A simple compiled and extensible programming language.
   </li>
+  <li>
+    <a href="https://github.com/exoad/prismix"> <img align="left" src="https://github.com/exoad/prismix/blob/master/assets/_icon.png" width=20>
+    <strong>Prismix </a></strong>— Simple tool for dealing with colors
+  </li>
 </ul>
 <h2>what i know</h2>
 <ul>
