@@ -24,6 +24,41 @@
     <strong>Prismix </a></strong>— Simple tool for dealing with colors
   </li>
 </ul>
+<p>
+  Here are some other common things I have released as _public_:
+  <details>
+    <summary>
+      list them!
+    </summary>
+    <ul>
+      <li>
+        <a href="https://github.com/exoad/com.jackmeng"> <img align="left" src="unknown.png" width=20>
+        <strong>com.jackmeng </a></strong>— A library of a bunch of random things to help with developing in Java
+      </li>
+      <li>
+        <a href="https://github.com/exoad/animas-firefox"> <img align="left" src="unknown.png" width=20>
+        <strong>Firefox Animas </a></strong>— Anime themes for Firefox 
+      </li>
+      <li>
+        <a href="https://github.com/exoad/toasterify"> <img align="left" src="https://github.com/exoad/toasterify/blob/main/assets/icon1024.png?raw=true" width=20>
+        <strong>Toasterify </a></strong>— An Android app to warm up your phone to warm up your hands in cold times
+      </li>
+      <li>
+        <a href="https://github.com/exoad/ansicolor"> <img align="left" src="unknown.png" width=20>
+        <strong>ansicolor </a></strong>— A Java library to make dealing with ANSI coloring and prettifying CLI text easier
+      </li>    
+      <li>
+        <a href="https://github.com/exoad/usaco_mashups"> <img align="left" src="unknown.png" width=20>
+        <strong>USACO Mashups </a></strong>— Discord Bot written in NodeJS and Java to help with creating problemsets for the USACO competition
+      </li> 
+      <li>
+        <a href="https://github.com/exoad/meta_javac"> <img align="left" src="unknown.png" width=20>
+        <strong>Meta4J </a></strong>— An attempt to add meta programming into Java with the help of the inbuilt annotation API
+      </li>   
+    </ul>
+    and more!
+  </details>
+</p>      
 <h2>what i know</h2>
 <ul>
   <li>
