@@ -167,7 +167,7 @@
 <be>
   <details>
     <summary>🎨 my design</summary>
-    I do not have a specific design that you can recognize. However, my main color palette in these colors:
+    Here are the main colors that I use in most of current-day GUI apps:<br>
     <img src="colormap.png" />
   </details>
   <details>
