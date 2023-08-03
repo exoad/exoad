@@ -25,7 +25,7 @@
   </li>
 </ul>
 <p>
-  Here are some other common things I have released publicly:
+  Here are some other projects I have released publicly:
   <details>
     <summary>
       list them!
