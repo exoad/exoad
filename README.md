@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="title_pic.png" alt="exoad" />
+  <img src="title_pic.png" alt="exoad" height=180/>
 </h1>
 <p><img src="wave.png" width=54 /> <strong>Hi there!</strong> I am exoad, a high schooler from New York. <strong>I am experienced in systems and
     low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
@@ -37,7 +37,7 @@
       </li>
       <li>
         <a href="https://github.com/exoad/animas-firefox"> <img align="left" src="unknown.png" width=20>
-        <strong>Firefox Animas </a></strong>— Anime themes for Firefox 
+        <strong>Firefox Animas </a></strong>— Anime themes for Firefox
       </li>
       <li>
         <a href="https://github.com/exoad/toasterify"> <img align="left" src="https://github.com/exoad/toasterify/blob/main/assets/icon1024.png?raw=true" width=20>
@@ -46,19 +46,19 @@
       <li>
         <a href="https://github.com/exoad/ansicolor"> <img align="left" src="unknown.png" width=20>
         <strong>ansicolor </a></strong>— A Java library to make dealing with ANSI coloring and prettifying CLI text easier
-      </li>    
+      </li>
       <li>
         <a href="https://github.com/exoad/usaco_mashups"> <img align="left" src="unknown.png" width=20>
         <strong>USACO Mashups </a></strong>— Discord Bot written in NodeJS and Java to help with creating problemsets for the USACO competition
-      </li> 
+      </li>
       <li>
         <a href="https://github.com/exoad/meta_javac"> <img align="left" src="unknown.png" width=20>
         <strong>Meta4J </a></strong>— An attempt to add meta programming into Java with the help of the inbuilt annotation API
-      </li>   
+      </li>
     </ul>
     and more!
   </details>
-</p>      
+</p>
 <h2>what i know</h2>
 <ul>
   <li>
