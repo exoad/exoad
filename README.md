@@ -25,7 +25,7 @@
   </li>
 </ul>
 <p>
-  Here are some other common things I have released as _public_:
+  Here are some other common things I have released publicly:
   <details>
     <summary>
       list them!
@@ -49,7 +49,7 @@
       </li>
       <li>
         <a href="https://github.com/exoad/usaco_mashups"> <img align="left" src="unknown.png" width=20>
-        <strong>USACO Mashups </a></strong>— Discord Bot written in NodeJS and Java to help with creating problemsets for the USACO competition
+        <strong>USACO Mashups </a></strong>— Discord Bot is written in NodeJS and Java to help with creating problem sets for the USACO competition
       </li>
       <li>
         <a href="https://github.com/exoad/meta_javac"> <img align="left" src="unknown.png" width=20>
@@ -81,13 +81,13 @@
               src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true"
               width=20>MonoGame</a> - Currently learning for getting into game development</li>
         <li><a href="https://nodejs.org/en"> <img align="left" src="nodejs.png" width=20>NodeJS <em>[including NPM
-              packages]</em></a> - Mainly used for creating Discord bots and light weight server based hosting apps.</li>
+              packages]</em></a> - Mainly used for creating Discord bots and lightweight server-based hosting apps.</li>
         <li><a href="https://llvm.org/"> <img align="left" src="https://llvm.org/img/DragonMedium.png" width=20>LLVM</a>
         </li>
-        <li><a href="https://tauri.app/"> <img align="left" src="tauri.png" width=20>Tauri</a> - Recently for getting into web development along with learning Rust and migrating most of my public and private projects to Rust</li>
+        <li><a href="https://tauri.app/"> <img align="left" src="tauri.png" width=20>Tauri</a> - Recently getting into web development along with learning Rust and migrating most of my public and private projects to Rust</li>
         <li><a href="https://skia.org/"> <img align="left"
               src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png"
-              width=20>Skia</a> - Utilized for my latest reimplementation of the Swing framework with JetBrain's Skia for Java implementation</li>
+              width=20>Skia</a> - Utilized for my latest reimplementation of the Swing framework with JetBrain's Skia bindings for Java implementation</li>
       </ul>
     </details>
   </li>
