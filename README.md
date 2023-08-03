@@ -69,27 +69,25 @@
         list them!
       </summary>
       <ul>
-        <li><a href="https://www.glfw.org/"> <img align="left" src="OpenGL_100px_June16.png" width=24>GLFW</a></li>
+        <li><a href="https://www.glfw.org/"> <img align="left" src="OpenGL_100px_June16.png" width=24>GLFW</a> - Utilized for my faster Swing reimplementation</li>
         <li><a href="https://flutter.dev"> <img align="left"
-              src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width=16>Flutter</a></li>
+              src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width=16>Flutter</a> - Learned after migrating from Swing for general GUI apps creation</li>
         <li><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html">
-            <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width=16>Swing</a>
+            <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width=16>Swing</a> - My original GUI library for all my languages to include bindings for programs from other languages.
         </li>
         <li><a href="https://github.com/Kode/Kha"> <img align="left"
-              src="https://haxe.org/img/branding/haxe-logo-glyph.png" width=20>Kha</a></li>
+              src="https://github.com/Kode.png?size=512" width=20>Kha</a> - My previous rendering pipeline before SDL2</li>
         <li><a href="https://www.monogame.net/"> <img align="left"
               src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true"
-              width=20>MonoGame</a></li>
+              width=20>MonoGame</a> - Currently learning for getting into game development</li>
         <li><a href="https://nodejs.org/en"> <img align="left" src="nodejs.png" width=20>NodeJS <em>[including NPM
-              packages]</em></a></li>
+              packages]</em></a> - Mainly used for creating Discord bots and light weight server based hosting apps.</li>
         <li><a href="https://llvm.org/"> <img align="left" src="https://llvm.org/img/DragonMedium.png" width=20>LLVM</a>
         </li>
-        <li><a href="https://github.com/Kode/Kha"> <img align="left" src="https://github.com/Kode.png?size=512"
-              width=20>Kha</a></li>
-        <li><a href="https://tauri.app/"> <img align="left" src="tauri.png" width=20>Tauri</a></li>
+        <li><a href="https://tauri.app/"> <img align="left" src="tauri.png" width=20>Tauri</a> - Recently for getting into web development along with learning Rust and migrating most of my public and private projects to Rust</li>
         <li><a href="https://skia.org/"> <img align="left"
               src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png"
-              width=20>Skia</a></li>
+              width=20>Skia</a> - Utilized for my latest reimplementation of the Swing framework with JetBrain's Skia for Java implementation</li>
       </ul>
     </details>
   </li>
@@ -104,25 +102,25 @@
         <li>
           <strong>Object Oriented</strong>
           <ul>
-            <li>Java/Kotlin (~4) </li>
-            <li>Dart (>2)</li>
-            <li>C++ (>4)</li>
-            <li>Haxe (~2)</li>
-            <li>C# (~0.1)</li>
+            <li>Java/Kotlin (~4) - Swing and Android Apps</li>
+            <li>Dart (>2) - Flutter</li>
+            <li>C++ (>4) - Skia and GLFW</li>
+            <li>Haxe (~2) - OpenFL and Kha</li>
+            <li>C# (~0.1) - MonoGame and Dot NET</li>
           </ul>
         </li>
         <li>
           <strong>Script-based</strong>
           <ul>
-            <li>JavaScript (>2)</li>
-            <li>Lua (>4)</li>
+            <li>JavaScript (>2) - NodeJS and Dart for the web</li>
+            <li>Lua (>4) - Inconjunction with C</li>
           </ul>
         </li>
         <li>
           <strong>General</strong>
           <ul>
-            <li>C (>5)</li>
-            <li>Rust (~0.1)</li>
+            <li>C (>5) - Compiler Design and Systems</li>
+            <li>Rust (~0.1) - Tauri</li>
           </ul>
         </li>
       </ul>
