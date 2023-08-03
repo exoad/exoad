@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="title_pic.png" alt="exoad" width=690/>
 </h1>
-<p><img src="wave.png" width=54 /> <strong>Hi there!</strong> I am exoad, a high schooler from New York. <strong>I am experienced in systems and
+<p><img src="wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a high schooler from New York. <strong>I am experienced in systems and
     low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
   <strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps primarily with my own <strong>Java
     Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Recently, I am learning <a
