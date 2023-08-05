@@ -3,11 +3,9 @@
 -->
 
 <div align="center" id="user-content-toc">
-    <summary>
-      <h1 style="display: inline-block;">
-        <img src="img/title_pic.png" alt="exoad" width=530 />
-      </h1>
-    </summary>
+<h1 style="display: inline-block;">
+  <img src="img/title_pic.png" alt="exoad" width=530 />
+</h1>
 </div>
 
 <p><img src="img/wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to
@@ -26,9 +24,7 @@
 <img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true" height=170 />
 </div>
 <div id="user-content-toc">
-    <summary>
-      <h2 style="display: inline-block;">I made...</h2>
-    </summary>
+<h2 style="display: inline-block;">I made...</h2>
 </div>
 <p>Here are some of the projects that I have worked on recently</p>
 <ul>
@@ -85,9 +81,7 @@
 </details>
 </p>
 <div id="user-content-toc">
-    <summary>
-      <h2 style="display: inline-block;">I use...</h2>
-    </summary>
+<h2 style="display: inline-block;">I use...</h2>
 </div>
 <ul>
   <li>
@@ -171,9 +165,7 @@
   </li>
 </ul>
 <div id="user-content-toc">
-    <summary>
-      <h2 style="display: inline-block;">Misc...</h2>
-    </summary>
+<h2 style="display: inline-block;">Misc...</h2>
 </div>
 <be>
   <details>
