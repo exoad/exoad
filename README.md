@@ -1,14 +1,14 @@
 <h1 align="center">
   <img src="title_pic.png" alt="exoad" width=690/>
 </h1>
-<p><img src="wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to code! <strong>I am experienced with systems and
+<p><img src="wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to code. <strong>I am experienced with systems and
     low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
   <strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps primarily with my own <strong>Java
-    Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Recently, I am learning <a
+    Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Recently, I have been learning <a
     href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
     href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.</p>
 <h2>some projects</h2>
-<p>Here are some of my <strong>recent</strong> projects I have made and have received some updates in recent times.</p>
+<p>Here are some of the projects that I have worked on recently</p>
 <ul>
   <li>
     <a href="https://github.com/Halcyoninae"> <img align="left"
@@ -165,7 +165,7 @@
 <be>
   <details>
     <summary>🎨 my design</summary>
-    Here are the main colors that I use in most of current-day GUI apps:<br>
+    Here are the main colors that I use in most current-day GUI apps:<br>
     <img src="colormap.png" />
   </details>
   <details>
