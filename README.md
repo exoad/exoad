@@ -133,7 +133,10 @@
           a lot</h3>
       <ul>
         <li>
-          <strong>Object Oriented</strong>
+          <details>
+          <summary>
+          <strong>⚙️ Object Oriented</strong>
+          </summary>
           <ul>
             <li>Java/Kotlin (~4) - Swing and Android Apps</li>
             <li>Dart (>2) - Flutter</li>
@@ -141,20 +144,29 @@
             <li>Haxe (~2) - OpenFL and Kha</li>
             <li>C# (~0.1) - MonoGame and Dot NET</li>
           </ul>
+          </details>
         </li>
         <li>
-          <strong>Script-based</strong>
+          <details>
+          <summary>
+          <strong>📜 Scripting</strong>
+          </summary>
           <ul>
             <li>JavaScript (>2) - NodeJS and Dart for the web</li>
             <li>Lua (>4) - Inconjunction with C</li>
           </ul>
+          </details>
         </li>
         <li>
-          <strong>General</strong>
+        <details>
+        <summary>
+          <strong>🖥️ General</strong>
+        </summary>
           <ul>
             <li>C (>5) - Compiler Design and Systems</li>
             <li>Rust (~0.1) - Tauri</li>
           </ul>
+        </details>
         </li>
       </ul>
   </li>
