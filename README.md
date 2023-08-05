@@ -1,9 +1,9 @@
 > [!WARNING]
 > [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
 
-<div id="user-content-toc">
+<div align="center" id="user-content-toc">
   <ul>
-    <summary><h1 align="center" style="display: inline-block;"><img src="img/title_pic.png" alt="exoad" width=620 /></h1></summary>
+    <summary><h1 style="display: inline-block;"><img src="img/title_pic.png" alt="exoad" width=620 /></h1></summary>
   </ul>
 </div>
 
