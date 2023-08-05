@@ -196,7 +196,7 @@
     <img src="https://profile-counter.glitch.me/exoad/count.svg" />
     <br />
 
-    > [!IMPORTANT]
-    > thanks for checking my profile out, have a great day ☕
+> [!IMPORTANT]
+> Thank you for checking out my profile, have a great day! ☕ ^_^
 
   </div>
