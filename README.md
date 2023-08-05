@@ -3,13 +3,11 @@
 -->
 
 <div align="center" id="user-content-toc">
-  <ul>
     <summary>
       <h1 style="display: inline-block;">
         <img src="img/title_pic.png" alt="exoad" width=530 />
       </h1>
     </summary>
-  </ul>
 </div>
 
 <p><img src="img/wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to
@@ -21,14 +19,16 @@
     href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.
 </p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=exoad&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true" height=170 />
+
+<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true" height=170 />
+
+<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true" height=170 />
 </div>
 <div id="user-content-toc">
-  <ul>
     <summary>
       <h2 style="display: inline-block;">I made...</h2>
     </summary>
-  </ul>
 </div>
 <p>Here are some of the projects that I have worked on recently</p>
 <ul>
@@ -85,11 +85,9 @@
 </details>
 </p>
 <div id="user-content-toc">
-  <ul>
     <summary>
       <h2 style="display: inline-block;">I use...</h2>
     </summary>
-  </ul>
 </div>
 <ul>
   <li>
@@ -172,27 +170,10 @@
       </ul>
   </li>
 </ul>
-<!--
 <div id="user-content-toc">
-  <ul>
-    <summary>
-      <h2 style="display: inline-block;">My stats...</h2>
-    </summary>
-  </ul>
-</div>
-<div align="center">
-  <img alt="stats#1"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exoad&theme=tokyonight" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" />
-</div>
--->
-<div id="user-content-toc">
-  <ul>
     <summary>
       <h2 style="display: inline-block;">Misc...</h2>
     </summary>
-  </ul>
 </div>
 <be>
   <details>
