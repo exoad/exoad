@@ -178,6 +178,7 @@
   <div align="center">
     <img src="https://profile-counter.glitch.me/exoad/count.svg" />
     <br />
+    <br />
 
 > [!IMPORTANT]
 > **谢谢**您查看我的个人资料，**祝您度过愉快的一天**！ ☕ &#x2303;_&#x2303;
@@ -186,6 +187,6 @@
 
 <div align="right">
 
-*v1.0*
+*v1.0.1[-1]*
 
 </div>
