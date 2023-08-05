@@ -6,8 +6,8 @@
 
 > [!WARNING]
 > *阅读**中文**版本*
-> 
-> **其他语言：** [`English`](https://github.com/exoad/exoad/README.md)
+>
+> **其他语言：** [`English`](https://github.com/exoad/exoad/blob/main/README.md)
 
 </div>
 
