@@ -89,12 +89,9 @@
 </div>
 <ul>
   <li>
-    <details>
-      <summary>
         <h3> <img src="img/construction.png" width=24 /> <strong>Frameworks —</strong> Libraries, toolkits, engines, and
           more...
         </h3>
-      </summary>
       <ul>
         <li><a href="https://www.glfw.org/"> <img align="left" src="img/OpenGL_100px_June16.png" width=24>GLFW</a> -
           Utilized for my faster Swing reimplementation</li>
@@ -121,15 +118,11 @@
               src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png"
               width=20>Skia</a> - Utilized for my latest reimplementation of the Swing backend with Skia</li>
       </ul>
-    </details>
   </li>
   <li>
-    <details>
-      <summary>
         <h3><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have
           utilized
           a lot</h3>
-      </summary>
       <ul>
         <li>
           <strong>Object Oriented</strong>
@@ -156,14 +149,10 @@
           </ul>
         </li>
       </ul>
-    </details>
   </li>
   <li>
-    <details>
-      <summary>
         <h3><img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width=24 /> <strong>Environment
             —</strong> What I use to code</h3>
-      </summary>
       <ul>
         <li><strong>Editors</strong>: <a href="https://code.visualstudio.com/"><img
               src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"
@@ -177,7 +166,6 @@
               src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"
               alt="Manjaro" /></a></li>
       </ul>
-    </details>
   </li>
 </ul>
 <div id="user-content-toc">
