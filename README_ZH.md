@@ -170,6 +170,8 @@
     </summary>
     如果对我的软件有任何疑问，请通过我的Discord服务器转发给我: <a
       href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
+    <br />
+    翻译是否有错误？请在此处报告
   </details>
   <details>
     <summary>
