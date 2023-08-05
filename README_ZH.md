@@ -19,11 +19,11 @@
   <li>
     <a href="https://github.com/Halcyoninae"> <img align="left"
         src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png" width=20>
-      <strong>Halcyon</a> —</strong> 具有漂亮图形用户界面的音频播放器
+      <strong>Halcyon [太平]</a> —</strong> 具有漂亮图形用户界面的音频播放器
   </li>
   <li>
     <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="img/unknown.png" width=24>
-      <strong>Yttrius</a>
+      <strong>Yttrius [钇矿语言]</a>
     —</strong> 一个简单的编译型、可扩展的编程语言
   </li>
   <li>
