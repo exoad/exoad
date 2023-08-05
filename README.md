@@ -25,17 +25,16 @@
   <li>
     <a href="https://github.com/Halcyoninae"> <img align="left"
         src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png" width=20>
-      <strong>Halcyon</a> —</strong> Audio player with a nice GUI to go with it.
+    <strong>Halcyon</a> —</strong> Audio player with a nice GUI to go with it.
   </li>
   <li>
-    <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="img/unknown.png" width=24>
-      <strong>Yttrius</a>
+    <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="img/unknown.png" width=20><strong>Yttrius</a>
     —</strong> A simple compiled and extensible programming language.
   </li>
   <li>
     <a href="https://github.com/exoad/prismix"> <img align="left"
         src="https://github.com/exoad/prismix/blob/master/assets/_icon.png" width=20>
-      <strong>Prismix </a></strong>— Simple tool for dealing with colors
+    <strong>Prismix </a></strong>— Simple tool for dealing with colors
   </li>
 </ul>
 <p>
