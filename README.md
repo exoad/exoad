@@ -203,3 +203,9 @@
 > **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;_&#x2303;
 
   </div>
+
+<div align="right">
+
+*v1.0*
+
+</div>
