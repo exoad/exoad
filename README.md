@@ -20,7 +20,9 @@
     href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
     href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=exoad&show_icons=true&theme=tokyonight" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=exoad&show_icons=true&theme=tokyonight" />
+</div>
 <div id="user-content-toc">
   <ul>
     <summary>
