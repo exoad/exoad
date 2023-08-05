@@ -108,8 +108,7 @@
         </li>
         <li><a href="https://skia.org/"> <img align="left"
               src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png"
-              width=20>Skia</a> - Utilized for my latest reimplementation of the Swing framework with JetBrain's Skia
-          bindings for Java implementation</li>
+              width=20>Skia</a> - Utilized for my latest reimplementation of the Swing backend with Skia</li>
       </ul>
     </details>
   </li>
