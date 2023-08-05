@@ -3,7 +3,11 @@
 
 <div align="center" id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;"><img src="img/title_pic.png" alt="exoad" width=620 /></h1></summary>
+    <summary>
+      <h1 style="display: inline-block;">
+        <img src="img/title_pic.png" alt="exoad" width=620 />
+      </h1>
+    </summary>
   </ul>
 </div>
 
@@ -15,7 +19,13 @@
     href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
     href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.
 </p>
-<h2>some projects</h2>
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h2 style="display: inline-block;">I made...</h2>
+    </summary>
+  </ul>
+</div>
 <p>Here are some of the projects that I have worked on recently</p>
 <ul>
   <li>
@@ -70,7 +80,13 @@
   and more!
 </details>
 </p>
-<h2>what i use</h2>
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h2 style="display: inline-block;">I use...</h2>
+    </summary>
+  </ul>
+</div>
 <ul>
   <li>
     <details>
@@ -164,14 +180,26 @@
     </details>
   </li>
 </ul>
-<h2>stats</h2>
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h2 style="display: inline-block;">My stats...</h2>
+    </summary>
+  </ul>
+</div>
 <div align="center">
   <img alt="stats#1"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exoad&theme=tokyonight" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" />
 </div>
-<h2>extras</h2>
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h2 style="display: inline-block;">Misc...</h2>
+    </summary>
+  </ul>
+</div>
 <be>
   <details>
     <summary>🎨 my design</summary>
