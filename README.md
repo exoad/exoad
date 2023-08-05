@@ -3,11 +3,13 @@
 -->
 
 <div align="center" id="user-content-toc">
+<ul>
     <summary>
       <h1 style="display: inline-block;">
         <img src="img/title_pic.png" alt="exoad" width=530 />
       </h1>
     </summary>
+</ul>
 </div>
 
 <p><img src="img/wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to
