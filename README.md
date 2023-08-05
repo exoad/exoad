@@ -5,9 +5,7 @@
 <div align="center">
 
 > [!WARNING]
-> *Reading **English** version*
->
-> [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
+> ***English** version* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
 
 </div>
 
