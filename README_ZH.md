@@ -1,5 +1,5 @@
 > [!WARNING]
-> **其他语言：** [`English`](https://github.com/exoad/exoad/blob/main/README.md)
+> [`English`](https://github.com/exoad/exoad/blob/main/README.md)
 
 <h1 align="center">
   <img src="img/title_pic.png" alt="exoad" width=690 />
