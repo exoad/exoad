@@ -1,45 +1,39 @@
 <h1 align="center">
-  <img src="img/title_pic.png" alt="exoad" width=620 />
+  <img src="img/title_pic.png" alt="exoad" width=690 />
 </h1>
 
 <div align="center">
 
 > [!WARNING]
-> *Reading **English** version*
-> [`中文`](./README_ZH.md)
+> *阅读**中文**版本*
+> **其他语言：** [`English`](./README.md)
 
 </div>
 
-<p><img src="img/wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to
-  code. <strong>I am experienced with systems and
-    low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
-  <strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps primarily with my own <strong>Java
-    Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Recently, I have been learning <a
-    href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
-    href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.
+<p><img src="img/wave.png" width=54 /> <strong>嗨，你好！</strong>我是来自纽约的学生exoad，热爱编程。<strong>我在系统和底层编程方面有丰富经验</strong>，主要使用图形框架如<strong>OpenGL</strong>和<strong>Cuda</strong>。此外，我还使用自己的<strong>Java Swing</strong>改编以及较近期的<strong>Flutter</strong>，构建了许多GUI桌面应用程序。最近，我一直在学习游戏开发方面的<a href="https://www.monogame.net/"><strong>MonoGame</strong></a>和<a href="https://libgdx.com/"><strong>LibGDX</strong></a>。
 </p>
-<h2>some projects</h2>
-<p>Here are some of the projects that I have worked on recently</p>
+<h2>一些项目</h2>
+<p>以下是我最近参与的一些项目</p>
 <ul>
   <li>
     <a href="https://github.com/Halcyoninae"> <img align="left"
         src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png" width=20>
-      <strong>Halcyon</a> —</strong> Audio player with a nice GUI to go with it.
+      <strong>Halcyon</a> —</strong> 具有漂亮图形用户界面的音频播放器。
   </li>
   <li>
     <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="img/unknown.png" width=24>
       <strong>Yttrius</a>
-    —</strong> A simple compiled and extensible programming language.
+    —</strong> 一个简单的编译型、可扩展的编程语言。
   </li>
   <li>
     <a href="https://github.com/exoad/prismix"> <img align="left"
         src="https://github.com/exoad/prismix/blob/master/assets/_icon.png" width=20>
-      <strong>Prismix </a></strong>— Simple tool for dealing with colors
+      <strong>Prismix </a></strong>— 一个简单好用的颜色处理工具
   </li>
 </ul>
 <p>
 <details>
-  <summary>Here are some more projects I have released publicly:
+  <summary><strong>这里有一些我公开发布的作品</strong>
   </summary>
   <ul>
     <li>
