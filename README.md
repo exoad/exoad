@@ -190,7 +190,7 @@
     If you have inquiries regarding my software, give me a forward through my Discord server: <a
       href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
     <br />
-    If there is an error in this profile, please submit a PR through this <a href="https://github.com/exoad/exoad">profile's repo</a>
+    If there is an issue with incorrect rendering of this profile, please submit a PR through this <a href="https://github.com/exoad/exoad">profile's repo</a>
   </details>
   <details>
     <summary>
