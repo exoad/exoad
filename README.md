@@ -197,6 +197,6 @@
     <br />
 
 > [!IMPORTANT]
-> Thank you for checking out my profile, have a great day! ☕ ^_^
+> **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;_&#x2303;
 
   </div>
