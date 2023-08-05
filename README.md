@@ -1,5 +1,6 @@
-> [!WARNING]
+<!-- >> [!WARNING]
 > [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
+-->
 
 <div align="center" id="user-content-toc">
   <ul>
