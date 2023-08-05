@@ -138,11 +138,11 @@
           <strong>⚙️ Object Oriented</strong>
           </summary>
           <ul>
-            <li>Java/Kotlin (~4) - Swing and Android Apps</li>
-            <li>Dart (>2) - Flutter</li>
-            <li>C++ (>4) - Skia and GLFW</li>
-            <li>Haxe (~2) - OpenFL and Kha</li>
-            <li>C# (~0.1) - MonoGame and Dot NET</li>
+            <li><img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /> (~4) - Swing and Android Apps</li>
+            <li><img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />  (>2) - Flutter</li>
+            <li><img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> (>4) - Skia and GLFW</li>
+            <li><img align="center" src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=FFF&labelColor=EA8220"> (~2) - OpenFL and Kha</li>
+            <li><img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> (~0.1) - MonoGame and Dot NET</li>
           </ul>
           </details>
         </li>
@@ -152,8 +152,8 @@
           <strong>📜 Scripting</strong>
           </summary>
           <ul>
-            <li>JavaScript (>2) - NodeJS and Dart for the web</li>
-            <li>Lua (>4) - Inconjunction with C</li>
+            <li><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> (>2) - NodeJS and Dart for the web</li>
+            <li><img align="center" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /> (>4) - Inconjunction with C</li>
           </ul>
           </details>
         </li>
@@ -163,8 +163,8 @@
           <strong>🖥️ General</strong>
         </summary>
           <ul>
-            <li>C (>5) - Compiler Design and Systems</li>
-            <li>Rust (~0.1) - Tauri</li>
+            <li><img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> (>5) - Compiler Design and Systems</li>
+            <li><img align="center" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> (~0.1) - Tauri</li>
           </ul>
         </details>
         </li>
