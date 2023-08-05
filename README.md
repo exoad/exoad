@@ -6,7 +6,7 @@
 <ul>
     <summary>
       <h1 style="display: inline-block;">
-        <img src="img/title_pic.png" alt="exoad" width=530 />
+        <img src="img/title_pic.png" alt="exoad" width=450 />
       </h1>
     </summary>
 </ul>
