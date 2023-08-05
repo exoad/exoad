@@ -162,7 +162,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" />
 </div>
-<h2>extras</h2>
+<h2>剩下的</h2>
 <be>
   <details>
     <summary>
