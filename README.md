@@ -170,7 +170,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" />
 </div>
-<hr>
+<h2>extras</h2>
 <be>
   <details>
     <summary>🎨 my design</summary>
@@ -195,3 +195,6 @@
   <div align="center">
     <img src="https://profile-counter.glitch.me/exoad/count.svg" />
   </div>
+
+> [!IMPORTANT]
+> thanks for checking my profile out, have a great day ☕
