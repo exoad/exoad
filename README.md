@@ -213,9 +213,7 @@
     </div>
   </details>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/exoad/count.svg" />
-    <br />
-    <br />
+  <br />
 
 > [!IMPORTANT]
 > **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;_&#x2303;
@@ -224,6 +222,6 @@
 
 <div align="right">
 
-*v1.0.2* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
+*v1.0.3* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | ![](https://komarev.com/ghpvc/?username=exoad&style=flat-square&color=000)
 
 </div>
