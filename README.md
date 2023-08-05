@@ -20,6 +20,7 @@
     href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
     href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=exoad&show_icons=true&theme=tokyonight" />
 <div id="user-content-toc">
   <ul>
     <summary>
@@ -169,6 +170,7 @@
       </ul>
   </li>
 </ul>
+<!--
 <div id="user-content-toc">
   <ul>
     <summary>
@@ -182,6 +184,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" />
 </div>
+-->
 <div id="user-content-toc">
   <ul>
     <summary>
@@ -222,6 +225,6 @@
 
 <div align="right">
 
-*v1.0.3* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | <a href="https://hits.seeyoufarm.com"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
+*v1.0.4* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | <a href="https://hits.seeyoufarm.com"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 
 </div>
