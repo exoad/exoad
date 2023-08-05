@@ -1,11 +1,11 @@
 > [!WARNING]
 > [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
 
-<h1 align="center">
-  <img src="img/title_pic.png" alt="exoad" width=620 />
-</h1>
-
-
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 align="center" style="display: inline-block;"><img src="img/title_pic.png" alt="exoad" width=620 /></h1></summary>
+  </ul>
+</div>
 
 <p><img src="img/wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to
   code. <strong>I am experienced with systems and
@@ -206,6 +206,6 @@
 
 <div align="right">
 
-*v1.0*
+*v1.0.1*
 
 </div>
