@@ -2,12 +2,8 @@
   <img src="img/title_pic.png" alt="exoad" width=620 />
 </h1>
 
-<div align="center">
-
 > [!WARNING]
 > ***English** version* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
-
-</div>
 
 <p><img src="img/wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to
   code. <strong>I am experienced with systems and
