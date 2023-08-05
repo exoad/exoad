@@ -224,6 +224,6 @@
 
 <div align="right">
 
-*v1.0.2*
+*v1.0.2* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
 
 </div>
