@@ -107,12 +107,10 @@
     </details>
   </li>
   <li>
-    <h4><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have
+    <details>
+      <summary><h4><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have
       utilized
       a lot</h4>
-    <details>
-      <summary>
-        list them!
       </summary>
       <ul>
         <li>
