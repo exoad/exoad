@@ -222,6 +222,6 @@
 
 <div align="right">
 
-*v1.0.3* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | ![](https://komarev.com/ghpvc/?username=exoad&style=flat-square&color=000)
+*v1.0.3* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
