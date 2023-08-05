@@ -29,10 +29,8 @@
   </li>
 </ul>
 <p>
-  Here are some other projects I have released publicly:
 <details>
-  <summary>
-    list them!
+  <summary>Here are some more projects I have released publicly:
   </summary>
   <ul>
     <li>
@@ -70,12 +68,11 @@
 <h2>what i know</h2>
 <ul>
   <li>
-    <h4> <img src="img/construction.png" width=24 /> <strong>Frameworks —</strong> Libraries, toolkits, engines, and
-      more...
-    </h4>
     <details>
       <summary>
-        list them!
+        <h4> <img src="img/construction.png" width=24 /> <strong>Frameworks —</strong> Libraries, toolkits, engines, and
+          more...
+        </h4>
       </summary>
       <ul>
         <li><a href="https://www.glfw.org/"> <img align="left" src="img/OpenGL_100px_June16.png" width=24>GLFW</a> -
@@ -108,9 +105,10 @@
   </li>
   <li>
     <details>
-      <summary><h4><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have
-      utilized
-      a lot</h4>
+      <summary>
+        <h4><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have
+          utilized
+          a lot</h4>
       </summary>
       <ul>
         <li>
@@ -141,10 +139,11 @@
     </details>
   </li>
   <li>
-    <h4><img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width=24 /> <strong>Environment
-        —</strong> What I use to code</h4>
     <details>
-      <summary>list them!</summary>
+      <summary>
+        <h4><img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width=24 /> <strong>Environment
+            —</strong> What I use to code</h4>
+      </summary>
       <ul>
         <li><strong>Editors</strong>: <a href="https://code.visualstudio.com/"><img
               src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"
