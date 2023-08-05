@@ -1,12 +1,14 @@
 <h1 align="center">
-  <img src="img/title_pic.png" alt="exoad" width=690/>
+  <img src="img/title_pic.png" alt="exoad" width=690 />
 </h1>
-<p><img src="img/wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to code. <strong>I am experienced with systems and
+<p><img src="img/wave.png" width=54 /> <strong>Hoi there!</strong> I am exoad, a student from New York and I love to
+  code. <strong>I am experienced with systems and
     low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
   <strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps primarily with my own <strong>Java
     Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Recently, I have been learning <a
     href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
-    href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.</p>
+    href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.
+</p>
 <h2>some projects</h2>
 <p>Here are some of the projects that I have worked on recently</p>
 <ul>
@@ -16,67 +18,77 @@
       <strong>Halcyon</a> —</strong> Audio player with a nice GUI to go with it.
   </li>
   <li>
-    <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="img/unknown.png" width=24> <strong>Yttrius</a>
+    <a href="https://github.com/exoad/yttriuslang.c"> <img align="left" src="img/unknown.png" width=24>
+      <strong>Yttrius</a>
     —</strong> A simple compiled and extensible programming language.
   </li>
   <li>
-    <a href="https://github.com/exoad/prismix"> <img align="left" src="https://github.com/exoad/prismix/blob/master/assets/_icon.png" width=20>
-    <strong>Prismix </a></strong>— Simple tool for dealing with colors
+    <a href="https://github.com/exoad/prismix"> <img align="left"
+        src="https://github.com/exoad/prismix/blob/master/assets/_icon.png" width=20>
+      <strong>Prismix </a></strong>— Simple tool for dealing with colors
   </li>
 </ul>
 <p>
   Here are some other projects I have released publicly:
-  <details>
-    <summary>
-      list them!
-    </summary>
-    <ul>
-      <li>
-        <a href="https://github.com/exoad/com.jackmeng"> <img align="left" src="img/unknown.png" width=20>
+<details>
+  <summary>
+    list them!
+  </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/exoad/com.jackmeng"> <img align="left" src="img/unknown.png" width=20>
         <strong>com.jackmeng </a></strong>— A library of a bunch of random things to help with developing in Java
-      </li>
-      <li>
-        <a href="https://github.com/exoad/animas-firefox"> <img align="left" src="img/unknown.png" width=20>
+    </li>
+    <li>
+      <a href="https://github.com/exoad/animas-firefox"> <img align="left" src="img/unknown.png" width=20>
         <strong>Firefox Animas </a></strong>— Anime themes for Firefox
-      </li>
-      <li>
-        <a href="https://github.com/exoad/toasterify"> <img align="left" src="https://github.com/exoad/toasterify/blob/main/assets/icon1024.png?raw=true" width=20>
+    </li>
+    <li>
+      <a href="https://github.com/exoad/toasterify"> <img align="left"
+          src="https://github.com/exoad/toasterify/blob/main/assets/icon1024.png?raw=true" width=20>
         <strong>Toasterify </a></strong>— An Android app to warm up your phone to warm up your hands in cold times
-      </li>
-      <li>
-        <a href="https://github.com/exoad/ansicolor"> <img align="left" src="img/unknown.png" width=20>
-        <strong>ansicolor </a></strong>— A Java library to make dealing with ANSI coloring and prettifying CLI text easier
-      </li>
-      <li>
-        <a href="https://github.com/exoad/usaco_mashups"> <img align="left" src="img/unknown.png" width=20>
-        <strong>USACO Mashups </a></strong>— Discord Bot is written in NodeJS and Java to help with creating problem sets for the USACO competition
-      </li>
-      <li>
-        <a href="https://github.com/exoad/meta_javac"> <img align="left" src="img/unknown.png" width=20>
-        <strong>Meta4J </a></strong>— An attempt to add meta programming into Java with the help of the inbuilt annotation API
-      </li>
-    </ul>
-    and more!
-  </details>
+    </li>
+    <li>
+      <a href="https://github.com/exoad/ansicolor"> <img align="left" src="img/unknown.png" width=20>
+        <strong>ansicolor </a></strong>— A Java library to make dealing with ANSI coloring and prettifying CLI text
+      easier
+    </li>
+    <li>
+      <a href="https://github.com/exoad/usaco_mashups"> <img align="left" src="img/unknown.png" width=20>
+        <strong>USACO Mashups </a></strong>— Discord Bot is written in NodeJS and Java to help with creating problem
+      sets for the USACO competition
+    </li>
+    <li>
+      <a href="https://github.com/exoad/meta_javac"> <img align="left" src="img/unknown.png" width=20>
+        <strong>Meta4J </a></strong>— An attempt to add meta programming into Java with the help of the inbuilt
+      annotation API
+    </li>
+  </ul>
+  and more!
+</details>
 </p>
 <h2>what i know</h2>
 <ul>
   <li>
-    <h4> <img src="img/construction.png" width=24 /> <strong>Frameworks —</strong> Libraries, toolkits, engines, and more...
+    <h4> <img src="img/construction.png" width=24 /> <strong>Frameworks —</strong> Libraries, toolkits, engines, and
+      more...
     </h4>
     <details>
       <summary>
         list them!
       </summary>
       <ul>
-        <li><a href="https://www.glfw.org/"> <img align="left" src="img/OpenGL_100px_June16.png" width=24>GLFW</a> - Utilized for my faster Swing reimplementation</li>
+        <li><a href="https://www.glfw.org/"> <img align="left" src="img/OpenGL_100px_June16.png" width=24>GLFW</a> -
+          Utilized for my faster Swing reimplementation</li>
         <li><a href="https://flutter.dev"> <img align="left"
-              src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width=16>Flutter</a> - Learned after migrating from Swing for general GUI apps creation</li>
+              src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width=16>Flutter</a> -
+          Learned after migrating from Swing for general GUI apps creation</li>
         <li><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html">
-            <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width=16>Swing</a> - My original GUI library for all my languages to include bindings for programs from other languages.
+            <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width=16>Swing</a>
+          - My original GUI library for all my languages to include bindings for programs from other languages.
         </li>
-        <li><a href="https://github.com/Kode/Kha"> <img align="left"
-              src="https://github.com/Kode.png?size=512" width=20>Kha</a> - My previous rendering pipeline before SDL2</li>
+        <li><a href="https://github.com/Kode/Kha"> <img align="left" src="https://github.com/Kode.png?size=512"
+              width=20>Kha</a> - My previous rendering pipeline before SDL2</li>
         <li><a href="https://www.monogame.net/"> <img align="left"
               src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true"
               width=20>MonoGame</a> - Currently learning for getting into game development</li>
@@ -84,15 +96,19 @@
               packages]</em></a> - Mainly used for creating Discord bots and lightweight server-based hosting apps.</li>
         <li><a href="https://llvm.org/"> <img align="left" src="https://llvm.org/img/DragonMedium.png" width=20>LLVM</a>
         </li>
-        <li><a href="https://tauri.app/"> <img align="left" src="img/tauri.png" width=20>Tauri</a> - Recently getting into web development along with learning Rust and migrating most of my public and private projects to Rust</li>
+        <li><a href="https://tauri.app/"> <img align="left" src="img/tauri.png" width=20>Tauri</a> - Recently getting
+          into web development along with learning Rust and migrating most of my public and private projects to Rust
+        </li>
         <li><a href="https://skia.org/"> <img align="left"
               src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png"
-              width=20>Skia</a> - Utilized for my latest reimplementation of the Swing framework with JetBrain's Skia bindings for Java implementation</li>
+              width=20>Skia</a> - Utilized for my latest reimplementation of the Swing framework with JetBrain's Skia
+          bindings for Java implementation</li>
       </ul>
     </details>
   </li>
   <li>
-    <h4><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have utilized
+    <h4><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have
+      utilized
       a lot</h4>
     <details>
       <summary>
@@ -149,7 +165,8 @@
 </ul>
 <h2>stats</h2>
 <div align="center">
-  <img  alt="stats#1" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exoad&theme=tokyonight" />
+  <img alt="stats#1"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exoad&theme=tokyonight" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoad&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=tokyonight" />
 </div>
