@@ -6,7 +6,7 @@
 
 > [!WARNING]
 > *阅读**中文**版本*
-> **其他语言：** [`English`](./README.md)
+> **其他语言：** [`English`](README.md)
 
 </div>
 
