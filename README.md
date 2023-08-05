@@ -70,9 +70,9 @@
   <li>
     <details>
       <summary>
-        <h4> <img src="img/construction.png" width=24 /> <strong>Frameworks —</strong> Libraries, toolkits, engines, and
+        <h3> <img src="img/construction.png" width=24 /> <strong>Frameworks —</strong> Libraries, toolkits, engines, and
           more...
-        </h4>
+        </h3>
       </summary>
       <ul>
         <li><a href="https://www.glfw.org/"> <img align="left" src="img/OpenGL_100px_June16.png" width=24>GLFW</a> -
@@ -106,9 +106,9 @@
   <li>
     <details>
       <summary>
-        <h4><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have
+        <h3><img src="img/command_block.gif" width=24 /> <strong>Languages —</strong> Programming languages that I have
           utilized
-          a lot</h4>
+          a lot</h3>
       </summary>
       <ul>
         <li>
@@ -141,8 +141,8 @@
   <li>
     <details>
       <summary>
-        <h4><img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width=24 /> <strong>Environment
-            —</strong> What I use to code</h4>
+        <h3><img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width=24 /> <strong>Environment
+            —</strong> What I use to code</h3>
       </summary>
       <ul>
         <li><strong>Editors</strong>: <a href="https://code.visualstudio.com/"><img
