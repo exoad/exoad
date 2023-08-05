@@ -53,7 +53,7 @@
 </ul>
 <p>
 <details>
-  <summary>Here are some more projects I have released publicly:
+  <summary>📌 Here are some more projects I have released publicly:
   </summary>
   <ul>
     <li>
@@ -216,6 +216,6 @@
 
 <div align="right">
 
-*v1.0.4* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | <a href="https://hits.seeyoufarm.com"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
+*v1.0.5* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | <a href="https://hits.seeyoufarm.com"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 
 </div>
