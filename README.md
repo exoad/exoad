@@ -6,7 +6,8 @@
 
 > [!WARNING]
 > *Reading **English** version*
-> [`中文`](README_ZH.md)
+>
+> [`中文`](https://github.com/exoad/exoad/README_ZH.md)
 
 </div>
 
