@@ -31,7 +31,7 @@
     </td>
   </tr>
 </table>
-<table align="right" style="width: 110%; border: none" cellspacing="0" cellpadding="0" border="0">
+<table align="right" style="width: 100%; height:90%; border: none" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td align="center">
       <a href="https://github.com/exoad">
@@ -85,6 +85,13 @@
     <td align="center">
       <a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
         <img align="center" src="img/spotify-icon.png" height="48">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://marketplace.visualstudio.com/publishers/exoad">
+        <img align="center" src="img/vscode-icon.png" height="48">
       </a>
     </td>
   </tr>
