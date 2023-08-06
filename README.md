@@ -5,6 +5,9 @@
 > [!WARNING]
 > **This profile is under construction**
 
+> [!WARNING]
+> **This profile is best viewed on [GitHub Web](https://github.com/exoad)**
+
 <!--
   GitHub styling yet doesn't support hiding the borders big RIP :(
 -->
