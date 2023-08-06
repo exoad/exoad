@@ -5,6 +5,44 @@
 > [!WARNING]
 > **This profile is under construction**
 
+
+
+<table
+  align="right"
+  style="width: 100%; border: none"
+  cellspacing="0"
+  cellpadding="0"
+  border="0"
+>
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true"
+        height="160"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true"
+        height="160"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
+        height="160"
+      />
+    </td>
+  </tr>
+</table>
+
 <div align="center" id="user-content-toc">
   <ul>
     <summary>
@@ -15,25 +53,6 @@
   </ul>
 </div>
 <div float="left">
-
-<table align="right" style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td><img align=center
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true"
-        height="160" /></td>
-
-  </tr>
-  <tr>
-    <td> <img align=center
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true"
-        height="160" /></td>
-  </tr>
-  <tr>
-    <td> <img align=center
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
-        height="160" /></td>
-  </tr>
-</table>
 
 ![Hello](img/wave.png) **Hoi there!** I am exoad, a student from New York and
 I love to code. **I am experienced with systems and low-level programming**
