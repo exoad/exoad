@@ -57,7 +57,8 @@
   </a>
 </div>
 
-![](img/wave.png) **Hoi there!** I am exoad, a student from New York and I love to
+![](img/wave.png)
+**Hoi there!** I am exoad, a student from New York and I love to
 code. **I am experienced with systems and low-level programming**
 with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop
 apps primarily with my own
