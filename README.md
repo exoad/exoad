@@ -39,56 +39,64 @@
       />
     </td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/exoad">
-        <img align="center" src="img/github-icon.png" height="48" /> - <strong>GitHub</strong>
+        <img align="center" src="img/github-icon.png" height="48" /> -
+        <strong>GitHub</strong>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@exoad">
-        <img align="center" src="img/youtube-icon.png" height="48" /> - <strong>YouTube</strong>
+        <img align="left" src="img/youtube-icon.png" height="48" /><p align="center"> - </p>
+        <p align="right"><strong>YouTube</strong></p>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.reddit.com/user/Chunkyfungus123">
-        <img align="center" src="img/reddit-icon.png" height="48" /> - <strong>Reddit</strong>
+        <img align="center" src="img/reddit-icon.png" height="48" /> -
+        <strong>Reddit</strong>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://discord.gg/PbJQRT9zQ8">
-        <img align="center" src="img/discord-icon.png" height="48" /> - <strong>Discord</strong>
+        <img align="center" src="img/discord-icon.png" height="48" /> -
+        <strong>Discord</strong>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.pixiv.net/en/users/71281559">
-        <img align="center" src="img/pixiv-icon.png" height="48" /> - <strong>Pixiv</strong>
+        <img align="center" src="img/pixiv-icon.png" height="48" /> -
+        <strong>Pixiv</strong>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://stackoverflow.com/users/14501343/exoad">
-        <img align="center" src="img/stackoverflow-icon.png" height="48" /> - <strong>StackOverflow</strong>
+        <img align="center" src="img/stackoverflow-icon.png" height="48" /> -
+        <strong>StackOverflow</strong>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://soundcloud.com/jack-meng-853495117">
-        <img align="center" src="img/soundcloud-icon.png" height="48" /> - <strong>SoundCloud</strong>
+        <img align="center" src="img/soundcloud-icon.png" height="48" /> -
+        <strong>SoundCloud</strong>
       </a>
     </td>
   </tr>
 </table>
+
 
 <div align="center" id="user-content-toc">
   <ul>
