@@ -52,7 +52,7 @@
 </a>
 </div>
 </div>
-<div style="float: left;" align="left"><img src="img/wave.png" width=54 /><strong>Hoi there!</strong> I am exoad, a student from New York and I love to
+<div><img src="img/wave.png" width=54 /><strong>Hoi there!</strong> I am exoad, a student from New York and I love to
   code. <strong>I am experienced with systems and
     low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
   <strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps primarily with my own <strong>Java
