@@ -492,7 +492,7 @@ Here are some of the projects that I have worked on recently
   </div>
 <div align="right">
   <p>
-    <em>v1.2</em> |
+    <em>v2.0</em> |
     <a href="https://github.com/exoad/exoad/blob/main/README_ZH.md"
       ><code>中文</code></a
     >
