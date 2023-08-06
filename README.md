@@ -14,20 +14,28 @@
     </summary>
   </ul>
 </div>
-<div style="display: flex;">
-    <div style="flex: 1;">
+<div float="left">
 
-![Hello](img/wave.png)  **Hoi there!** I am exoad, a student from New York and I love to code. **I am experienced with systems and low-level programming** with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop apps primarily with my own **Java Swing** adaptation and more recently, **Flutter**. Recently, I have been learning [**MonoGame**](https://www.monogame.net/) and [**LibGDX**](https://libgdx.com/) for game development.
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-end;">
-        <img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true"
-            height="160" />
-        <img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true"
-            height="160" />
-        <img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
-            height="160" />
-    </div>
+![Hello](img/wave.png) **Hoi there!** I am exoad, a student from New York and
+I love to code. **I am experienced with systems and low-level programming**
+with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop apps primarily with my own **Java Swing** adaptation and more recently, **Flutter**. Recently, I have been learning [**MonoGame**](https://www.monogame.net/) and [**LibGDX**](https://libgdx.com/) for game development.
+
+  <div>
+    <img
+      src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true"
+      height="160"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true"
+      height="160"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
+      height="160"
+    />
+  </div>
 </div>
+
 
 <div id="user-content-toc">
   <ul>
