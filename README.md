@@ -5,6 +5,9 @@
 > [!WARNING]
 > **This profile is under construction**
 
+<!--
+  GitHub styling yet doesn't support hiding the borders big RIP :(
+-->
 <table
   align="right"
   style="width: 100%; border: none"
@@ -49,7 +52,7 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@exoad">
-        <img align="left" src="img/youtube-icon.png" height="48" /><strong>YouTube</strong>
+        <img align="center" src="img/youtube-icon.png" height="48" />
       </a>
     </td>
   </tr>
