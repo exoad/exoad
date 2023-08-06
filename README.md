@@ -388,8 +388,10 @@
     </details>
     <div align="center">
         <br>
+        
 > [!IMPORTANT]
 > **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;\_&#x2303;
+
     </div>
     <div align="right">
 _v1.2_ | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) |
