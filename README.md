@@ -39,6 +39,15 @@
       />
     </td>
   </tr>
+</table>
+
+<table
+  align="right"
+  style="width: 100%; border: none"
+  cellspacing="0"
+  cellpadding="0"
+  border="0"
+>
   <tr>
     <td>
       <a href="https://github.com/exoad">
