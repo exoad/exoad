@@ -50,8 +50,8 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@exoad">
-        <img align="left" src="img/youtube-icon.png" height="48" /><p align="center"> - </p>
-        <p align="right"><strong>YouTube</strong></p>
+        <img align="left" src="img/youtube-icon.png" height="48" /><p align> -
+        <strong>YouTube</strong>
       </a>
     </td>
   </tr>
