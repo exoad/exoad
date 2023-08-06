@@ -23,6 +23,7 @@
   <img align="right"
     src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
     height="160">
+<br />
 <div>
   <a align="right" href="https://github.com/exoad" target="_blank">
     <img align="right" src="img/github-icon.png" height="48">
