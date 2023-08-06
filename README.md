@@ -42,6 +42,15 @@
       />
     </td>
   </tr>
+</table>
+
+<table
+  align="right"
+  style="width: 100%; border: none"
+  cellspacing="0"
+  cellpadding="0"
+  border="0"
+>
   <tr>
     <td align="center">
       <a href="https://github.com/exoad">
@@ -92,7 +101,6 @@
     </td>
   </tr>
 </table>
-
 
 <div align="center" id="user-content-toc">
   <ul>
