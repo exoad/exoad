@@ -52,7 +52,7 @@
 </a>
 </div>
 </div>
-
+<div align="left">
 <img src="img/wave.png" width=54 /><strong>Hoi there!</strong> I am exoad, a student from New York and I love to
   code. <strong>I am experienced with systems and
     low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
@@ -60,7 +60,7 @@
     Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Recently, I have been learning <a
     href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
     href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.
-    
+
 <div id="user-content-toc">
 <ul>
 <summary>
@@ -264,4 +264,5 @@
 
 *v1.2* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | <a href="https://hits.seeyoufarm.com"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 
+</div>
 </div>
