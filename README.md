@@ -3,9 +3,6 @@
 -->
 
 > [!WARNING]
-> **This profile is under construction**
-
-> [!WARNING]
 > **This profile is best viewed on [GitHub Web](https://github.com/exoad)**
 
 <!--
