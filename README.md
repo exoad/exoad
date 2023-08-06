@@ -71,7 +71,7 @@ with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, 
       </summary>
     </ul>
   </div>
-  <p>Here are some of the projects that I have worked on recently</p>
+  Here are some of the projects that I have worked on recently
   <ul>
     <li>
       <a href="https://github.com/Halcyoninae">
@@ -230,7 +230,7 @@ with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, 
             <img align="left" src="img/nodejs.png" width="20">
             NodeJS
             <em>
-              [including NPM
+              [and NPM
               packages]
             </em>
           </a>
