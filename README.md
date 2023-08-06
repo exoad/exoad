@@ -41,49 +41,49 @@
   </tr>
   <tr>
     <td>
-      <a align="center" href="https://github.com/exoad">
+      <a href="https://github.com/exoad">
         <img align="center" src="img/github-icon.png" height="48" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a align="center" href="https://www.youtube.com/@exoad">
+      <a href="https://www.youtube.com/@exoad">
         <img align="center" src="img/youtube-icon.png" height="48" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a align="center" href="https://www.reddit.com/user/Chunkyfungus123">
+      <a href="https://www.reddit.com/user/Chunkyfungus123">
         <img align="center" src="img/reddit-icon.png" height="48" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a align="center" href="https://discord.gg/PbJQRT9zQ8">
+      <a href="https://discord.gg/PbJQRT9zQ8">
         <img align="center" src="img/discord-icon.png" height="48" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a align="center" href="https://www.pixiv.net/en/users/71281559">
+      <a href="https://www.pixiv.net/en/users/71281559">
         <img align="center" src="img/pixiv-icon.png" height="48" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a align="center" href="https://stackoverflow.com/users/14501343/exoad">
+      <a href="https://stackoverflow.com/users/14501343/exoad">
         <img align="center" src="img/stackoverflow-icon.png" height="48" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a align="center" href="https://soundcloud.com/jack-meng-853495117">
+      <a href="https://soundcloud.com/jack-meng-853495117">
         <img align="center" src="img/soundcloud-icon.png" height="48" />
       </a>
     </td>
