@@ -35,63 +35,63 @@
   <tr>
     <td align="center">
       <a href="https://github.com/exoad">
-        <img align="center" src="img/github-icon.png" height="48">
+        <img align="center" src="img/github-icon.png" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@exoad">
-        <img align="center" src="img/youtube-icon.png" height="48">
+        <img align="center" src="img/youtube-icon.png" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.reddit.com/user/Chunkyfungus123">
-        <img align="center" src="img/reddit-icon.png" height="48">
+        <img align="center" src="img/reddit-icon.png" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://discord.gg/PbJQRT9zQ8">
-        <img align="center" src="img/discord-icon.png" height="48">
+        <img align="center" src="img/discord-icon.png" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.pixiv.net/en/users/71281559">
-        <img align="center" src="img/pixiv-icon.png" height="48">
+        <img align="center" src="img/pixiv-icon.png" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://stackoverflow.com/users/14501343/exoad">
-        <img align="center" src="img/stackoverflow-icon.png" height="48">
+        <img align="center" src="img/stackoverflow-icon.png" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://soundcloud.com/jack-meng-853495117">
-        <img align="center" src="img/soundcloud-icon.png" height="48">
+        <img align="center" src="img/soundcloud-icon.png" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
-        <img align="center" src="img/spotify-icon.png" height="48">
+        <img align="center" src="img/spotify-icon.png" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://marketplace.visualstudio.com/publishers/exoad">
-        <img align="center" src="img/vscode-icon.png" height="48">
+        <img align="center" src="img/vscode-icon.png" height="44">
       </a>
     </td>
   </tr>
