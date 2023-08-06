@@ -14,7 +14,7 @@
     </summary>
   </ul>
 </div>
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
     <div style="flex: 1;">
 
 ![Hello](img/wave.png)  **Hoi there!** I am exoad, a student from New York and I love to code. **I am experienced with systems and low-level programming** with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop apps primarily with my own **Java Swing** adaptation and more recently, **Flutter**. Recently, I have been learning [**MonoGame**](https://www.monogame.net/) and [**LibGDX**](https://libgdx.com/) for game development.
