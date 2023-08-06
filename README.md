@@ -5,8 +5,6 @@
 > [!WARNING]
 > **This profile is under construction**
 
-
-
 <table
   align="right"
   style="width: 100%; border: none"
@@ -39,6 +37,55 @@
         src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
         height="160"
       />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a align="center" href="https://github.com/exoad">
+        <img align="center" src="img/github-icon.png" height="48" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a align="center" href="https://www.youtube.com/@exoad">
+        <img align="center" src="img/youtube-icon.png" height="48" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a align="center" href="https://www.reddit.com/user/Chunkyfungus123">
+        <img align="center" src="img/reddit-icon.png" height="48" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a align="center" href="https://discord.gg/PbJQRT9zQ8">
+        <img align="center" src="img/discord-icon.png" height="48" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a align="center" href="https://www.pixiv.net/en/users/71281559">
+        <img align="center" src="img/pixiv-icon.png" height="48" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a align="center" href="https://stackoverflow.com/users/14501343/exoad">
+        <img align="center" src="img/stackoverflow-icon.png" height="48" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a align="center" href="https://soundcloud.com/jack-meng-853495117">
+        <img align="center" src="img/soundcloud-icon.png" height="48" />
+      </a>
     </td>
   </tr>
 </table>
