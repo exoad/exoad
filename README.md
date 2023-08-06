@@ -60,7 +60,7 @@
   </a>
 </div>
 
-![](img/wave.png)
+![Hello](img/wave.png)
 **Hoi there!** I am exoad, a student from New York and I love to
 code. **I am experienced with systems and low-level programming**
 with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop
@@ -404,24 +404,28 @@ Here are some of the projects that I have worked on recently
   <summary>🎨 my design</summary>
   Here are the main colors that I use in most current-day GUI apps:
   <br>
-  <img src="img/colormap.png">
+
+  ![My color palette](img/colormap.png)
 </details>
 <details>
   <summary>
     <strong>🎀 inquiries?</strong>
   </summary>
+
   If you have inquiries regarding my software, give me a forward through my Discord server:
-  <a href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
-  <br>
-  If there is an issue with incorrect rendering of this profile, please submit a PR through this
-  <a href="https://github.com/exoad/exoad">profile's repo</a>
+  [https://discord.gg/PbJQRT9zQ8](https://discord.gg/PbJQRT9zQ8)
+  
+
+  If there is an issue with incorrect rendering of this profile, please submit a PR through this [profile's repo](https://github.com/exoad/exoad)
 </details>
 <details>
   <summary>
     🏮 cool picture
   </summary>
   <div align="center">
-    <img src="img/海沿いの道.png">
+
+  ![Image](img/海沿いの道.png)
+
   </div>
 </details>
   <div align="center">
@@ -434,7 +438,6 @@ Here are some of the projects that I have worked on recently
 
 <div align="right">
 
-_v1.2_ | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | <a href="https://hits.seeyoufarm.com"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
+_v1.2_ | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true)
 
 </div>
-
