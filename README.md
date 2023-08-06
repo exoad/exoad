@@ -4,11 +4,10 @@
 
 > [!WARNING]
 > **This profile is under construction**
-<table>
+<table align="right">
 <tr>
 <td>
 <table
-  align="right"
   style="width: 100%; border: none"
   cellspacing="0"
   cellpadding="0"
@@ -48,7 +47,6 @@
 <tr>
 <td>
 <table
-  align="right"
   style="width: 100%; border: none"
   cellspacing="0"
   cellpadding="0"
