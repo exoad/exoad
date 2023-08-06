@@ -2,6 +2,9 @@
 > [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
 -->
 
+> [!WARNING]
+> **This profile is under construction**
+
 <div align="center" id="user-content-toc">
   <ul>
     <summary>
