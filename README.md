@@ -434,33 +434,27 @@ Here are some of the projects that I have worked on recently
         </summary>
     </ul>
 </div>
-
 <details>
   <summary>🎨 my design</summary>
   Here are the main colors that I use in most current-day GUI apps:
   <br>
-
-  ![My color palette](img/colormap.png)
+  <img src="img/colormap.png" alt="Oops, couldn't load :P" />
 </details>
 <details>
   <summary>
     <strong>🎀 inquiries?</strong>
   </summary>
-
   If you have inquiries regarding my software, give me a forward through my Discord server:
-  [https://discord.gg/PbJQRT9zQ8](https://discord.gg/PbJQRT9zQ8)
-
-
-  If there is an issue with incorrect rendering of this profile, please submit a PR through this [profile's repo](https://github.com/exoad/exoad)
+  <a href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
+  <br>
+  If there is an issue with incorrect rendering of this profile, please submit a PR through this <a href="https://github.com/exoad/exoad">https://github.com/exoad/exoad</a>
 </details>
 <details>
   <summary>
     🏮 cool picture
   </summary>
   <div align="center">
-
-  ![Image](img/海沿いの道.png)
-
+  <img src="img/海沿いの道.png" alt="Oops, couldn't load :P" />
   </div>
 </details>
   <div align="center">
@@ -470,9 +464,6 @@ Here are some of the projects that I have worked on recently
 > **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;\_&#x2303;
 
   </div>
-
 <div align="right">
-
-_v1.2_ | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true)
-
+<p><em>v1.2</em> | <a href="https://github.com/exoad/exoad/blob/main/README_ZH.md"><code>中文</code></a> | <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true" />
 </div>
