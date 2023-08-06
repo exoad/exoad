@@ -56,48 +56,13 @@
     <img align="right" src="img/soundcloud-icon.png" height="48">
   </a>
 </div>
-<img src="img/wave.png" height=45 />
 
-**Hoi there!** I am exoad, a student from New York and I love to
+![](img/wave.png) **Hoi there!** I am exoad, a student from New York and I love to
 code. **I am experienced with systems and low-level programming**
 with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop
 apps primarily with my own
 **Java Swing** adaptation and more recently, **Flutter**. Recently, I have been learning
 [**MonoGame**](https://www.monogame.net/) and [**LibGDX**](https://libgdx.com/) for game development.
-
-
-<!--
-SAVE LOCATION
-
-
-
-
-<a href="https://github.com/exoad">
-  <img align="right" src="img/github-icon.png" height="48">
-</a>
-<a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
-  <img align="right" src="img/spotify-icon.png" height="48">
-</a>
-<a href="https://www.youtube.com/@exoad">
-  <img align="right" src="img/youtube-icon.png" height="48">
-</a>
-<a href="https://www.reddit.com/user/Chunkyfungus123">
-  <img align="right" src="img/reddit-icon.png" height="48">
-</a>
-<a href="https://discord.gg/PbJQRT9zQ8">
-  <img align="right" src="img/discord-icon.png" height="48">
-</a>
-<a href="https://www.pixiv.net/en/users/71281559">
-  <img align="right" src="img/pixiv-icon.png" height="48">
-</a>
-<a href="https://stackoverflow.com/users/14501343/exoad">
-  <img align="right" src="img/stackoverflow-icon.png" height="48">
-</a>
-<a href="https://soundcloud.com/jack-meng-853495117">
-  <img align="right" src="img/soundcloud-icon.png" height="48">
-</a>
-
--->
 
 <div id="user-content-toc">
   <ul>
