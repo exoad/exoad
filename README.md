@@ -57,35 +57,13 @@
   </a>
 </div>
 <br clear="left" />
-<div align="left">
-  <img src="img/wave.png" width="54">
-  <strong>Hoi there!</strong>
-  I am exoad, a student from New York and I love to
-  code.
-  <strong>
-    I am experienced with systems and
-    low-level programming
-  </strong>
-  with frameworks primarily in graphics in
-  <strong>OpenGL</strong>
-  and
-  <strong>Cuda</strong>
-  . Additionally, I have been building many GUI desktop apps primarily with my own
-  <strong>
-    Java
-    Swing
-  </strong>
-  adaptation and more recently,
-  <strong>Flutter</strong>
-  . Recently, I have been learning
-  <a href="https://www.monogame.net/">
-    <strong>MonoGame</strong>
-  </a>
-  and
-  <a href="https://libgdx.com/">
-    <strong>LibGDX</strong>
-  </a>
-  for game development.
+<img src="img/wave.png" width="54">
+
+**Hoi there!** I am exoad, a student from New York and I love to
+code. **I am experienced with systems and low-level programming**
+with frameworks primarily in graphics in **OpenGL** and **Cuda**. Additionally, I have been building many GUI desktop apps primarily with my own
+**Java Swing** adaptation and more recently, **Flutter**. Recently, I have been learning [**MonoGame**](https://www.monogame.net/) and [**LibGDX**](https://libgdx.com/) for game development.
+
   <div id="user-content-toc">
     <ul>
       <summary>
@@ -444,7 +422,6 @@
       <img src="img/海沿いの道.png">
     </div>
   </details>
-</div>
   <div align="center">
   <br />
 
