@@ -12,55 +12,54 @@
 </ul>
 </div>
 <div align="right">
-<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true" height=160 >
+<img align="right" src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true" height=160 >
 <br />
-<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true" height=160 />
+<img align="right" src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true" height=160 />
 <br />
-<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true" height=160/>
+<img align="right" src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true" height=160/>
 <br />
 <div align="right">
 <a href="https://github.com/exoad">
-<img src="img/github-icon.png" height=48 />
+<img align="right" src="img/github-icon.png" height=48 />
 </a>
 <br />
 <a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
-<img src="img/spotify-icon.png" height=48 />
+<img align="right" src="img/spotify-icon.png" height=48 />
 </a>
 <br />
 <a href="https://www.youtube.com/@exoad">
-<img src="img/youtube-icon.png" height=48 />
+<img align="right" src="img/youtube-icon.png" height=48 />
 </a>
 <br />
 <a href="https://www.reddit.com/user/Chunkyfungus123">
-<img src="img/reddit-icon.png" height=48 />
+<img align="right" src="img/reddit-icon.png" height=48 />
 </a>
 <br />
 <a href="https://discord.gg/PbJQRT9zQ8">
-<img src="img/discord-icon.png" height=48 />
+<img align="right" src="img/discord-icon.png" height=48 />
 </a>
 <br />
 <a href="https://www.pixiv.net/en/users/71281559">
-<img src="img/pixiv-icon.png" height=48 />
+<img align="right" src="img/pixiv-icon.png" height=48 />
 </a>
 <br />
 <a href="https://stackoverflow.com/users/14501343/exoad">
-<img src="img/stackoverflow-icon.png" height=48 />
+<img align="right" src="img/stackoverflow-icon.png" height=48 />
 </a>
 <br />
 <a href="https://soundcloud.com/jack-meng-853495117">
-<img src="img/soundcloud-icon.png" height=48 />
+<img align="right" src="img/soundcloud-icon.png" height=48 />
 </a>
 </div>
 </div>
-<div align="left">
-<img src="img/wave.png" width=54 /><strong>Hoi there!</strong> I am exoad, a student from New York and I love to
+<div><img src="img/wave.png" width=54 /><strong>Hoi there!</strong> I am exoad, a student from New York and I love to
   code. <strong>I am experienced with systems and
     low-level programming</strong> with frameworks primarily in graphics in <strong>OpenGL</strong> and
   <strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps primarily with my own <strong>Java
     Swing</strong> adaptation and more recently, <strong>Flutter</strong>. Recently, I have been learning <a
     href="https://www.monogame.net/"><strong>MonoGame</strong></a> and <a
     href="https://libgdx.com/"><strong>LibGDX</strong></a> for game development.
-
+</p>
 <div id="user-content-toc">
 <ul>
 <summary>
@@ -264,5 +263,4 @@
 
 *v1.2* | [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md) | <a href="https://hits.seeyoufarm.com"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 
-</div>
 </div>
