@@ -12,43 +12,43 @@
 </ul>
 </div>
 <div style="float: right">
-<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true" height=160 >
+<img style="float: right" src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true" height=160 >
 <br />
-<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true" height=160 />
+<img style="float: right" src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true" height=160 />
 <br />
-<img src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true" height=160/>
+<img style="float: right" src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true" height=160/>
 <br />
 <div align="center">
 <a href="https://github.com/exoad">
-<img src="img/github-icon.png" height=48 />
+<img style="float: right" src="img/github-icon.png" height=48 />
 </a>
 <br />
 <a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
-<img src="img/spotify-icon.png" height=48 />
+<img style="float: right" src="img/spotify-icon.png" height=48 />
 </a>
 <br />
 <a href="https://www.youtube.com/@exoad">
-<img src="img/youtube-icon.png" height=48 />
+<img style="float: right" src="img/youtube-icon.png" height=48 />
 </a>
 <br />
 <a href="https://www.reddit.com/user/Chunkyfungus123">
-<img src="img/reddit-icon.png" height=48 />
+<img style="float: right" src="img/reddit-icon.png" height=48 />
 </a>
 <br />
 <a href="https://discord.gg/PbJQRT9zQ8">
-<img src="img/discord-icon.png" height=48 />
+<img style="float: right" src="img/discord-icon.png" height=48 />
 </a>
 <br />
 <a href="https://www.pixiv.net/en/users/71281559">
-<img src="img/pixiv-icon.png" height=48 />
+<img style="float: right" src="img/pixiv-icon.png" height=48 />
 </a>
 <br />
 <a href="https://stackoverflow.com/users/14501343/exoad">
-<img src="img/stackoverflow-icon.png" height=48 />
+<img style="float: right" src="img/stackoverflow-icon.png" height=48 />
 </a>
 <br />
 <a href="https://soundcloud.com/jack-meng-853495117">
-<img src="img/soundcloud-icon.png" height=48 />
+<img style="float: right" src="img/soundcloud-icon.png" height=48 />
 </a>
 </div>
 </div>
