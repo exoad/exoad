@@ -127,6 +127,7 @@
   </a>
   for game development.
 </p>
+<!--
 <div id="user-content-toc">
   <ul>
     <summary>
@@ -134,6 +135,7 @@
     </summary>
   </ul>
 </div>
+-->
 Here are some of the projects that I have worked on recently
 <ul>
   <li>
@@ -232,6 +234,7 @@ Here are some of the projects that I have worked on recently
   and more!
 </details>
 </p>
+<!--
 <div id="user-content-toc">
   <ul>
     <summary>
@@ -239,6 +242,7 @@ Here are some of the projects that I have worked on recently
     </summary>
   </ul>
 </div>
+-->
 <ul>
   <li>
     <h3>
