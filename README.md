@@ -35,63 +35,64 @@
   <tr>
     <td align="center">
       <a href="https://github.com/exoad">
-        <img align="center" src="img/github-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/github-icon.png?raw=true" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@exoad">
-        <img align="center" src="img/youtube-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/youtube-icon.png?raw=true" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.reddit.com/user/Chunkyfungus123">
-        <img align="center" src="img/reddit-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/reddit-icon.png?raw=true" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://discord.gg/PbJQRT9zQ8">
-        <img align="center" src="img/discord-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/discord-icon.png?raw=true" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.pixiv.net/en/users/71281559">
-        <img align="center" src="img/pixiv-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/pixiv-icon.png?raw=true" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://stackoverflow.com/users/14501343/exoad">
-        <img align="center" src="img/stackoverflow-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/stackoverflow-icon.png?raw=true"
+          height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://soundcloud.com/jack-meng-853495117">
-        <img align="center" src="img/soundcloud-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/soundcloud-icon.png?raw=true" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
-        <img align="center" src="img/spotify-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/spotify-icon.png?raw=true" height="44">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://marketplace.visualstudio.com/publishers/exoad">
-        <img align="center" src="img/vscode-icon.png" height="44">
+        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/vscode-icon.png?raw=true" height="44">
       </a>
     </td>
   </tr>
@@ -100,13 +101,13 @@
   <ul>
     <summary>
       <h6 style="display: inline-block">
-        <img src="img/title_pic.png" alt="exoad" width="480">
+        <img src="https://github.com/exoad/exoad/blob/main/img/title_pic.png?raw=true" alt="exoad" width="480">
       </h6>
     </summary>
   </ul>
 </div>
 <p>
-  <img src="img/wave.png">
+  <img src="https://github.com/exoad/exoad/blob/main/img/wave.png?raw=true">
   <strong>Hoi there!</strong>
   I am exoad, a student from New York and
   I love to code.
@@ -149,7 +150,7 @@ Here are some of the projects that I have worked on recently
   </li>
   <li>
     <a href="https://github.com/exoad/yttriuslang.c">
-      <img align="left" src="img/unknown.png" width="20">
+      <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
       <strong>
         Yttrius
     </a>
@@ -159,7 +160,7 @@ Here are some of the projects that I have worked on recently
   </li>
   <li>
     <a href="https://github.com/exoad/prismix">
-      <img align="left" src="https://github.com/exoad/prismix/blob/master/assets/_icon.png" width="20">
+      <img align="left" src="https://github.com/exoad/prismix/blob/master/assets/_icon.png?raw=true" width="20">
       <strong>
         Prismix
     </a>
@@ -175,7 +176,7 @@ Here are some of the projects that I have worked on recently
   <ul>
     <li>
       <a href="https://github.com/exoad/com.jackmeng">
-        <img align="left" src="img/unknown.png" width="20">
+        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
         <strong>
           com.jackmeng
       </a>
@@ -184,7 +185,7 @@ Here are some of the projects that I have worked on recently
     </li>
     <li>
       <a href="https://github.com/exoad/animas-firefox">
-        <img align="left" src="img/unknown.png" width="20">
+        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
         <strong>
           Firefox Animas
       </a>
@@ -202,7 +203,7 @@ Here are some of the projects that I have worked on recently
     </li>
     <li>
       <a href="https://github.com/exoad/ansicolor">
-        <img align="left" src="img/unknown.png" width="20">
+        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
         <strong>
           ansicolor
       </a>
@@ -212,7 +213,7 @@ Here are some of the projects that I have worked on recently
     </li>
     <li>
       <a href="https://github.com/exoad/usaco_mashups">
-        <img align="left" src="img/unknown.png" width="20">
+        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
         <strong>
           USACO Mashups
       </a>
@@ -222,7 +223,7 @@ Here are some of the projects that I have worked on recently
     </li>
     <li>
       <a href="https://github.com/exoad/meta_javac">
-        <img align="left" src="img/unknown.png" width="20">
+        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
         <strong>
           Meta4J
       </a>
@@ -234,23 +235,14 @@ Here are some of the projects that I have worked on recently
   and more!
 </details>
 </p>
-<!--
-<div id="user-content-toc">
-  <ul>
-    <summary>
-      <h2 style="display: inline-block;">I use...</h2>
-    </summary>
-  </ul>
-</div>
--->
 <h4>
-  <img src="img/construction.png" width="24">
+  <img src="https://github.com/exoad/exoad/blob/main/img/construction.png?raw=true" width="24">
   <strong>Frameworks & Libraries</strong>
 </h4>
 <ul>
   <li>
     <a href="https://www.glfw.org/">
-      <img align="left" src="img/OpenGL_100px_June16.png" width="24">
+      <img align="left" src="https://github.com/exoad/exoad/blob/main/img/OpenGL_100px_June16.png?raw=true" width="24">
       GLFW
     </a>
     -
@@ -289,7 +281,7 @@ Here are some of the projects that I have worked on recently
   </li>
   <li>
     <a href="https://nodejs.org/en">
-      <img align="left" src="img/nodejs.png" width="20">
+      <img align="left" src="https://github.com/exoad/exoad/blob/main/img/nodejs.png?raw=true" width="20">
       NodeJS
       <em>
         [and NPM
@@ -306,7 +298,7 @@ Here are some of the projects that I have worked on recently
   </li>
   <li>
     <a href="https://tauri.app/">
-      <img align="left" src="img/tauri.png" width="20">
+      <img align="left" src="https://github.com/exoad/exoad/blob/main/img/tauri.png?raw=true" width="20">
       Tauri
     </a>
     - Recently getting
@@ -323,7 +315,7 @@ Here are some of the projects that I have worked on recently
   </li>
 </ul>
 <h4>
-  <img src="img/command_block.gif" width="24">
+  <img src="https://github.com/exoad/exoad/blob/main/img/command_block.gif?raw=true" width="24">
   <strong>Programming Languagees</strong>
 </h4>
 <ul>
@@ -448,7 +440,7 @@ Here are some of the projects that I have worked on recently
     <summary>🎨 my design</summary>
     Here are the main colors that I use in most current-day GUI apps:
     <br>
-    <img src="img/colormap.png" alt="Oops, couldn't load :P">
+    <img src="https://github.com/exoad/exoad/blob/main/img/colormap.png?raw=true" alt="Oops, couldn't load :P">
   </details>
   <details>
     <summary>
@@ -465,7 +457,7 @@ Here are some of the projects that I have worked on recently
       🏮 cool picture
     </summary>
     <div align="center">
-      <img src="img/海沿いの道.png" alt="Oops, couldn't load :P">
+      <img src="https://github.com/exoad/exoad/blob/main/img/海沿いの道.png?raw=true" alt="Oops, couldn't load :P">
     </div>
 </blockquote>
 <hr />
