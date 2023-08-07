@@ -243,219 +243,209 @@ Here are some of the projects that I have worked on recently
   </ul>
 </div>
 -->
+<h4>
+  <img src="img/construction.png" width="24">
+  <strong>Frameworks & Libraries</strong>
+</h4>
 <ul>
   <li>
-    <h4>
-      <img src="img/construction.png" width="24">
-      <strong>Frameworks —</strong>
-      Libraries, toolkits, engines, and
-      more...
-    </h4>
-    <ul>
-      <li>
-        <a href="https://www.glfw.org/">
-          <img align="left" src="img/OpenGL_100px_June16.png" width="24">
-          GLFW
-        </a>
-        -
-        Utilized for my faster Swing reimplementation
-      </li>
-      <li>
-        <a href="https://flutter.dev">
-          <img align="left" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="16">
-          Flutter
-        </a>
-        -
-        Learned after migrating from Swing for general GUI apps creation
-      </li>
-      <li>
-        <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html">
-          <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width="16">
-          Swing
-        </a>
-        - My original GUI library for all my languages to include bindings for programs from other languages.
-      </li>
-      <li>
-        <a href="https://github.com/Kode/Kha">
-          <img align="left" src="https://github.com/Kode.png?size=512" width="20">
-          Kha
-        </a>
-        - My previous rendering pipeline before SDL2
-      </li>
-      <li>
-        <a href="https://www.monogame.net/">
-          <img align="left"
-            src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true"
-            width="20">
-          MonoGame
-        </a>
-        - Currently learning for getting into game development
-      </li>
-      <li>
-        <a href="https://nodejs.org/en">
-          <img align="left" src="img/nodejs.png" width="20">
-          NodeJS
-          <em>
-            [and NPM
-            packages]
-          </em>
-        </a>
-        - Mainly used for creating Discord bots and lightweight server-based hosting apps.
-      </li>
-      <li>
-        <a href="https://llvm.org/">
-          <img align="left" src="https://llvm.org/img/DragonMedium.png" width="20">
-          LLVM
-        </a>
-      </li>
-      <li>
-        <a href="https://tauri.app/">
-          <img align="left" src="img/tauri.png" width="20">
-          Tauri
-        </a>
-        - Recently getting
-        into web development along with learning Rust and migrating most of my public and private projects to Rust
-      </li>
-      <li>
-        <a href="https://skia.org/">
-          <img align="left"
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png"
-            width="20">
-          Skia
-        </a>
-        - Utilized for my latest reimplementation of the Swing backend with Skia
-      </li>
-    </ul>
+    <a href="https://www.glfw.org/">
+      <img align="left" src="img/OpenGL_100px_June16.png" width="24">
+      GLFW
+    </a>
+    -
+    Utilized for my faster Swing reimplementation
   </li>
   <li>
-    <h4>
-      <img src="img/command_block.gif" width="24">
-      <strong>Languages —</strong>
-      Programming languages that I have
-      utilized
-      a lot
-    </h4>
-    <ul>
-      <li>
-        <details>
-          <summary>
-            <strong>⚙️ Object Oriented</strong>
-          </summary>
-          <ul>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-              <img align="center"
-                src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-              (~4) - Swing and Android Apps
-            </li>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-              (>2) - Flutter
-            </li>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-              (>4) - Skia and GLFW
-            </li>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=FFF&labelColor=EA8220">
-              (~2) - OpenFL and Kha
-            </li>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-              (~0.1) - MonoGame and Dot NET
-            </li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary>
-            <strong>📜 Scripting</strong>
-          </summary>
-          <ul>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-              (>2) - NodeJS and Dart for the web
-            </li>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-              (>4) - Inconjunction with C
-            </li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary>
-            <strong>🖥️ General</strong>
-          </summary>
-          <ul>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-              (>5)
-              - Compiler Design and Systems
-            </li>
-            <li>
-              <img align="center"
-                src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-              (~0.1) - Tauri
-            </li>
-          </ul>
-        </details>
-      </li>
-    </ul>
+    <a href="https://flutter.dev">
+      <img align="left" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="16">
+      Flutter
+    </a>
+    -
+    Learned after migrating from Swing for general GUI apps creation
   </li>
   <li>
-    <h4>
-      <img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width="24">
-      <strong>
-        Environment
-        —
-      </strong>
-      What I use to code
-    </h4>
-    <ul>
-      <li>
-        <strong>Editors</strong>
-        :
-        <a href="https://code.visualstudio.com/">
-          <img
-            src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"
-            alt="VSCode">
-        </a>
-        <a href="https://www.jetbrains.com/idea/">
-          <img
-            src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"
-            alt="IntelliJ IDEA">
-        </a>
-      </li>
-      <li>
-        <strong>Browser</strong>
-        :
-        <a href="https://www.mozilla.org/en-US/firefox/new/">
-          <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"
-            alt="Firefox">
-        </a>
-      </li>
-      <li>
-        <strong>OS</strong>
-        :
-        <a href="https://manjaro.org/">
-          <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"
-            alt="Manjaro">
-        </a>
-      </li>
-    </ul>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html">
+      <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width="16">
+      Swing
+    </a>
+    - My original GUI library for all my languages to include bindings for programs from other languages.
+  </li>
+  <li>
+    <a href="https://github.com/Kode/Kha">
+      <img align="left" src="https://github.com/Kode.png?size=512" width="20">
+      Kha
+    </a>
+    - My previous rendering pipeline before SDL2
+  </li>
+  <li>
+    <a href="https://www.monogame.net/">
+      <img align="left"
+        src="https://github.com/MonoGame/MonoGame.Logo/raw/master/FullColorOnLight/LogoOnly_128px.png?raw=true"
+        width="20">
+      MonoGame
+    </a>
+    - Currently learning for getting into game development
+  </li>
+  <li>
+    <a href="https://nodejs.org/en">
+      <img align="left" src="img/nodejs.png" width="20">
+      NodeJS
+      <em>
+        [and NPM
+        packages]
+      </em>
+    </a>
+    - Mainly used for creating Discord bots and lightweight server-based hosting apps.
+  </li>
+  <li>
+    <a href="https://llvm.org/">
+      <img align="left" src="https://llvm.org/img/DragonMedium.png" width="20">
+      LLVM
+    </a>
+  </li>
+  <li>
+    <a href="https://tauri.app/">
+      <img align="left" src="img/tauri.png" width="20">
+      Tauri
+    </a>
+    - Recently getting
+    into web development along with learning Rust and migrating most of my public and private projects to Rust
+  </li>
+  <li>
+    <a href="https://skia.org/">
+      <img align="left"
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/263px-Skia_Project_Logo.svg.png"
+        width="20">
+      Skia
+    </a>
+    - Utilized for my latest reimplementation of the Swing backend with Skia
   </li>
 </ul>
+<li>
+  <h4>
+    <img src="img/command_block.gif" width="24">
+    <strong>Programming Languagees</strong>
+  </h4>
+  <ul>
+    <li>
+      <details>
+        <summary>
+          <strong>⚙️ Object Oriented</strong>
+        </summary>
+        <ul>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+            <img align="center"
+              src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+            (~4) - Swing and Android Apps
+          </li>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+            (>2) - Flutter
+          </li>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+            (>4) - Skia and GLFW
+          </li>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=FFF&labelColor=EA8220">
+            (~2) - OpenFL and Kha
+          </li>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+            (~0.1) - MonoGame and Dot NET
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>
+          <strong>📜 Scripting</strong>
+        </summary>
+        <ul>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+            (>2) - NodeJS and Dart for the web
+          </li>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+            (>4) - Inconjunction with C
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>
+          <strong>🖥️ General</strong>
+        </summary>
+        <ul>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+            (>5)
+            - Compiler Design and Systems
+          </li>
+          <li>
+            <img align="center"
+              src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+            (~0.1) - Tauri
+          </li>
+        </ul>
+      </details>
+    </li>
+  </ul>
+</li>
+<li>
+  <h4>
+    <img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width="24">
+    <strong>
+      Environment
+      —
+    </strong>
+    What I use to code
+  </h4>
+  <ul>
+    <li>
+      <strong>Editors</strong>
+      :
+      <a href="https://code.visualstudio.com/">
+        <img
+          src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"
+          alt="VSCode">
+      </a>
+      <a href="https://www.jetbrains.com/idea/">
+        <img
+          src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"
+          alt="IntelliJ IDEA">
+      </a>
+    </li>
+    <li>
+      <strong>Browser</strong>
+      :
+      <a href="https://www.mozilla.org/en-US/firefox/new/">
+        <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"
+          alt="Firefox">
+      </a>
+    </li>
+    <li>
+      <strong>OS</strong>
+      :
+      <a href="https://manjaro.org/">
+        <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"
+          alt="Manjaro">
+      </a>
+    </li>
+  </ul>
 <!--
 <div id="user-content-toc">
   <ul>
