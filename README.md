@@ -452,6 +452,7 @@ Here are some of the projects that I have worked on recently
     </ul>
   </li>
 </ul>
+<!--
 <div id="user-content-toc">
   <ul>
     <summary>
@@ -483,6 +484,7 @@ Here are some of the projects that I have worked on recently
     <img src="img/海沿いの道.png" alt="Oops, couldn't load :P">
   </div>
 </details>
+-->
   <div align="center">
   <br />
 
