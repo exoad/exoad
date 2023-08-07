@@ -31,7 +31,7 @@
     </td>
   </tr>
 </table>
-<table align="right" style="width: 100%; height:90%; border: none" cellspacing="0" cellpadding="0" border="0">
+<table align="right" style="border: none" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td align="center">
       <a href="https://github.com/exoad">
