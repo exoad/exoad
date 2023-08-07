@@ -140,7 +140,7 @@ Here are some of the projects that I have worked on recently
 <ul>
   <li>
     <a href="https://github.com/Halcyoninae">
-      <img align="left" src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png"
+      <img align="left" src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png?raw=true"
         width="20">
       <strong>
         Halcyon
