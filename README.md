@@ -100,7 +100,7 @@
   <ul>
     <summary>
       <h6 style="display: inline-block">
-        <img src="img/title_pic.png" alt="exoad" width="450">
+        <img src="img/title_pic.png" alt="exoad" width="480">
       </h6>
     </summary>
   </ul>
@@ -443,47 +443,38 @@ Here are some of the projects that I have worked on recently
     </a>
   </li>
 </ul>
-<!--
-<div id="user-content-toc">
-  <ul>
+<blockquote>
+  <details>
+    <summary>🎨 my design</summary>
+    Here are the main colors that I use in most current-day GUI apps:
+    <br>
+    <img src="img/colormap.png" alt="Oops, couldn't load :P">
+  </details>
+  <details>
     <summary>
-      <h2 style="display: inline-block;">Misc...</h2>
+      <strong>🎀 inquiries?</strong>
     </summary>
-  </ul>
-</div>
-<details>
-  <summary>🎨 my design</summary>
-  Here are the main colors that I use in most current-day GUI apps:
-  <br>
-  <img src="img/colormap.png" alt="Oops, couldn't load :P">
+    If you have inquiries regarding my software, give me a forward through my Discord server:
+    <a href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
+    <br>
+    If there is an issue with incorrect rendering of this profile, please submit a PR through this
+    <a href="https://github.com/exoad/exoad">https://github.com/exoad/exoad</a>
+  </details>
+  <details>
+    <summary>
+      🏮 cool picture
+    </summary>
+    <div align="center">
+      <img src="img/海沿いの道.png" alt="Oops, couldn't load :P">
+    </div>
+</blockquote>
+<hr />
 </details>
-<details>
-  <summary>
-    <strong>🎀 inquiries?</strong>
-  </summary>
-  If you have inquiries regarding my software, give me a forward through my Discord server:
-  <a href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
-  <br>
-  If there is an issue with incorrect rendering of this profile, please submit a PR through this
-  <a href="https://github.com/exoad/exoad">https://github.com/exoad/exoad</a>
-</details>
-<details>
-  <summary>
-    🏮 cool picture
-  </summary>
   <div align="center">
-    <img src="img/海沿いの道.png" alt="Oops, couldn't load :P">
-  </div>
-</details>
--->
-  <div align="center">
-  <br />
 
 > [!IMPORTANT]
 > **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;\_&#x2303;
 
-  </div>
-<div align="right">
   <p>
     <em>v2.0</em> |
     <a href="https://github.com/exoad/exoad/blob/main/README_ZH.md"
@@ -494,5 +485,5 @@ Here are some of the projects that I have worked on recently
       src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"
     />
   </p>
-</div>
+  </div>
 
