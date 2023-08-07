@@ -5,6 +5,9 @@
 > [!WARNING]
 > **This profile is best viewed on [GitHub Web](https://github.com/exoad)**
 
+> [!NOTE]
+> 🇨🇳 [**中文版**](https://github.com/exoad/exoad/blob/main/README_ZH.md)
+
 <!--
   GitHub styling yet doesn't support hiding the borders big RIP :(
 -->
