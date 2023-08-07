@@ -245,12 +245,12 @@ Here are some of the projects that I have worked on recently
 -->
 <ul>
   <li>
-    <h3>
+    <h4>
       <img src="img/construction.png" width="24">
       <strong>Frameworks —</strong>
       Libraries, toolkits, engines, and
       more...
-    </h3>
+    </h4>
     <ul>
       <li>
         <a href="https://www.glfw.org/">
@@ -328,13 +328,13 @@ Here are some of the projects that I have worked on recently
     </ul>
   </li>
   <li>
-    <h3>
+    <h4>
       <img src="img/command_block.gif" width="24">
       <strong>Languages —</strong>
       Programming languages that I have
       utilized
       a lot
-    </h3>
+    </h4>
     <ul>
       <li>
         <details>
@@ -414,14 +414,14 @@ Here are some of the projects that I have worked on recently
     </ul>
   </li>
   <li>
-    <h3>
+    <h4>
       <img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width="24">
       <strong>
         Environment
         —
       </strong>
       What I use to code
-    </h3>
+    </h4>
     <ul>
       <li>
         <strong>Editors</strong>
