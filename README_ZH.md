@@ -1,6 +1,3 @@
-> [!WARNING]
-> [`English`](https://github.com/exoad/exoad/blob/main/README.md)
-
 <h1 align="center">
   <img src="img/title_pic.png" alt="exoad" width=690 />
 </h1>
@@ -187,6 +184,6 @@
 
 <div align="right">
 
-*v1.0.1[-1]*
+*v1.8[-1] 版本管理跟英文版不一样*
 
 </div>
