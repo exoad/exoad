@@ -453,7 +453,7 @@ Here are some of the projects that I have worked on recently
     <a href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
     <br>
     If there is an issue with incorrect rendering of this profile, please submit a PR through this
-    <a href="https://github.com/exoad/exoad">https://github.com/exoad/exoad</a>
+    <a href="https://github.com/exoad/exoad">https://github.com/exoad/exoad/pulls</a>
   </details>
   <details>
     <summary>
