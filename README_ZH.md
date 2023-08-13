@@ -2,7 +2,7 @@
   <img src="img/title_pic.png" alt="exoad" width=690 />
 </h1>
 
-<p><img src="img/wave.png" width=54 /> <strong>嗨，你好！</strong>我是来自纽约的学生exoad，热爱编程<strong>我在系统和底层编程方面有丰富经验</strong>，主要使用图形框架如<strong>OpenGL</strong>和<strong>Cuda</strong>此外，我还使用自己的<strong>Java Swing</strong>改编以及较近期的<strong>Flutter</strong>，构建了许多GUI桌面应用程序最近，我一直在学习游戏开发方面的<a href="https://www.monogame.net/"><strong>MonoGame</strong></a>和<a href="https://libgdx.com/"><strong>LibGDX</strong></a>
+<p><img src="img/wave.png" width=44 /> <strong>嗨，你好！</strong>我是来自纽约的学生exoad，热爱编程<strong>我在系统和底层编程方面有丰富经验</strong>，主要使用图形框架如<strong>OpenGL</strong>和<strong>Cuda</strong>此外，我还使用自己的<strong>Java Swing</strong>改编以及较近期的<strong>Flutter</strong>，构建了许多GUI桌面应用程序最近，我一直在学习游戏开发方面的<a href="https://www.monogame.net/"><strong>MonoGame</strong></a>和<a href="https://libgdx.com/"><strong>LibGDX</strong></a>
 </p>
 <h2>一些项目</h2>
 <p>以下是我最近参与的一些项目</p>
