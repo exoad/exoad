@@ -305,7 +305,7 @@ Here are some of the projects that I have worked on recently
       Tauri
     </a>
     - Recently getting
-    into web development along with learning Rust and migrating most of my public and private projects to Rust
+    into web development with developing using web technologies for desktop apps
   </li>
   <li>
     <a href="https://skia.org/">
@@ -319,7 +319,7 @@ Here are some of the projects that I have worked on recently
 </ul>
 <h4>
   <img src="https://github.com/exoad/exoad/blob/main/img/command_block.gif?raw=true" width="24">
-  <strong>Programming Languagees</strong>
+  <strong>Programming Languages</strong>
 </h4>
 <ul>
   <li>
