@@ -111,25 +111,25 @@
 </div>
 <p>
   <img src="https://github.com/exoad/exoad/blob/main/img/wave.png?raw=true">
-  <strong>Hoi there!</strong>
-  I am exoad, a student from New York and
-  I love to code.
-  <strong>I am experienced with systems and low-level programming</strong>
-  with frameworks primarily in graphics in
-  <strong>OpenGL</strong> &
-  <strong>Cuda</strong>
-  . Additionally, I have been
-  building many GUI desktop apps primarily with my own
-  <strong>Java Swing</strong>
-  adaptation and more recently,
-  <strong>Flutter</strong>. Recently, I have been learning
-  <a href="https://www.monogame.net/">
-    <strong>MonoGame</strong>
-  </a> and
-  <a href="https://libgdx.com/">
-    <strong>LibGDX</strong>
-  </a>
-  for game development.
+<strong>Hi there!</strong>
+I am exoad, a student from New York, and I love to code.
+<strong>I am experienced in systems and low-level programming</strong>,
+with a focus on graphics frameworks such as
+<strong>OpenGL</strong> and
+<strong>Cuda</strong>.
+Additionally, I have been building many GUI desktop apps,
+primarily using my own adaptation of
+<strong>Java Swing</strong>,
+and more recently, 
+<strong>Flutter</strong>.
+Currently, I am learning
+<a href="https://www.monogame.net/">
+  <strong>MonoGame</strong>
+</a> and
+<a href="https://libgdx.com/">
+  <strong>LibGDX</strong>
+</a>
+for game development.
 </p>
 <!--
 <div id="user-content-toc">
@@ -333,27 +333,27 @@ Here are some of the projects that I have worked on recently
             src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
           <img align="center"
             src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-          (~4) - Swing and Android Apps
+          (~3.5yrs) - Swing and Android Apps
         </li>
         <li>
           <img align="center"
             src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-          (>2) - Flutter
+          (>1.5yrs) - Flutter
         </li>
         <li>
           <img align="center"
             src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-          (>4) - Skia and GLFW
+          (>4yrs) - Skia and GLFW
         </li>
         <li>
           <img align="center"
             src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=FFF&labelColor=EA8220">
-          (~2) - OpenFL and Kha
+          (~2yrs) - OpenFL and Kha
         </li>
         <li>
           <img align="center"
             src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-          (~0.1) - MonoGame and Dot NET
+          (~0.1yrs) - MonoGame + DotNet
         </li>
       </ul>
     </details>
@@ -367,12 +367,12 @@ Here are some of the projects that I have worked on recently
         <li>
           <img align="center"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-          (>2) - NodeJS and Dart for the web
+          (>2yrs) - NodeJS and Dart for the web
         </li>
         <li>
           <img align="center"
             src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-          (>4) - In conjunction with C
+          (>4yrs) - In conjunction with C
         </li>
       </ul>
     </details>
@@ -386,13 +386,13 @@ Here are some of the projects that I have worked on recently
         <li>
           <img align="center"
             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-          (>5)
-          - Compiler Design and Systems
+          (>5yrs)
+          - Programming language design and Systems
         </li>
         <li>
           <img align="center"
             src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-          (~0.1) - Tauri
+          (~0.1yrs) - Tauri
         </li>
       </ul>
     </details>
@@ -440,14 +440,14 @@ Here are some of the projects that I have worked on recently
 </ul>
 <blockquote>
   <details>
-    <summary>🎨 my design</summary>
+    <summary>🎨 My design</summary>
     Here are the main colors that I use in most current-day GUI apps:
     <br>
     <img src="https://github.com/exoad/exoad/blob/main/img/colormap.png?raw=true" alt="Oops, couldn't load :P">
   </details>
   <details>
     <summary>
-      <strong>🎀 inquiries?</strong>
+      <strong>🎀 Inquiries?</strong>
     </summary>
     If you have inquiries regarding my software, give me a forward through my Discord server:
     <a href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
@@ -457,7 +457,7 @@ Here are some of the projects that I have worked on recently
   </details>
   <details>
     <summary>
-      🏮 cool picture
+      🏮 Cool picture
     </summary>
     <div align="center">
       <img src="https://github.com/exoad/exoad/blob/main/img/海沿いの道.png?raw=true" alt="Oops, couldn't load :P">
