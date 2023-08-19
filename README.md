@@ -1,17 +1,11 @@
-<!-- >> [!WARNING]
-> [`中文`](https://github.com/exoad/exoad/blob/main/README_ZH.md)
--->
-
 > [!WARNING]
 > **Best viewed on [GitHub Web](https://github.com/exoad)**
 
 > [!NOTE]
 > <kbd>🇨🇳 [**中文版**](https://github.com/exoad/exoad/blob/main/README_ZH.md)</kbd>
 
-<!--
-  GitHub styling yet doesn't support hiding the borders big RIP :(
--->
-<table align="right" style="width: 100%; border: none" cellspacing="0" cellpadding="0" border="0">
+<table align="right" style="width: 100%; border: none" cellspacing="0"
+  cellpadding="0" border="0">
   <tr>
     <td align="center">
       <img align="center"
@@ -34,86 +28,104 @@
     </td>
   </tr>
 </table>
-<table align="right" style="border: none" cellspacing="0" cellpadding="0" border="0">
+<table align="right" style="border: none" cellspacing="0" cellpadding="0"
+  border="0">
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://github.com/exoad">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/github-icon.png?raw=true" height="44">
-      </a>
+        <a href="https://github.com/exoad">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/github-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://www.youtube.com/@exoad">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/youtube-icon.png?raw=true" height="44">
-      </a>
+        <a href="https://www.youtube.com/@exoad">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/youtube-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://www.reddit.com/user/Chunkyfungus123">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/reddit-icon.png?raw=true" height="44">
-      </a>
+        <a href="https://www.reddit.com/user/Chunkyfungus123">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/reddit-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://discord.gg/PbJQRT9zQ8">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/discord-icon.png?raw=true" height="44">
-      </a>
+        <a href="https://discord.gg/PbJQRT9zQ8">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/discord-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://www.pixiv.net/en/users/71281559">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/pixiv-icon.png?raw=true" height="44">
-      </a>
+        <a href="https://www.pixiv.net/en/users/71281559">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/pixiv-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://stackoverflow.com/users/14501343/exoad">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/stackoverflow-icon.png?raw=true"
-          height="44">
-      </a>
+        <a href="https://stackoverflow.com/users/14501343/exoad">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/stackoverflow-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://soundcloud.com/jack-meng-853495117">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/soundcloud-icon.png?raw=true" height="44">
-      </a>
+        <a href="https://soundcloud.com/jack-meng-853495117">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/soundcloud-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/spotify-icon.png?raw=true" height="44">
-      </a>
+        <a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/spotify-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
   <tr>
     <td align="center">
       <kbd>
-      <a href="https://marketplace.visualstudio.com/publishers/exoad">
-        <img align="center" src="https://github.com/exoad/exoad/blob/main/img/vscode-icon.png?raw=true" height="44">
-      </a>
+        <a href="https://marketplace.visualstudio.com/publishers/exoad">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/vscode-icon.png?raw=true"
+            height="44">
+        </a>
       </kbd>
     </td>
   </tr>
@@ -122,151 +134,178 @@
   <ul>
     <summary>
       <h6 style="display: inline-block">
-        <img src="https://github.com/exoad/exoad/blob/main/img/title_pic.png?raw=true" alt="exoad" width="480">
+        <img
+          src="https://github.com/exoad/exoad/blob/main/img/title_pic.png?raw=true"
+          alt="exoad" width="480">
       </h6>
     </summary>
   </ul>
 </div>
 <p>
   <img src="https://github.com/exoad/exoad/blob/main/img/wave.png?raw=true">
-<strong>Hi there!</strong>
-I am exoad, a student from New York, and I love to code.
-<strong>I am experienced in systems and low-level programming</strong>,
-with a focus on graphics frameworks such as
-<strong>OpenGL</strong> and
-<strong>Cuda</strong>.
-Additionally, I have been building many GUI desktop apps,
-primarily using my own adaptation of
-<strong>Java Swing</strong>,
-and more recently, 
-<strong>Flutter</strong>.
-Currently, I am learning
-<a href="https://www.monogame.net/">
-  <strong>MonoGame</strong>
-</a> and
-<a href="https://libgdx.com/">
-  <strong>LibGDX</strong>
-</a>
-for game development.
+  <strong>Hi there!</strong>
+  I am exoad, a student from New York, and I love to code.
+  <strong>I am experienced in systems and low-level programming</strong>,
+  with a focus on graphics frameworks such as
+  <strong>OpenGL</strong> and
+  <strong>Cuda</strong>.
+  Additionally, I have been building many GUI desktop apps,
+  primarily using my own adaptation of
+  <strong>Java Swing</strong>,
+  and more recently,
+  <strong>Flutter</strong>.
+  Currently, I am learning
+  <a href="https://www.monogame.net/">
+    <strong>MonoGame</strong>
+  </a> and
+  <a href="https://libgdx.com/">
+    <strong>LibGDX</strong>
+  </a>
+  for game development.
 </p>
 Here are some of the projects that I have worked on recently
 <ul>
   <li>
     <a href="https://github.com/Halcyoninae">
-      <img align="left" src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png?raw=true"
+      <img align="left"
+        src="https://github.com/Halcyoninae/Halcyon.c/blob/master/assets/app/Halcyon_Logo.png?raw=true"
         width="20">
       <strong>
         Halcyon
-    </a> —</strong>
+      </a> —</strong>
     Audio player with a nice GUI to go with it.
   </li>
   <li>
     <a href="https://github.com/exoad/yttriuslang.c">
-      <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
+      <img align="left"
+        src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
+        width="20">
       <strong>
         Yttrius
-    </a>
-    —
+      </a>
+      —
     </strong>
     A simple compiled and extensible programming language.
   </li>
   <li>
     <a href="https://github.com/exoad/prismix">
-      <img align="left" src="https://github.com/exoad/prismix/blob/master/assets/_icon.png?raw=true" width="20">
+      <img align="left"
+        src="https://github.com/exoad/prismix/blob/master/assets/_icon.png?raw=true"
+        width="20">
       <strong>
         Prismix
-    </a>
+      </a>
     </strong>
     — Simple tool for dealing with colors
   </li>
 </ul>
 <p>
-<details>
-  <summary>
-    📌 Here are some more projects I have released publicly:
-  </summary>
-  <ul>
-    <li>
-      <a href="https://github.com/exoad/com.jackmeng">
-        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
-        <kbd>
-        <strong>
-          com.jackmeng
-        </strong>
-        </kbd>
-      </a>
-      — A library of a bunch of random things to help with developing in Java
-    </li>
-    <li>
-      <a href="https://github.com/exoad/animas-firefox">
-        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
-        <kbd>
-        <strong>
-          Firefox Animas
-        </strong>
-        </kbd>
-      </a>
-      — Anime themes for Firefox
-    </li>
-    <li>
-      <a href="https://github.com/exoad/toasterify">
-        <img align="left" src="https://github.com/exoad/toasterify/blob/main/assets/icon1024.png?raw=true" width="20">
-        <kbd>
-        <strong>
-          Toasterify
-        </strong>
-        </kbd>
-      </a>
-      — An Android app to warm up your phone to warm up your hands in cold times
-    </li>
-    <li>
-      <a href="https://github.com/exoad/ansicolor">
-        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
-        <kbd>
-        <strong>
-          ansicolor
-        </strong>
-        </kbd>
-      </a>
-      — A Java library to make dealing with ANSI coloring and prettifying CLI text
-      easier
-    </li>
-    <li>
-      <a href="https://github.com/exoad/usaco_mashups">
-        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
-        <kbd>
-        <strong>
-          USACO Mashups
-        </strong>
-        </kbd>
-      </a>
-      — Discord Bot is written in NodeJS and Java to help with creating problem
-      sets for the USACO competition
-    </li>
-    <li>
-      <a href="https://github.com/exoad/meta_javac">
-        <img align="left" src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true" width="20">
-        <kbd>
-        <strong>
-          Meta4J
-        </strong>
-        </kbd>
-      </a>
-      — An attempt to add meta programming into Java with the help of the inbuilt
-      annotation API
-    </li>
-  </ul>
-  and more!
-</details>
+  <details>
+    <summary>
+      📌 Here are some more projects I have released publicly:
+    </summary>
+    <ul>
+      <li>
+        <a href="https://github.com/exoad/com.jackmeng">
+          <img align="left"
+            src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
+            width="20">
+          <kbd>
+            <strong>
+              com.jackmeng
+            </strong>
+          </kbd>
+        </a>
+        — A library of a bunch of random things to help with developing in Java
+      </li>
+      <li>
+        <a href="https://github.com/exoad/animas-firefox">
+          <img align="left"
+            src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
+            width="20">
+          <kbd>
+            <strong>
+              Firefox Animas
+            </strong>
+          </kbd>
+        </a>
+        — Anime themes for Firefox
+      </li>
+      <li>
+        <a href="https://github.com/exoad/toasterify">
+          <img align="left"
+            src="https://github.com/exoad/toasterify/blob/main/assets/icon1024.png?raw=true"
+            width="20">
+          <kbd>
+            <strong>
+              Toasterify
+            </strong>
+          </kbd>
+        </a>
+        — An Android app to warm up your phone to warm up your hands in cold
+        times
+      </li>
+      <li>
+        <a href="https://github.com/exoad/ansicolor">
+          <img align="left"
+            src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
+            width="20">
+          <kbd>
+            <strong>
+              ansicolor
+            </strong>
+          </kbd>
+        </a>
+        — A Java library to make dealing with ANSI coloring and prettifying CLI
+        text
+        easier
+      </li>
+      <li>
+        <a href="https://github.com/exoad/usaco_mashups">
+          <img align="left"
+            src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
+            width="20">
+          <kbd>
+            <strong>
+              USACO Mashups
+            </strong>
+          </kbd>
+        </a>
+        — Discord Bot is written in NodeJS and Java to help with creating
+        problem
+        sets for the USACO competition
+      </li>
+      <li>
+        <a href="https://github.com/exoad/meta_javac">
+          <img align="left"
+            src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
+            width="20">
+          <kbd>
+            <strong>
+              Meta4J
+            </strong>
+          </kbd>
+        </a>
+        — An attempt to add meta programming into Java with the help of the
+        inbuilt
+        annotation API
+      </li>
+    </ul>
+    and more!
+  </details>
 </p>
 <h4>
-  <img src="https://github.com/exoad/exoad/blob/main/img/construction.png?raw=true" width="24">
+  <img
+    src="https://github.com/exoad/exoad/blob/main/img/construction.png?raw=true"
+    width="24">
   <strong>Frameworks & Libraries</strong>
 </h4>
 <ul>
   <li>
     <a href="https://www.glfw.org/">
-      <img align="left" src="https://github.com/exoad/exoad/blob/main/img/OpenGL_100px_June16.png?raw=true" width="24">
+      <img align="left"
+        src="https://github.com/exoad/exoad/blob/main/img/OpenGL_100px_June16.png?raw=true"
+        width="24">
       GLFW
     </a>
     -
@@ -274,18 +313,24 @@ Here are some of the projects that I have worked on recently
   </li>
   <li>
     <a href="https://flutter.dev">
-      <img align="left" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="16">
+      <img align="left"
+        src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"
+        width="16">
       Flutter
     </a>
     -
     Learned after migrating from Swing for general GUI apps creation
   </li>
   <li>
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html">
-      <img align="left" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" width="16">
+    <a
+      href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/swing/package-summary.html">
+      <img align="left"
+        src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png"
+        width="16">
       Swing
     </a>
-    - My original GUI library for all my languages to include bindings for programs from other languages.
+    - My original GUI library for all my languages to include bindings for
+    programs from other languages.
   </li>
   <li>
     <a href="https://github.com/Kode/Kha">
@@ -305,14 +350,17 @@ Here are some of the projects that I have worked on recently
   </li>
   <li>
     <a href="https://nodejs.org/en">
-      <img align="left" src="https://github.com/exoad/exoad/blob/main/img/nodejs.png?raw=true" width="20">
+      <img align="left"
+        src="https://github.com/exoad/exoad/blob/main/img/nodejs.png?raw=true"
+        width="20">
       NodeJS
       <em>
         [and NPM
         packages]
       </em>
     </a>
-    - Mainly used for creating Discord bots and lightweight server-based hosting apps.
+    - Mainly used for creating Discord bots and lightweight server-based hosting
+    apps.
   </li>
   <li>
     <a href="https://llvm.org/">
@@ -322,7 +370,9 @@ Here are some of the projects that I have worked on recently
   </li>
   <li>
     <a href="https://tauri.app/">
-      <img align="left" src="https://github.com/exoad/exoad/blob/main/img/tauri.png?raw=true" width="20">
+      <img align="left"
+        src="https://github.com/exoad/exoad/blob/main/img/tauri.png?raw=true"
+        width="20">
       Tauri
     </a>
     - Recently getting
@@ -339,7 +389,9 @@ Here are some of the projects that I have worked on recently
   </li>
 </ul>
 <h4>
-  <img src="https://github.com/exoad/exoad/blob/main/img/command_block.gif?raw=true" width="24">
+  <img
+    src="https://github.com/exoad/exoad/blob/main/img/command_block.gif?raw=true"
+    width="24">
   <strong>Programming Languages</strong>
 </h4>
 <ul>
@@ -420,7 +472,8 @@ Here are some of the projects that I have worked on recently
   </li>
 </ul>
 <h4>
-  <img src="https://emojigraph.org/media/google/night-with-stars_1f303.png" width="24">
+  <img src="https://emojigraph.org/media/google/night-with-stars_1f303.png"
+    width="24">
   <strong>
     Environment
     —
@@ -446,7 +499,8 @@ Here are some of the projects that I have worked on recently
     <strong>Browser</strong>
     :
     <a href="https://www.mozilla.org/en-US/firefox/new/">
-      <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"
+      <img
+        src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"
         alt="Firefox">
     </a>
   </li>
@@ -454,7 +508,8 @@ Here are some of the projects that I have worked on recently
     <strong>OS</strong>
     :
     <a href="https://manjaro.org/">
-      <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"
+      <img
+        src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"
         alt="Manjaro">
     </a>
   </li>
@@ -464,16 +519,20 @@ Here are some of the projects that I have worked on recently
     <summary>🎨 My design</summary>
     Here are the main colors that I use in most current-day GUI apps:
     <br>
-    <img src="https://github.com/exoad/exoad/blob/main/img/colormap.png?raw=true" alt="Oops, couldn't load :P">
+    <img
+      src="https://github.com/exoad/exoad/blob/main/img/colormap.png?raw=true"
+      alt="Oops, couldn't load :P">
   </details>
   <details>
     <summary>
       <strong>🎀 Inquiries?</strong>
     </summary>
-    If you have inquiries regarding my software, give me a forward through my Discord server:
+    If you have inquiries regarding my software, give me a forward through my
+    Discord server:
     <a href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
     <br>
-    If there is an issue with the incorrect rendering of this profile, please submit a PR through this
+    If there is an issue with the incorrect rendering of this profile, please
+    submit a PR through this
     <a href="https://github.com/exoad/exoad">https://github.com/exoad/exoad/pulls</a>
   </details>
   <details>
@@ -481,12 +540,13 @@ Here are some of the projects that I have worked on recently
       🏮 Cool picture
     </summary>
     <div align="center">
-      <img src="https://github.com/exoad/exoad/blob/main/img/海沿いの道.png?raw=true" alt="Oops, couldn't load :P">
+      <img src="https://github.com/exoad/exoad/blob/main/img/海沿いの道.png?raw=true"
+        alt="Oops, couldn't load :P">
     </div>
-</blockquote>
-<hr />
+  </blockquote>
+  <hr />
 </details>
-  <div align="center">
+<div align="center">
 
 > [!IMPORTANT]
 > **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;\_&#x2303;
@@ -501,5 +561,5 @@ Here are some of the projects that I have worked on recently
       src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexoad&count_bg=%23000000&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"
     />
   </p>
-  </div>
+</div>
 
