@@ -372,7 +372,7 @@ Here are some of the projects that I have worked on recently
         <li>
           <img align="center"
             src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-          (>4) - Inconjunction with C
+          (>4) - In conjunction with C
         </li>
       </ul>
     </details>
@@ -452,7 +452,7 @@ Here are some of the projects that I have worked on recently
     If you have inquiries regarding my software, give me a forward through my Discord server:
     <a href="https://discord.gg/PbJQRT9zQ8">https://discord.gg/PbJQRT9zQ8</a>
     <br>
-    If there is an issue with incorrect rendering of this profile, please submit a PR through this
+    If there is an issue with the incorrect rendering of this profile, please submit a PR through this
     <a href="https://github.com/exoad/exoad">https://github.com/exoad/exoad/pulls</a>
   </details>
   <details>
