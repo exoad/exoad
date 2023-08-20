@@ -2,7 +2,7 @@
 > **Best viewed on [GitHub Web](https://github.com/exoad)**
 
 > [!NOTE]
-> <kbd>🇨🇳 [**中文版**](https://github.com/exoad/exoad/blob/main/README_ZH.md)</kbd>
+> <kbd>[**中文版**](https://github.com/exoad/exoad/blob/main/README_ZH.md)</kbd>
 
 <table align="right" style="width: 100%; border: none" cellspacing="0"
   cellpadding="0" border="0">
@@ -202,7 +202,7 @@ Here are some of the projects that I have worked on recently
 <p>
   <details>
     <summary>
-      📌 Here are some more projects I have released publicly:
+      Here are some more projects I have released publicly:
     </summary>
     <ul>
       <li>
@@ -398,7 +398,7 @@ Here are some of the projects that I have worked on recently
   <li>
     <details>
       <summary>
-        <strong>⚙️ Object Oriented</strong>
+        <strong> Object Oriented</strong>
       </summary>
       <ul>
         <li>
@@ -434,7 +434,7 @@ Here are some of the projects that I have worked on recently
   <li>
     <details>
       <summary>
-        <strong>📜 Scripting</strong>
+        <strong>Scripting</strong>
       </summary>
       <ul>
         <li>
@@ -453,7 +453,7 @@ Here are some of the projects that I have worked on recently
   <li>
     <details>
       <summary>
-        <strong>🖥️ General</strong>
+        <strong>General</strong>
       </summary>
       <ul>
         <li>
@@ -516,7 +516,7 @@ Here are some of the projects that I have worked on recently
 </ul>
 <blockquote>
   <details>
-    <summary>🎨 My design</summary>
+    <summary>My design</summary>
     Here are the main colors that I use in most current-day GUI apps:
     <br>
     <img
@@ -525,7 +525,7 @@ Here are some of the projects that I have worked on recently
   </details>
   <details>
     <summary>
-      <strong>🎀 Inquiries?</strong>
+      <strong>Inquiries?</strong>
     </summary>
     If you have inquiries regarding my software, give me a forward through my
     Discord server:
@@ -537,7 +537,7 @@ Here are some of the projects that I have worked on recently
   </details>
   <details>
     <summary>
-      🏮 Cool picture
+      Cool picture
     </summary>
     <div align="center">
       <img src="https://github.com/exoad/exoad/blob/main/img/海沿いの道.png?raw=true"
