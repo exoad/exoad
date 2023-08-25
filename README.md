@@ -123,21 +123,21 @@
   <tr>
     <td align="center">
       <img align="center"
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true"
+        src="https://streak-stats.demolab.com?user=exoad&theme=highcontrast&hide_border=true&border_radius=20&date_format=j%2Fn%5B%2FY%5D&card_width=130&ring=71EB46&fire=EB3FA5&currStreakNum=EBEBEB&currStreakLabel=EBA356&hide_total_contributions=true&hide_longest_streak=true"
         height="160">
     </td>
   </tr>
   <tr>
     <td align="center">
       <img align="center"
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true"
+        src="https://streak-stats.demolab.com?user=exoad&theme=highcontrast&hide_border=true&border_radius=20&date_format=j%2Fn%5B%2FY%5D&card_width=130&ring=71EB46&fire=EB3FA5&currStreakNum=EBEBEB&currStreakLabel=EBA356&sideNums=EB3FA5&hide_current_streak=true&hide_longest_streak=true"
         height="160">
     </td>
   </tr>
   <tr>
     <td align="center">
       <img align="center"
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
+        src="https://streak-stats.demolab.com?user=exoad&theme=highcontrast&hide_border=true&border_radius=20&date_format=j%2Fn%5B%2FY%5D&card_width=130&ring=71EB46&fire=EB3FA5&currStreakNum=EBEBEB&currStreakLabel=EBA356&sideNums=71EB46&hide_total_contributions=true&hide_current_streak=true"
         height="160">
     </td>
   </tr>
