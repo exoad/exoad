@@ -4,30 +4,7 @@
 > [!NOTE]
 > <kbd>[**中文版**](https://github.com/exoad/exoad/blob/main/README_ZH.md)</kbd>
 
-<table align="right" style="width: 100%; border: none" cellspacing="0"
-  cellpadding="0" border="0">
-  <tr>
-    <td align="center">
-      <img align="center"
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true"
-        height="160">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img align="center"
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true"
-        height="160">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img align="center"
-        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
-        height="160">
-    </td>
-  </tr>
-</table>
+
 <table align="right" style="border: none" cellspacing="0" cellpadding="0"
   border="0">
   <tr>
@@ -96,6 +73,17 @@
       </kbd>
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <kbd>
+        <a href="https://twitter.com/akira_exoad">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/twitter_x.png?raw=true"
+            height="44">
+        </a>
+      </kbd>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <kbd>
@@ -127,6 +115,30 @@
             height="44">
         </a>
       </kbd>
+    </td>
+  </tr>
+</table>
+<table align="right" style="width: 100%; border: none" cellspacing="0"
+  cellpadding="0" border="0">
+  <tr>
+    <td align="center">
+      <img align="center"
+        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true"
+        height="160">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img align="center"
+        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_current_streak=true&hide_longest_streak=true"
+        height="160">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img align="center"
+        src="https://streak-stats.demolab.com?user=exoad&theme=black-ice&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&card_width=180&background=30%2C1DEBAB%2C2453EB&fire=000000&dates=EBEBEB&ring=FFFFFF&currStreakNum=EB3838&stroke=EB545400&hide_total_contributions=true&hide_current_streak=true"
+        height="160">
     </td>
   </tr>
 </table>
