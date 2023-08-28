@@ -156,7 +156,7 @@
 <p>
   <img src="https://github.com/exoad/exoad/blob/main/img/wave.png?raw=true">
   <strong>Hi there!</strong>
-  I am exoad, a student from New York, and I love to code.
+  I am Jack (exoad), a student from New York, and I love to code.
   <strong>I am experienced in systems and low-level programming</strong>,
   with a focus on graphics frameworks such as
   <strong>OpenGL</strong> and
