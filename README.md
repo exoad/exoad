@@ -4,7 +4,6 @@
 > [!NOTE]
 > <kbd>[**中文版**](https://github.com/exoad/exoad/blob/main/README_ZH.md)</kbd>
 
-
 <table align="right" style="border: none" cellspacing="0" cellpadding="0"
   border="0">
   <tr>
@@ -268,7 +267,7 @@ Here are some of the projects that I have worked on recently
             </strong>
           </kbd>
         </a>
-        — A Java library to make dealing with ANSI coloring and prettifying CLI
+        — A Java library to deal with ANSI coloring and prettifying CLI
         text
         easier
       </li>
@@ -298,7 +297,7 @@ Here are some of the projects that I have worked on recently
             </strong>
           </kbd>
         </a>
-        — An attempt to add meta programming into Java with the help of the
+        — An attempt to add metaprogramming into Java with the help of the
         inbuilt
         annotation API
       </li>
@@ -331,7 +330,7 @@ Here are some of the projects that I have worked on recently
       Flutter
     </a>
     -
-    Learned after migrating from Swing for general GUI apps creation
+    Learned after migrating from Swing for general GUI app creation
   </li>
   <li>
     <a
@@ -358,7 +357,7 @@ Here are some of the projects that I have worked on recently
         width="20">
       MonoGame
     </a>
-    - Currently learning for getting into game development
+    - Currently learning to get into game development
   </li>
   <li>
     <a href="https://nodejs.org/en">
