@@ -526,14 +526,8 @@ Here are some of the projects that I have worked on recently
   </li>
 </ul>
 <blockquote>
-  <details>
-    <summary>My design</summary>
-    Here are the main colors that I use in most current-day GUI apps:
-    <br>
-    <img
-      src="https://github.com/exoad/exoad/blob/main/img/colormap.png?raw=true"
-      alt="Oops, couldn't load :P">
-  </details>
+  <strong>Check out my design: <a href="https://github.com/exoad/Design">HERE</a></strong>
+  <br />
   <details>
     <summary>
       <strong>Inquiries?</strong>
