@@ -196,7 +196,7 @@ Here are some of the projects that I have worked on recently
       </a>
       —
     </strong>
-    A simple compiled and extensible programming language.
+    A simple and extensible DSL for building programming languages
   </li>
   <li>
     <a href="https://github.com/exoad/prismix">
