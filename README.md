@@ -53,6 +53,17 @@
   <tr>
     <td align="center">
       <kbd>
+        <a href="www.linkedin.com/in/jiaming-meng-45017a215">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/linkedin-icon.png?raw=true"
+            height="44">
+        </a>
+      </kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <kbd>
         <a href="https://www.pixiv.net/en/users/71281559">
           <img align="center"
             src="https://github.com/exoad/exoad/blob/main/img/pixiv-icon.png?raw=true"
