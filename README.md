@@ -53,7 +53,7 @@
   <tr>
     <td align="center">
       <kbd>
-        <a href="www.linkedin.com/in/jiaming-meng-45017a215">
+        <a href="https://www.linkedin.com/in/jiaming-meng-45017a215">
           <img align="center"
             src="https://github.com/exoad/exoad/blob/main/img/linkedin-icon.png?raw=true"
             height="44">
