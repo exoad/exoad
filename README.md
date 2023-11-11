@@ -376,10 +376,6 @@ Here are some of the projects that I have worked on recently
         src="https://github.com/exoad/exoad/blob/main/img/nodejs.png?raw=true"
         width="20">
       NodeJS
-      <em>
-        [and NPM
-        packages]
-      </em>
     </a>
     - Mainly used for creating Discord bots and lightweight server-based hosting
     apps.
