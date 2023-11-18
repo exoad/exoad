@@ -539,7 +539,7 @@ Here are some of the projects that I have worked on recently
     <summary>
       <strong>Why the tables on the right of your profile?</strong>
     </summary>
-    Haha, well it was the only way to get something like that laid out on the right side in a column form. Otherwise, they would all just be on top of the header. :) (*I wasted too much time figuring out GitHub Markdown limitations*)
+    Haha, well it was the only way to get something like that laid out on the right side in a column form. Otherwise, they would all just be on top of the header. :) (<em>I wasted too much time figuring out GitHub Markdown limitations</em>)
   </details>
   <details>
     <summary>
