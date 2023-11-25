@@ -168,7 +168,7 @@
   <strong>Hi there!</strong>
   I am Jack (exoad), a student from New York, and I love to code.
   <strong>I am experienced in systems and low-level programming</strong>,
-  with a focus on graphics frameworks such as
+  with a focus on graphics programming with
   <strong>OpenGL</strong> and
   <strong>Cuda</strong>.
   Additionally, I have been building many GUI desktop apps,
