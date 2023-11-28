@@ -562,7 +562,7 @@ Here are some of the projects that I have worked on recently
 </details>
 <div align="center">
 
-> [!IMPORTANT]
+> [!NOTE]
 > **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;\_&#x2303;
 
   <p>
