@@ -560,11 +560,12 @@ Here are some of the projects that I have worked on recently
   </blockquote>
   <hr />
 </details>
-<div align="center">
 
-> [!NOTE]
+
+> [!IMPORTANT]
 > **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;\_&#x2303;
 
+<div align="center">
   <p>
     <em>v2.0</em> |
     <a href="https://github.com/exoad/exoad/blob/main/README_ZH.md"
