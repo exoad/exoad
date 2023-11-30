@@ -1,5 +1,5 @@
-> [!WARNING]
-> **Best viewed on [GitHub Web](https://github.com/exoad)**
+> [!CAUTION]
+> ### Best viewed on [GitHub Web](https://github.com/exoad)
 
 > [!TIP]
 > *i have bad code formatting*
