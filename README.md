@@ -1,8 +1,8 @@
 > [!WARNING]
 > **Best viewed on [GitHub Web](https://github.com/exoad)**
 
-> [!NOTE]
-> <kbd>[**中文版**](https://github.com/exoad/exoad/blob/main/README_ZH.md)</kbd>
+> [!TIP]
+> *i have bad code formatting*
 
 <table align="right" style="border: none" cellspacing="0" cellpadding="0"
   border="0">
