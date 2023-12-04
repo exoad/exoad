@@ -166,7 +166,7 @@
 <p>
   <img src="https://github.com/exoad/exoad/blob/main/img/wave.png?raw=true">
   <strong>Hi there!</strong>
-I am Jack (exoad), a current high school student, and I love to code. 
+I am exoad, a current high school student, and I love to code. 
 <strong>I am experienced in systems and low-level programming</strong>, with a focus on graphics programming using 
 <strong>OpenGL</strong> and 
 <strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps, primarily using my own adaptation of 
