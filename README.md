@@ -173,9 +173,6 @@ I am exoad, a current high school student, and I love to code.
   Currently, I am learning
   <a href="https://www.monogame.net/">
     <strong>MonoGame</strong>
-  </a> and
-  <a href="https://libgdx.com/">
-    <strong>LibGDX</strong>
   </a>
   for game development.
 </p>
