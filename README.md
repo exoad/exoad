@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <kbd>
-        <a href="mailto://exoad@naver.com">
+        <a href="mailto:exoad@naver.com?subject=to%20exoad">
           <img align="center"
             src="https://github.com/exoad/exoad/blob/main/img/mail.png?raw=true"
             height="44">
