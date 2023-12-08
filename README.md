@@ -397,7 +397,7 @@ Here are some of the projects that I have worked on recently
     <details>
       <summary>
         <img src="https://github.com/exoad/exoad/blob/main/img/restone_spin.GIF?raw=true" width=20 />
-        <strong> Object Oriented</strong>
+        <strong> Object Oriented</strong> [6]
       </summary>
       <ul>
         <li>
@@ -434,7 +434,7 @@ Here are some of the projects that I have worked on recently
     <details>
       <summary>
         <img src="https://github.com/exoad/exoad/blob/main/img/restone_spin.GIF?raw=true" width=20 />
-        <strong>Scripting</strong>
+        <strong>Scripting</strong> [2]
       </summary>
       <ul>
         <li>
@@ -454,7 +454,7 @@ Here are some of the projects that I have worked on recently
     <details>
       <summary>
         <img src="https://github.com/exoad/exoad/blob/main/img/restone_spin.GIF?raw=true" width=20 />
-        <strong>General</strong>
+        <strong>General Purpose</strong> [2] 
       </summary>
       <ul>
         <li>
