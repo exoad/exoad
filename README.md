@@ -304,7 +304,7 @@ Here are some of the projects that I have worked on recently
         annotation API
       </li>
     </ul>
-    and more!
+    and more! <em>I don't update my profile often</em>
   </details>
 </p>
 <h4>
@@ -494,6 +494,7 @@ Here are some of the projects that I have worked on recently
 </h4>
 <ul>
   <li>
+    <img src="https://github.com/exoad/exoad/blob/main/img/computer_ico.png?raw=true" width=20 />
     <strong>Editors</strong>
     :
     <a href="https://code.visualstudio.com/">
@@ -508,6 +509,7 @@ Here are some of the projects that I have worked on recently
     </a>
   </li>
   <li>
+    <img src="https://github.com/exoad/exoad/blob/main/img/computer_ico.png?raw=true" width=20 />
     <strong>Browser</strong>
     :
     <a href="https://www.mozilla.org/en-US/firefox/new/">
@@ -517,6 +519,7 @@ Here are some of the projects that I have worked on recently
     </a>
   </li>
   <li>
+    <img src="https://github.com/exoad/exoad/blob/main/img/computer_ico.png?raw=true" width=20 />
     <strong>OS</strong>
     :
     <a href="https://manjaro.org/">
