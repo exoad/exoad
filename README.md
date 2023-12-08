@@ -631,7 +631,7 @@ Here are some of the projects that I have worked on recently
 
 
 > [!IMPORTANT]
-> <div align="center"><strong>Thank you</strong> for checking out my profile, <strong>have a great day</strong>! ☕ &#x2303;\_&#x2303;</div>
+> <div align="center"><strong>Thank you</strong> for checking out my profile, <strong>have a great day</strong>! ☕ &#x2303;_&#x2303;</div>
 
 <div align="center">
   <p>
