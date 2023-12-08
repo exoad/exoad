@@ -163,18 +163,7 @@
 </div>
 <p>
   <img src="https://github.com/exoad/exoad/blob/main/img/wave.png?raw=true">
-  <strong>Hi there!</strong>
-I am exoad, a current high school student, and I love to code. 
-<strong>I am experienced in systems and low-level programming</strong>, with a focus on graphics programming using 
-<strong>OpenGL</strong> and 
-<strong>Cuda</strong>. Additionally, I have been building many GUI desktop apps, primarily using my own adaptation of 
-<strong>Java Swing</strong> and, more recently, 
-<strong>Flutter</strong>.
-  Currently, I am learning
-  <a href="https://www.monogame.net/">
-    <strong>MonoGame</strong>
-  </a>
-  for game development.
+<strong>Hey there!</strong> I'm exoad, a high school student with a passion for coding. Specializing in systems and low-level programming, I focus on graphics programming using <strong>OpenGL</strong> and <strong>Cuda</strong>. Beyond that, I've crafted numerous GUI desktop apps, leveraging my adaptations of <strong>Java Swing</strong> and, more recently, <strong>Flutter</strong>. Currently, I'm delving into the world of game development with <a href="https://www.monogame.net/"><strong>MonoGame</strong></a>.
 </p>
 Here are some of the projects that I have worked on recently
 <ul>
