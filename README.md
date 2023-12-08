@@ -162,6 +162,17 @@
   <tr>
     <td align="center">
       <kbd>
+        <a href="https://ch.tetr.io/u/exoad">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/tetrio.png?raw=true"
+            height="44"> <!-- this icon is kinda funky as it has no margins -->
+        </a>
+      </kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <kbd>
         <a href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
           <img align="center"
             src="https://github.com/exoad/exoad/blob/main/img/spotify-icon.png?raw=true"
