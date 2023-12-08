@@ -604,7 +604,7 @@ Here are some of the projects that I have worked on recently
         alt="Oops, couldn't load :P">
     </div>
   </blockquote>
-  <hr />
+
 </details>
 
 
