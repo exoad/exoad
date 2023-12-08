@@ -81,12 +81,46 @@
       </kbd>
     </td>
   </tr>
-    <tr>
+  <tr>
+    <td align="center">
+      <kbd>
+        <a href="https://gitlab.com/exoad">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/gitlab.png?raw=true"
+            height="44">
+        </a>
+      </kbd>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <kbd>
         <a href="https://twitter.com/akira_exoad">
           <img align="center"
             src="https://github.com/exoad/exoad/blob/main/img/twitter_x.png?raw=true"
+            height="44">
+        </a>
+      </kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <kbd>
+        <a href="https://steamcommunity.com/id/exoad/">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/steam.png?raw=true"
+            height="44">
+        </a>
+      </kbd>
+    </td>
+  </tr>
+  </tr>
+    <tr>
+    <td align="center">
+      <kbd>
+        <a href="https://www.instagram.com/exoad_/">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/instagram.png?raw=true"
             height="44">
         </a>
       </kbd>
