@@ -140,6 +140,17 @@
   <tr>
     <td align="center">
       <kbd>
+        <a href="https://dev.to/exoad">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/devto.png?raw=true"
+            height="44">
+        </a>
+      </kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <kbd>
         <a href="https://bitbucket.org/exoad/">
           <img align="center"
             src="https://github.com/exoad/exoad/blob/main/img/bitbucket_icon.png?raw=true"
