@@ -29,6 +29,17 @@
   <tr>
     <td align="center">
       <kbd>
+        <a href="mailto://exoad@naver.com">
+          <img align="center"
+            src="https://github.com/exoad/exoad/blob/main/img/mail.png?raw=true"
+            height="44">
+        </a>
+      </kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <kbd>
         <a href="https://www.reddit.com/user/Chunkyfungus123">
           <img align="center"
             src="https://github.com/exoad/exoad/blob/main/img/reddit-icon.png?raw=true"
