@@ -143,7 +143,7 @@
         <a href="https://bitbucket.org/exoad/">
           <img align="center"
             src="https://github.com/exoad/exoad/blob/main/img/bitbucket_icon.png?raw=true"
-            height="34"> <!-- this icon is kinda funky as it has no margins -->
+            height="44"> <!-- this icon is kinda funky as it has no margins -->
         </a>
       </kbd>
     </td>
