@@ -1,6 +1,5 @@
-> [!CAUTION]
-> ### Best viewed on [GitHub Web](https://github.com/exoad)
-
+> [!WARNING]
+> <div align="center"><img src="https://github.com/exoad/exoad/blob/main/img/warning.png?raw=true" height=20 /> <strong>Best viewed on GitHub Web</strong></div>
 
 <table align="right" style="border: none" cellspacing="0" cellpadding="0"
   border="0">
@@ -632,7 +631,7 @@ Here are some of the projects that I have worked on recently
 
 
 > [!IMPORTANT]
-> **Thank you** for checking out my profile, **have a great day**! ☕ &#x2303;\_&#x2303;
+> <div align="center"><strong>Thank you</strong> for checking out my profile, <strong>have a great day</strong>! ☕ &#x2303;\_&#x2303;</div>
 
 <div align="center">
   <p>
