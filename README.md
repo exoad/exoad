@@ -281,7 +281,8 @@ Here are some of the projects that I have worked on recently
 <p>
   <details>
     <summary>
-      Here are some more projects I have released publicly:
+      <img src="https://github.com/exoad/exoad/blob/main/img/catwave.gif?raw=true" width=28 /> 
+      Here are some more projects I have released publicly
     </summary>
     <ul>
       <li>
@@ -373,12 +374,23 @@ Here are some of the projects that I have worked on recently
     and more! <em>I don't update my profile often</em>
   </details>
 </p>
+<details>
+  
+<summary>
 <h4>
   <img
     src="https://github.com/exoad/exoad/blob/main/img/construction.png?raw=true"
     width="24">
   <strong>Frameworks & Libraries</strong>
 </h4>
+<br/>
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" />
+</summary>
 <ul>
   <li>
     <a href="https://www.glfw.org/">
@@ -463,6 +475,7 @@ Here are some of the projects that I have worked on recently
     - Utilized for my latest reimplementation of the Swing backend with Skia
   </li>
 </ul>
+</details>
 <h4>
   <img
     src="https://github.com/exoad/exoad/blob/main/img/command_block.gif?raw=true"
@@ -511,7 +524,7 @@ Here are some of the projects that I have worked on recently
     <details>
       <summary>
         <img src="https://github.com/exoad/exoad/blob/main/img/restone_spin.GIF?raw=true" width=20 />
-        >&#9;2&#9;<&#9;&#9;<strong>Scripting</strong>
+        >&#9;2&#9;<&#9;&#9;Scripting
       </summary>
       <ul>
         <li>
@@ -531,7 +544,7 @@ Here are some of the projects that I have worked on recently
     <details>
       <summary>
         <img src="https://github.com/exoad/exoad/blob/main/img/restone_spin.GIF?raw=true" width=20 />
-        >&#9;2&#9;<&#9;&#9;<strong>General Purpose</strong> 
+        >&#9;2&#9;<&#9;&#9;General Purpose
       </summary>
       <ul>
         <li>
@@ -549,6 +562,7 @@ Here are some of the projects that I have worked on recently
     </details>
   </li>
 </ul>
+        
 <h4>
   <img src="https://emojigraph.org/media/google/night-with-stars_1f303.png"
     width="24">
