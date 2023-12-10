@@ -195,8 +195,8 @@
 </div>
 <p>
   <img src="https://github.com/exoad/exoad/blob/main/img/wave.png?raw=true" />
-  <strong>Hey there!</strong> I'm exoad, a high school student with a passion for coding. Specializing in systems and low-level programming, I focus on graphics programming using <strong>OpenGL</strong> and <strong>Cuda</strong>. Beyond that, I've crafted numerous GUI desktop apps, leveraging my adaptations of <strong>Java Swing</strong> and, more recently, <strong>Flutter</strong>. Currently, I'm delving into the world of game development with <a href="https://www.monogame.net/">
-    <strong>MonoGame</strong>
+  <strong>Hey there! I'm exoad, a high school student with a passion for coding. Specializing in systems and low-level programming, I focus on graphics programming using OpenGL and Cuda.</strong> Beyond that, I've crafted numerous GUI desktop apps, leveraging my adaptations of Java Swing and, more recently, Flutter. Currently, I'm delving into the world of game development with <a href="https://www.monogame.net/">
+    MonoGame
   </a>.
 </p> Here are some of the projects that I have worked on recently <ul>
   <li>
