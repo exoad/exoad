@@ -455,7 +455,7 @@
 
 <div align="center">
   <p>
-    <em>v2.0</em> |
+    <em>v2.2</em> |
     <a href="https://github.com/exoad/exoad/blob/main/README_ZH.md"
       ><kbd>中文</kbd></a
     >
