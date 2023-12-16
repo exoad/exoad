@@ -7,7 +7,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://github.com/exoad">
+                                <a href="https://github.com/exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/github-icon.png?raw=true"
                                                 height="44" />
@@ -18,7 +18,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://www.youtube.com/@exoad">
+                                <a href="https://www.youtube.com/@exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/youtube-icon.png?raw=true"
                                                 height="44" />
@@ -30,7 +30,7 @@
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="mailto:exoad@naver.com?subject=to%20exoad">
+                                        href="mailto:exoad@naver.com?subject=to%20exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/mail.png?raw=true"
                                                 height="44" />
@@ -42,7 +42,7 @@
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="https://www.reddit.com/user/Chunkyfungus123">
+                                        href="https://www.reddit.com/user/Chunkyfungus123" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/reddit-icon.png?raw=true"
                                                 height="44" />
@@ -53,7 +53,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://discord.gg/PbJQRT9zQ8">
+                                <a href="https://discord.gg/PbJQRT9zQ8" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/discord-icon.png?raw=true"
                                                 height="44" />
@@ -65,7 +65,7 @@
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="https://www.linkedin.com/in/jiaming-meng-45017a215">
+                                        href="https://www.linkedin.com/in/jiaming-meng-45017a215" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/linkedin-icon.png?raw=true"
                                                 height="44" />
@@ -77,7 +77,7 @@
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="https://www.pixiv.net/en/users/71281559">
+                                        href="https://www.pixiv.net/en/users/71281559" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/pixiv-icon.png?raw=true"
                                                 height="44" />
@@ -89,7 +89,7 @@
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="https://stackoverflow.com/users/14501343/exoad">
+                                        href="https://stackoverflow.com/users/14501343/exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/stackoverflow-icon.png?raw=true"
                                                 height="44" />
@@ -100,7 +100,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://gitlab.com/exoad">
+                                <a href="https://gitlab.com/exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/gitlab.png?raw=true"
                                                 height="44" />
@@ -111,7 +111,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://twitter.com/akira_exoad">
+                                <a href="https://twitter.com/akira_exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/twitter_x.png?raw=true"
                                                 height="44" />
@@ -122,7 +122,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://steamcommunity.com/id/exoad/">
+                                <a href="https://steamcommunity.com/id/exoad/" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/steam.png?raw=true"
                                                 height="44" />
@@ -133,7 +133,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://www.instagram.com/exoad_/">
+                                <a href="https://www.instagram.com/exoad_/" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/instagram.png?raw=true"
                                                 height="44" />
@@ -145,7 +145,7 @@
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="https://soundcloud.com/jack-meng-853495117">
+                                        href="https://soundcloud.com/jack-meng-853495117" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/soundcloud-icon.png?raw=true"
                                                 height="44" />
@@ -156,7 +156,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://dev.to/exoad">
+                                <a href="https://dev.to/exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/devto.png?raw=true"
                                                 height="44" />
@@ -167,7 +167,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://bitbucket.org/exoad/">
+                                <a href="https://bitbucket.org/exoad/" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/bitbucket_icon.png?raw=true"
                                                 height="44" />
@@ -179,7 +179,7 @@
         <tr>
                 <td align="center">
                         <kbd>
-                                <a href="https://ch.tetr.io/u/exoad">
+                                <a href="https://ch.tetr.io/u/exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/tetrio.png?raw=true"
                                                 height="44" />
@@ -192,7 +192,7 @@
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau">
+                                        href="https://open.spotify.com/user/6upazxk1cqaqq1ct3d9jviaau" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/spotify-icon.png?raw=true"
                                                 height="44" />
@@ -204,7 +204,7 @@
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="https://marketplace.visualstudio.com/publishers/exoad">
+                                        href="https://marketplace.visualstudio.com/publishers/exoad" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/vscode-icon.png?raw=true"
                                                 height="44" />
