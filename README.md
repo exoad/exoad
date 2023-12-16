@@ -1,4 +1,6 @@
 
+> [!WARNING]
+> <div align="center"><img src="https://github.com/exoad/exoad/blob/main/img/warning.png?raw=true" height=20 /> <strong>Best viewed on GitHub Web</strong></div>
 
 <table align="right" style="border: none;" cellspacing="0" cellpadding="0"
         border="0">
