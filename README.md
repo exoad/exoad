@@ -275,7 +275,7 @@ Here are some of the projects that I have worked on recently
                                 width="20" />
                         <strong> Halcyon </strong>
                 </a>
-                Audio player with a nice GUI to go with it.
+                Audio player with a handwritten audio engine and a nice GUI to go with it.
         </li>
         <li>
                 <a href="https://github.com/exoad/yttriuslang.c">
