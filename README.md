@@ -266,7 +266,13 @@
         </a>
         .
 </p>
-Here are some of the projects that I have worked on recently
+
+> [!CAUTION]
+> <strong>Currently, I am working on <a href="https://github.com/exoad/Poprock"><kbd>Poprock</kbd></a>!</strong>
+> 
+> *An extensible and lightweight software library for any Java application*
+
+Here are some <strong><em>big</em></strong> projects that I have worked on recently
 <ul>
         <li>
                 <a href="https://github.com/Halcyoninae">
@@ -275,7 +281,7 @@ Here are some of the projects that I have worked on recently
                                 width="20" />
                         <strong> Halcyon </strong>
                 </a>
-                Audio player with a handwritten audio engine and a nice GUI to go with it.
+                A music player with a handwritten audio engine and a nice GUI to go with it.
         </li>
         <li>
                 <a href="https://github.com/exoad/yttriuslang.c">
@@ -286,15 +292,7 @@ Here are some of the projects that I have worked on recently
                 </a>
                 — A simple and extensible DSL for building programming languages
         </li>
-        <li>
-                <a href="https://github.com/exoad/prismix">
-                        <img alt="img" align="left"
-                                src="https://github.com/exoad/prismix/blob/master/assets/_icon.png?raw=true"
-                                width="20" />
-                        <strong> Prismix </strong>
-                </a>
-                — Simple tool for dealing with colors
-        </li>
+
 </ul>
 <p>
 <details>
@@ -304,7 +302,8 @@ Here are some of the projects that I have worked on recently
                         width="28" />
                 Here are some more projects I have released publicly
         </summary>
-        <ul>
+        <ul>  
+                <!-- unlisted
                 <li>
                         <a href="https://github.com/exoad/com.jackmeng">
                                 <img alt="img" align="left"
@@ -318,6 +317,8 @@ Here are some of the projects that I have worked on recently
                         developing
                         in Java
                 </li>
+                -->
+                <!-- unlisted
                 <li>
                         <a href="https://github.com/exoad/animas-firefox">
                                 <img alt="img" align="left"
@@ -329,44 +330,83 @@ Here are some of the projects that I have worked on recently
                         </a>
                         — Anime themes for Firefox
                 </li>
+                -->
                 <li>
+                        <details>      
+                        <summary>
+                        <a href="https://github.com/exoad/prismix">
+                                <img alt="img" align="left"
+                                        src="https://github.com/exoad/prismix/blob/master/assets/_icon.png?raw=true"
+                                        width="20" />
+                                <kbd>
+                                        <strong>Prismix</strong>
+                                </kbd>
+                        </a>
+                        </summary>
+                        A tool to create color palettes and find nearby suitable colors using a pretty naive home made algorithm
+                        </details>
+                </li>
+                                <li>
+                        <details>      
+                        <summary>
+                        <a href="https://github.com/exoad/SpotifyPlaylistScrubber">
+                                <img alt="img" align="left"
+                                        src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
+                                        width="20" />
+                                <kbd>
+                                        <strong>Spotify Playlist Scrubber</strong>
+                                </kbd>
+                        </a>
+                        </summary>
+                                A program to help you download songs from a Spotify playlist or any song by using alternate sources like YouTube
+                        </details>
+                </li>
+                                                <li>
+                        <details>      
+                        <summary>
                         <a href="https://github.com/exoad/toasterify">
                                 <img alt="img" align="left"
                                         src="https://github.com/exoad/toasterify/blob/main/assets/icon1024.png?raw=true"
                                         width="20" />
                                 <kbd>
-                                        <strong> Toasterify </strong>
+                                        <strong>Toasterify</strong>
                                 </kbd>
                         </a>
-                        — An Android app to warm up your phone to warm up your
-                        hands in
-                        cold times
+                        </summary>
+                                A niche Android app that can warm up your phone quickly for extreme conditions or to warm your hands
+                        </details>
                 </li>
                 <li>
+                        <details>      
+                        <summary>
                         <a href="https://github.com/exoad/ansicolor">
                                 <img alt="img" align="left"
                                         src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
                                         width="20" />
                                 <kbd>
-                                        <strong> ansicolor </strong>
+                                        <strong>ansicolor</strong>
                                 </kbd>
                         </a>
-                        — A Java library to deal with ANSI coloring and
-                        prettifying CLI
-                        text easier
+                        </summary>
+                                A Java library to deal with ANSI coloring and prettifying CLI text easier
+                        </details>
                 </li>
-                <li>
+                                <li>
+                        <details>      
+                        <summary>
                         <a href="https://github.com/exoad/usaco_mashups">
                                 <img alt="img" align="left"
                                         src="https://github.com/exoad/exoad/blob/main/img/unknown.png?raw=true"
                                         width="20" />
                                 <kbd>
-                                        <strong> USACO Mashups </strong>
+                                        <strong>USACO Mashups</strong>
                                 </kbd>
                         </a>
-                        — Discord Bot is written in NodeJS and Java to help with
-                        creating problem sets for the USACO competition
+                        </summary>
+                               A Discord bot written using NodeJS and Java to help with both mediating the lack of an API between usaco.org and utilizing the scraped data to create a usable interface.
+                        </details>
                 </li>
+                <!-- unlisted
                 <li>
                         <a href="https://github.com/exoad/meta_javac">
                                 <img alt="img" align="left"
@@ -380,6 +420,7 @@ Here are some of the projects that I have worked on recently
                         help of
                         the inbuilt annotation API
                 </li>
+                -->
         </ul>
         and more! <em>I don't update my profile often</em>
 </details>
