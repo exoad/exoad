@@ -268,7 +268,7 @@
 </p>
 
 > [!CAUTION]
-> <strong>Currently, I am working on <a href="https://github.com/exoad/Poprock"><kbd>Poprock</kbd></a> <img src="https://github.com/exoad/exoad/blob/main/img/left_finger_point.png?raw=true" width=22 /> Click here!</strong>
+> <strong>Currently, I am working on <a href="https://github.com/exoad/Poprock">Poprock</a>!</strong>
 > 
 > *An extensible and lightweight software library for any Java application*
 
