@@ -288,7 +288,7 @@
                 <img src="https://github.com/exoad/exoad/blob/main/img/macross.gif?raw=true" />
         </li>
         <li>
-                <strong>games</strong> I love playing management and building games 🏗. I also sometimes play Tetris (<strong>Tetrio</strong>), <strong>War Thunder</strong>, & <strong>Minecraft</strong>
+                <strong>games</strong> I love playing management and building games 🏗. I also sometimes play Tetris (<strong>Tetrio</strong>), <strong>War Thunder</strong>, & <strong>Minecraft</strong><br/>
                 <a href="https://store.steampowered.com/app/294100/RimWorld/"><img src="https://img.shields.io/badge/RIMWORLD-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
                 <a href="https://store.steampowered.com/app/236390/War_Thunder/"><img src="https://img.shields.io/badge/War%20Thunder-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
                 <a href="https://github.com/Anuken/Mindustry"><img src="https://img.shields.io/badge/Mindustry-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
