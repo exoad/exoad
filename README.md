@@ -267,6 +267,32 @@
         .
 </p>
 
+<details>
+        <summary><img src="https://github.com/exoad/exoad/blob/main/img/touchgrass.gif?raw=true" width=36 /> <h4>Outside of programming...</h4></summary>
+<em>just going to list them for now 🙃</em>
+<ul>
+        <li>
+                <strong>kpop</strong>『<a href="https://twitter.com/realfromis_9">fromis_9</a>』『<a href="https://twitter.com/JOYURI_offcl">JO YURI</a>』
+                <br/>
+                🎶 my picks:
+                <br/><a href="https://open.spotify.com/track/0l7HoOCQOKZpg5MV2hXw57?si=afe1b3bbd96048b3"><img src="https://img.shields.io/badge/Feel%20Good%20(Secret%20Code)-0081CC?style=for-the-badge&logo=spotify&logoColor=1ED760" height=30/></a>
+                <a href="https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8?si=5197dff32d15404c"><img src="https://img.shields.io/badge/DM-bdbddf?style=for-the-badge&logo=spotify&logoColor=1ED760" height=30/></a> 
+                <a href="https://open.spotify.com/track/00vy9aiFjxMfnKniQAYzrC?si=5e6587ffa8ed4dc7"><img src="https://img.shields.io/badge/Love%20Shhh%21-f8f5ec?style=for-the-badge&logo=spotify&logoColor=1ED760" height=30/></a>
+                <a href="https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt?si=3ee71ce4c1d24474"><img src="https://img.shields.io/badge/Unnatural-fe670b?style=for-the-badge&logo=spotify&logoColor=1ED760" height=30/></a>
+                <a href="https://open.spotify.com/track/0LMqywHzZAAwSPWCfyfz9t?si=2fbf99fe43fc4998"><img src="https://img.shields.io/badge/TAXI-f8d146?style=for-the-badge&logo=spotify&logoColor=1ED760" height=30/></a>
+                <a href="https://open.spotify.com/track/6AC1kqSenPA6J3RocYHKZr?si=417f3b20bbe54872"><img src="https://img.shields.io/badge/Malaga-95c796?style=for-the-badge&logo=spotify&logoColor=1ED760" height=30/></a>
+                <a href="https://open.spotify.com/track/5rAjh9qDtJalKfwgxNk2vt?si=6280e8deeeb24780"><img src="https://img.shields.io/badge/SURF-fef051?style=for-the-badge&logo=spotify&logoColor=1ED760" height=30/></a>
+        </li>
+        <li>
+                <strong>mecha</strong> the only genre I look towards in anime and I love <a href="https://en.wikipedia.org/wiki/Super_Dimension_Fortress_Macross">Macross</a>
+                <img src="https://github.com/exoad/exoad/blob/main/img/macross-gif.gif?raw=true" />
+        </li>
+        <li>
+                <strong>
+        </li>
+</ul>
+</details>
+
 > [!CAUTION]
 > <strong>Currently, I am working on <a href="https://github.com/exoad/Poprock">Poprock</a>!</strong>
 > 
