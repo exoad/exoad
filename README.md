@@ -284,13 +284,13 @@
                 <a href="https://open.spotify.com/track/5rAjh9qDtJalKfwgxNk2vt?si=6280e8deeeb24780"><img src="https://img.shields.io/badge/SURF-fef051?style=for-the-badge&logo=spotify&logoColor=1ED760" height=30/></a>
         </li>
         <li>
-                <strong>mecha</strong> the only genre I look towards in anime and I love <a href="https://en.wikipedia.org/wiki/Super_Dimension_Fortress_Macross">Macross</a>
-                <img src="https://github.com/exoad/exoad/blob/main/img/macross-gif.gif?raw=true" />
-        </li>
-        <li>
-                <strong>
+                <strong>mecha</strong> the only genre I look towards in anime. my fav is the <a href="https://en.wikipedia.org/wiki/Super_Dimension_Fortress_Macross">Macross</a> series<br/>
+                <img src="https://github.com/exoad/exoad/blob/main/img/macross.gif?raw=true" />
         </li>
 </ul>
+
+<em>that's it???</em>
+
 </details>
 
 > [!CAUTION]
