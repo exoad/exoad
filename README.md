@@ -707,20 +707,6 @@ Here are some <strong><em>big</em></strong> projects that I have worked on recen
         <br />
         <details>
                 <summary>
-                        <strong>Why the tables on the right of your
-                                profile?</strong>
-                </summary>
-                Haha, well it was the only way to get something like that laid
-                out on
-                the right side in a column form. Otherwise, they would all just
-                be on
-                top of the header. :) (
-                <em>I wasted too much time figuring out GitHub Markdown
-                        limitations</em>
-                )
-        </details>
-        <details>
-                <summary>
                         <strong>Inquiries?</strong>
                 </summary>
                 If you have inquiries regarding my software, give me a forward
