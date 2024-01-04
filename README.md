@@ -312,7 +312,7 @@ fn main(){print!("\n\n\n\n\n");let mut ᚠ=[0x48u8,0x61,0x70,0x70,0x79,0x20,0x4E
 > [!CAUTION]
 > <strong>Currently, I am working on <a href="https://github.com/exoad/Poprock">Poprock</a>!</strong>
 > 
-> *An extensible and lightweight software library for any Java application*
+> *A robust & lightweight framework for developing fast and native applications using the JVM*
 
 Here are some <strong><em>big</em></strong> projects that I have worked on recently
 <ul>
