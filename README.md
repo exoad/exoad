@@ -73,18 +73,6 @@ fn main(){print!("\n\n\n\n\n");let mut ᚠ=[0x48u8,0x61,0x70,0x70,0x79,0x20,0x4E
                 <td align="center">
                         <kbd>
                                 <a
-                                        href="https://www.linkedin.com/in/jiaming-meng-45017a215" target="_blank">
-                                        <img alt="img" align="center"
-                                                src="https://github.com/exoad/exoad/blob/main/img/linkedin-icon.png?raw=true"
-                                                height="44" />
-                                </a>
-                        </kbd>
-                </td>
-        </tr>
-        <tr>
-                <td align="center">
-                        <kbd>
-                                <a
                                         href="https://www.pixiv.net/en/users/71281559" target="_blank">
                                         <img alt="img" align="center"
                                                 src="https://github.com/exoad/exoad/blob/main/img/pixiv-icon.png?raw=true"
