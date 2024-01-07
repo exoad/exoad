@@ -310,7 +310,7 @@ Here are some <strong><em>big</em></strong> projects that I have worked on recen
                                 width="20" />
                         <strong> Yttrius </strong>
                 </a>
-                — A simple and extensible DSL for building programming languages built on top of LLVM
+                — An extensible compiled programming language built ontop of LLVM
         </li>
 
 </ul>
