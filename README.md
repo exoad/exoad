@@ -1,4 +1,4 @@
-> ***"World's shittiest programmer"***
+> ***"world's shittiest programmer"***
 
 <table align="right" style="border: none;" cellspacing="0" cellpadding="0"
         border="0">
