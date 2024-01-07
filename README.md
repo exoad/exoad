@@ -1,3 +1,6 @@
+> *"God's shittiest programmer"*
+> ~ Unknown
+
 <table align="right" style="border: none;" cellspacing="0" cellpadding="0"
         border="0">
         <tr>
