@@ -1,4 +1,4 @@
-> *fuck gpl3*
+> Do not use my artwork.
 
 <table align="right" style="border: none;" cellspacing="0" cellpadding="0"
         border="0">
