@@ -743,6 +743,7 @@ Here are some <strong><em>big</em></strong> projects that I have worked on recen
                         https://github.com/exoad/exoad/pulls
                 </a>
         </details>
+        <!--
         <details>
                 <summary> Cool picture </summary>
                 <div align="center">
@@ -752,6 +753,7 @@ Here are some <strong><em>big</em></strong> projects that I have worked on recen
                 <br />
                 <br />
         </details>
+        -->
 </blockquote>
 
 
