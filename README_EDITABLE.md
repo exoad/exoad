@@ -1,5 +1,3 @@
-> Don't use my work...
-
 <table align="right" style="border: none;" cellspacing="0" cellpadding="0"
         border="0">
         <tr>
