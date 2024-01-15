@@ -690,8 +690,9 @@ Here are some <strong><em>big</em></strong> projects that I have worked on recen
                 <a href="https://code.visualstudio.com/">
                         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"
                                 alt="VSCode" />
-                </a>
-                <a href="https://www.jetbrains.com/idea/">
+                </a><a href="https://www.gnu.org/software/emacs/">
+                        <img src="https://img.shields.io/badge/Emacs-7F5AB6.svg?style=flat-square&logo=gnu-emacs&logoColor=white"alt="Emacs" />
+                </a><a href="https://www.jetbrains.com/idea/">
                         <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"
                                 alt="IntelliJ IDEA" />
                 </a>
