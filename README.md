@@ -1,3 +1,6 @@
+> [!WARNING]
+> ***NOT FOR HIRE OR COLLABORATION***
+
 <table align="right" style="border: none;" cellspacing="0" cellpadding="0" border="0"><tr><td align="center"><kbd><a href="https://github.com/exoad" target="_blank"><img alt="img" align="center" src="https://github.com/exoad/exoad/blob/main/img/github-icon.png?raw=true" height="44" /></a></kbd></td></tr><tr><td align="center"><kbd><a href="https://www.youtube.com/@exoad" target="_blank"><img alt="img" align="center" src="https://github.com/exoad/exoad/blob/main/img/youtube-icon.png?raw=true" height="44" /></a></kbd></td></tr><tr><td align="center"><kbd><a
  href="mailto:exoad@naver.com?subject=to%20exoad" target="_blank"><img alt="img" align="center" src="https://github.com/exoad/exoad/blob/main/img/mail.png?raw=true" height="44" /></a></kbd></td></tr><tr><td align="center"><kbd><a
  href="https://www.reddit.com/user/Chunkyfungus123" target="_blank"><img alt="img" align="center" src="https://github.com/exoad/exoad/blob/main/img/reddit-icon.png?raw=true" height="44" /></a></kbd></td></tr><tr><td align="center"><kbd><a href="https://discord.gg/PbJQRT9zQ8" target="_blank"><img alt="img" align="center" src="https://github.com/exoad/exoad/blob/main/img/discord-icon.png?raw=true" height="44" /></a></kbd></td></tr><tr><td align="center"><kbd><a
