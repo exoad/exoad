@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="linkedin.svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="52.291667"
+     inkscape:cx="11.990438"
+     inkscape:cy="12"
+     inkscape:window-width="2560"
+     inkscape:window-height="1511"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">LinkedIn</title>
+  <path
+     d="m 20.389629,20.471124 h -3.554 v -5.569 c 0,-1.328 -0.027,-3.037 -1.852,-3.037 -1.853,0 -2.136,1.445 -2.136,2.939 v 5.667 H 9.2936295 V 9.0191235 h 3.4139995 v 1.5610005 h 0.046 c 0.477,-0.9000005 1.637,-1.8500005 3.37,-1.8500005 3.601,0 4.267,2.3700005 4.267,5.4550005 v 6.286 z M 5.2796295,7.4521235 c -1.144,0 -2.063,-0.926 -2.063,-2.065 0,-1.138 0.92,-2.063 2.063,-2.063 1.14,0 2.064,0.925 2.064,2.063 0,1.139 -0.925,2.065 -2.064,2.065 z m 1.782,13.0190005 h -3.564 V 9.0191235 h 3.564 z M 22.167629,0.01912351 H 1.7136295 c -0.97900002,0 -1.77100002,0.774 -1.77100002,1.72899999 V 22.290124 c 0,0.956 0.792,1.729 1.77100002,1.729 H 22.164629 c 0.978,0 1.778,-0.773 1.778,-1.729 V 1.7481235 c 0,-0.95499999 -0.8,-1.72899999 -1.778,-1.72899999 z"
+     id="path1"
+     style="fill:#ffffff;fill-opacity:1" />
+</svg>
