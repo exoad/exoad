@@ -14,4 +14,4 @@ electrons in specific patterns
 embrace and foster foss.
 
 no language, toolkit, library, framework
-is bad. your just using it wrong.
+is bad. you're just using it wrong.
