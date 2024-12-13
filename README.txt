@@ -1,6 +1,8 @@
-i love tapping a fancy hunk of metal and demanding hyper-pressurized crystalized 
-sand pancake to perform my bidding
+i love demanding hyper-pressurized 
+crystalized sand pancake to wiggle its 
+electrons in a specific patterns
+
+http://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html
 
 
-r u shit at coding? a whiteboard is ur best friend (or mspaint)
 
