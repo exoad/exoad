@@ -11,4 +11,4 @@
 """
 
 
-embrace and promote foss
+embrace and foster foss
