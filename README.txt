@@ -2,9 +2,9 @@
 
 
         
-        i love demanding hyper-pressurized 
-        crystalized sand pancakes to wiggle its 
-        electrons in a specific patterns
+i love demanding hyper-pressurized 
+crystalized sand pancakes to wiggle its 
+electrons in specific patterns
 
 
 
