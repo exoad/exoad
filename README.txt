@@ -20,3 +20,4 @@ rig:
         - hhkb type s
         - manjaro kde + windows 11
         - vscode + neovim + alacritty
+        - gruvbox
