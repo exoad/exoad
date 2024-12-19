@@ -6,5 +6,14 @@ electrons in specific patterns
 
 """
 
-chad cheap laptop programmer > gaming laptop rtx 16 core 64gb 4tb programmer
+technologies:
+        - c/c++
+        - dart/flutter
+        - kotlin/java/spring
+        - nodejs
 
+my rig (i dont need a good PC);
+        - lenovo ideaPad flex 5 2-in-1 laptop
+                ryzen 7 4700u + 16gb + 512gb
+        - manjaro kde + windows 11
+        - vscode + neovim + alacritty
