@@ -8,9 +8,10 @@ electrons in specific patterns
 
 technologies:
         - c/c++/gl/vk/llvm
-        - dart/flutter/supabase
+        - dart/flutter/supabase/jaspr
         - kotlin/java/spring/javafx/swing
         - js/nodejs/svelte
+        - mysql
 
 rig:
         - cheap laptop = best performing solutions 
