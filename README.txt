@@ -8,10 +8,10 @@ electrons in specific patterns
 
 technologies:
         - c/c++/gl/vk/llvm
-        - dart/flutter/supabase/jaspr
-        - kotlin/java/spring/javafx/swing
+        - dart/flutter/firebase/jaspr
+        - kotlin/java/spring/javafx/swing/mysql
         - js/nodejs/svelte
-        - mysql
+        - aws-ec2
 
 rig:
         - cheap laptop = best performing solutions 
