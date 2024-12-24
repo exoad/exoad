@@ -1,3 +1,4 @@
 
 
-                i make shit.
+                i write code that does stuffs.
+
