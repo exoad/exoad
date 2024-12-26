@@ -3,3 +3,8 @@
   `Y8888888Y'
     `Y888Y'
       `y'        coding my heart out...        
+
+--------------------------------------------
+  my skills
+
+    Java // Haxe // C++ // C // Dart
