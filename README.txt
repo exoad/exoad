@@ -1,10 +1,5 @@
-  ,d88b.d88b,
-  88888888888
-  `Y8888888Y'
-    `Y888Y'
-      `y'        coding my heart out because
-                 it is my therapy and my
-                 expression
+
+      coding is therapy.
                       
 --------------------------------------------
 
