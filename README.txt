@@ -3,7 +3,9 @@
   `Y8888888Y'
     `Y888Y'
       `y'        coding my heart out...        
-
+                 coding is therapy
+                 coding is an expression
+                      
 --------------------------------------------
 
   my skills
