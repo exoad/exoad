@@ -1,19 +1,15 @@
 
-programming in a corpo  
-   job isn’t real   
-       programming—  
-  it’s just office  
-      politics and  
-people bs-ing their  
-way up the "corpo  
-       ladder."  
-   real programming  
-    is what open-   
-    source devs do,  
-only to have their  
-   work leeched by  
-  big corpos for    
-   their ai shit.   
+programming in a corpo
+job isnt realprogramming
+it's just office politics
+and people BS-ing through
+their careers to climb the
+"corpo ladder". 
+real programming happens with
+crazy open-source maintainers 
+that get their work leeched off by 
+big corpos with their AI shit.
+
 
 ---------------------------------------
 
