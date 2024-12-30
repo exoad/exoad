@@ -1,5 +1,8 @@
 
-      coding is therapy.
+"all of the actual programming is done for
+free in solitude by crazy open-source
+maintainers and then ripped off by big
+corporations through AI" -tsoding
                       
 --------------------------------------------
 
