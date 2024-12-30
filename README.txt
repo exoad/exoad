@@ -1,6 +1,7 @@
 
-corporate programming is not programming.
-corporate programming is dead.
+programming in corporate environment is
+already dead, so why are you afraid AI is
+going to take your job ?
 
 --------------------------------------------
 
