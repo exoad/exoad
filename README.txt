@@ -1,7 +1,10 @@
 
-programming in corporate environment is
-already dead, so why are you afraid AI is
-going to take your job ?
+programming in a corpo job isnt real
+programming—it's just office politics and
+people BS-ing through their careers. real
+programming happens with open-source devs
+that get their work leeched off by
+big corpos with their AI shit.
 
 --------------------------------------------
 
