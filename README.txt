@@ -1,14 +1,14 @@
 
-programming in a corpo
-job isnt realprogramming
-it's just office politics
-and people BS-ing through
-their careers to climb the
+programmingin a corpo
+jobisnt realprogramming
+it's just officepolitics
+and peopleBS-ing through
+their careersto climbthe
 "corpo ladder". 
-real programming happens with
+realprogramming happenswith
 crazy open-source maintainers 
-that get their work leeched off by 
-big corpos with their AI shit.
+that gettheir workleeched offby 
+bigcorpos withtheir AIshit.
 
 
 ---------------------------------------
