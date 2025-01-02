@@ -10,12 +10,11 @@ crazy open-source maintainers
 that gettheir workleeched offby 
 bigcorpos withtheir AIshit.
 
-
 ---------------------------------------
 
-  my skills
+my skills
 
-    Java // Haxe // C++ // C // Dart
+  Java // C++ // C // Dart // Python
 
 ---------------------------------------
 
