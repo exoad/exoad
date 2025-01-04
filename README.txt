@@ -14,6 +14,6 @@ bigcorpos withtheir AIshit.
 
 my skills
 
-  Java // C++ // C // Dart // Python
+  Java // C++ // C // Dart // Haxe
 
 ---------------------------------------
