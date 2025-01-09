@@ -2,6 +2,6 @@
 
 my skills
 
-  Java // C++ // C // Dart // Haxe
+   mongodb // llvm // nasm // flutter // nodejs // sdl // spring
 
 
