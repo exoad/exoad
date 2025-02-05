@@ -4,7 +4,7 @@ my skills • mina tekniska färdigheter
 
 my interests • mina tekniska intressen
 
-   llvm | vulkan | spirv | sdf
+   llvm | vulkan | shaders
 _____________________
 
 my chilling vibes coding playlist • avslappnande musik att koda till
