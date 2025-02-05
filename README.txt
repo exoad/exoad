@@ -4,7 +4,7 @@ my skills
 
    java | zig | c++ | c | dart | haxe
 
-----------------------------------------------------------------
+_____________________
 
 chill vibes for coding 
    
@@ -12,6 +12,6 @@ chill vibes for coding
 
 _____________________
 
-email: exoad@naver.com
+email: reachout@exoad.net
 
    email not for hiring, employment solicitations, & corporate partnerships
