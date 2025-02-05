@@ -12,6 +12,6 @@ chill vibes for coding
 
 _____________________
 
-email: exoad@naver.com
+email: mailto://exoad@naver.com
 
    email not for hiring, employment solicitations, & corporate partnerships
