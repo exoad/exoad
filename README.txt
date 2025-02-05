@@ -6,12 +6,12 @@ my skills
 
 _____________________
 
-chill vibes for coding 
+my chilling vibes coding playlist
    
    https://youtube.com/playlist?list=PLqEs6XKcImqwxGV2objacaMbGez-ARKBa&si=q7W4hRnYeDs1SQb-
 
 _____________________
 
-email: reachout@exoad.net
+my email: reachout@exoad.net
 
    not for hiring, employment interests, & corporate partnerships
