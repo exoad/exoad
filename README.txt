@@ -14,4 +14,4 @@ _____________________
 
 email: reachout@exoad.net
 
-   email not for hiring, employment solicitations, & corporate partnerships
+   not for hiring, employment solicitations, & corporate partnerships
