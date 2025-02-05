@@ -9,3 +9,9 @@ my skills
 chill vibes for coding 
    
    https://youtube.com/playlist?list=PLqEs6XKcImqwxGV2objacaMbGez-ARKBa&si=q7W4hRnYeDs1SQb-
+
+_____________________
+
+email: exoad@naver.com
+
+   email not for hiring, employment solicitations, & corporate partnerships
