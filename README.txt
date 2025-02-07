@@ -16,3 +16,7 @@ _____________________
 my email: reachout@exoad.net
 
    not for hiring, employment interests, & corporate partnerships
+
+
+[hey! im learning swedish right now, please let me know if should be adjustments to the wording 
+ here. thank you very much :)]
