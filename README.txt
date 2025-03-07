@@ -1,8 +1,8 @@
-⨍ my skills • mina tekniska färdigheter
+⨍ my skills • 技能 • mina tekniska färdigheter
 
    java | zig | c++ | c | dart | haxe
 
-⨍ my interests • mina tekniska intressen
+⨍ my interests • 在研究 • mina tekniska intressen
 
    llvm + compiler design | vulkan + graphics programming
 
