@@ -1,8 +1,7 @@
-⨍ my skills • 技能 • mina tekniska färdigheter
-
+⨍ my skills • 技能 
    java | c | dart
 
-⨍ my interests • 在研究 • mina tekniska intressen
+⨍ my interests • 在研究 
 
    llvm + compiler design | vulkan + graphics programming
 
