@@ -3,7 +3,7 @@
 
 ⨍ my interests • 在研究 
 
-   llvm + compiler design | vulkan + graphics programming
+   teaching | llvm + compiler design | vulkan + graphics programming
 
 ⨍ my email: reachout@exoad.net
                   └─not for hiring &/or employment interests
