@@ -3,7 +3,7 @@
 
 ⨍ my interests • 在研究 
 
-   higher-ed teaching | compiler & programming lang. design | graphics programming
+   higher-ed teaching | compiler & programming lang. design | shader programming
 
 ⨍ my email: reachout@exoad.net
                └─not for hiring & employment interests
