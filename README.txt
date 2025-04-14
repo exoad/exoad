@@ -1,5 +1,6 @@
 ⨍ my skills • 技能 
-   java | c | dart
+
+   java | c | dart | c++ | kotlin
 
 ⨍ my interests • 在研究 
 
