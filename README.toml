@@ -1,0 +1,18 @@
+[PROFILE]
+NAME = exoad
+ALIAS = Jiaming Meng
+ROLE = hobbyist programmer
+
+[SKILLS_技能]
+LANGUAGE_01 = c
+LANGUAGE_02 = java
+LANGUAGE_03 = dart
+LANGUAGE_04 = kotlin
+
+[INTERESTS_在研究]
+INTEREST_01 = graphics_programming
+INTEREST_02 = compiler_design
+
+[CONTACT]
+EMAIL = reachout@exoad.net
+EMAIL_NOTE = Not for Hiring & Employment Interests
