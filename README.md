@@ -1,5 +1,13 @@
+
 ```console
-$ > man exoad
+[root@viewer:~]# exoad view profile --now
+bash: exoad: command not found
+[root@viewer:~]# sudo apt-get install exoad 
+The following NEW packages will be installed:
+  exoad
+Setting up exoad (1.0.0)...
+Processing triggers for man-db (2.9.1-1) ...
+[root@viewer:~]# man exoad
 USER(1)                        General Commands Manual                        USER(1)
 
 NAME
@@ -33,3 +41,5 @@ SEE ALSO
     README(1), HELP(1)
 
 USER(1)                        General Commands Manual                        USER(1)
+[root@viewer:~]# 
+```
