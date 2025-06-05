@@ -7,7 +7,8 @@ SKILLS [技能] :
 INTERESTS [在研究] :
   + graphics programming
   + computer architecture
-  + hiking & indoor rock climbing
+  + hiking 
+  + indoor rock climbing
 
 --------------------------
 EMAIL = reachout@exoad.net
