@@ -6,6 +6,7 @@ SKILLS [技能] :
 
 INTERESTS [在研究] :
   + graphics programming
+  + x86
   + hiking & indoor rock climbing
 
 --------------------------
