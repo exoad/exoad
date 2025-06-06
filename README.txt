@@ -1,8 +1,6 @@
 SKILLS [技能] :
   + c
-  + java
   + dart
-  + kotlin
 
 INTERESTS [在研究] :
   + graphics programming
