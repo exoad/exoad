@@ -1,3 +1,5 @@
+a guy who has a rice cooker
+
 SKILLS [技能] :
   + c
   + dart
@@ -8,8 +10,6 @@ INTERESTS [在研究] :
   + computer architecture
   + hiking 
   + rock climbing
-
-i also have a rice cooker :)
 
 --------------------------
 EMAIL = reachout@exoad.net
