@@ -1,5 +1,3 @@
-a guy who has a rice cooker
-
 SKILLS [技能] :
   + c
   + dart
