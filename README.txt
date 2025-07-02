@@ -9,6 +9,8 @@ INTERESTS [在研究] :
   + hiking 
   + rock climbing
 
+i also have a rice cooker :)
+
 --------------------------
 EMAIL = reachout@exoad.net
         ^
