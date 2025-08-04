@@ -1,6 +1,7 @@
 SKILLS [技能] :
   + c
   + jvm
+  + dart/flutter
 
 INTERESTS [在研究] :
   + graphics programming
