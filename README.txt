@@ -3,7 +3,7 @@ SKILLS [技能] :
   + jvm
   + dart/flutter
 
-INTERESTS [在研究] :
+INTERESTS [爱好/在研究] :
   + graphics programming
   + computer architecture
   + hiking 
