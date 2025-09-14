@@ -7,7 +7,6 @@ INTERESTS [爱好/在研究] :
   + graphics programming
   + computer architecture
   + hiking 
-  + bouldering
 
 --------------------------
 EMAIL = reachout@exoad.net
