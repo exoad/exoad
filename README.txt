@@ -4,7 +4,6 @@ SKILLS [技能] :
   + dart/flutter
 
 INTERESTS [爱好/在研究] :
-  + graphics programming
   + computer architecture
   + hiking 
 
