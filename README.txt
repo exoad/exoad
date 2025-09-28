@@ -1,10 +1,10 @@
   ,  .   .          .         *         .   .       *
  ((             .      skills // 技能           .      .
-(((        *     [c]  [jvm]  [flutter]      .                 *
+(((        *     [c]~+~[jvm]~+~[flutter]      .                 *
  ((     *          .              .           *       .      *
   `.        *               .        .      .      .   .        .
               .    interests 爱好 // 在研究              .
-      *   [computer architecture]  [compilers]  [hiking]           *
+      *   [computer architecture]~+~[compilers]~+~[hiking]           *
    .              .           *          .          .   *
  .       *                          .                  .      .   *
                   email -> reachout@exoad.net
