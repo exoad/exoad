@@ -3,7 +3,7 @@
 (((        *     [c]  [jvm]  [flutter]      .                 *
  ((     *          .              .           *       .      *
   `.        *               .        .      .      .   .        .
-              .    interests 爱好 // 在研究]             .
+              .    interests 爱好 // 在研究              .
       *   [computer architecture]  [compilers]  [hiking]           *
    .              .           *          .          .   *
  .       *                          .                  .      .   *
