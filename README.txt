@@ -4,7 +4,7 @@
  ((     *          .              .           *       .      *
   `.        *               .        .      .      .   .        .
               .    interests 爱好 // 在研究              .
-      *   [computer architecture]~+~[compilers]~+~[hiking]           *
+      *   [machine_learning]~+~[compilers]~+~[hiking]           *
    .              .           *          .          .   *
  .       *                          .                  .      .   *
                   email -> reachout@exoad.net
