@@ -4,7 +4,7 @@
  ((     *          .              .           *       .      *
   `.        *               .        .      .      .   .        .
               .    interests 爱好 // 在研究              .
-      *   [machine_learning]~+~[compilers]~+~[hiking]           *
+      *   [machine_learning]~+~[compilers]~+~[mobile_dev]       *
    .              .           *          .          .   *
  .       *                          .                  .      .   *
                   email -> reachout@exoad.net
