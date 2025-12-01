@@ -1,1 +1,1 @@
-> i make whatever is on my mind
+> i dont squash my commits.
