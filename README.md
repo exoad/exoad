@@ -1,1 +1,1 @@
-**I don't use GitHub anymore. All my repositories here are mirrors from my server.**
+**I don't use GitHub anymore. Current repositories are mirrored from my server.**
